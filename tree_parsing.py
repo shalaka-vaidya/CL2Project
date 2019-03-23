@@ -1,0 +1,77 @@
+# -*- coding: utf-8 -*-
+
+from __future__ import unicode_literals
+from isc_parser import Parser
+import networkx as nx
+import nltk
+import matplotlib.pyplot as plt
+from matplotlib.font_manager import FontProperties
+
+def relationDic(tree):
+	pcrelation=[]
+	for i in range(len(tree)):
+		sublist=[]
+		sublist.append(int(tree[i][0]))
+		sublist.append(tree[i][6])
+		sublist.append(tree[i][7])
+		pcrelation.append(sublist)
+	return pcrelation
+	
+def childrenConfig(tree):
+	for i in range(len(tree)):
+		tree[i].append([])
+		tree[i][0]=int(tree[i][0])
+		tree[i][6]=int(tree[i][6])
+		#tree[6]=int(tree[6])
+	for i in range(len(tree)):
+		parentId=tree[i][6]
+		if (parentId !=0):
+			tree[int(parentId)-1][-1].append(i+1)
+	return tree
+
+def graphMaking(tree):
+	graph=nx.Graph();
+	plt.figure()
+	labelDic={}
+	nodeLabels={}
+	nodeLabels[0]="dummy"
+	for word in tree:
+		print(word)
+		nodetup=(word[0],word[6])
+		graph.add_edge(nodetup[0],nodetup[1])
+		labelDic[nodetup]=word[7]
+		print(word[1])
+		nodeLabels[nodetup[0]]=nodetup[0]
+	pos=nx.spring_layout(graph)
+	nx.draw(graph,pos,edge_color='black',width=1,linewidths=1,node_size=500,node_color='pink',alpha=0.9,labels={node:node for node in graph.nodes()})
+	nx.draw_networkx_edge_labels(graph,pos,edge_labels=labelDic)
+	plt.axis('off')
+	plt.show()
+	return graph
+		
+def parsing(fname):
+	fp = open(fname,"r")
+	text = fp.read()
+	sent=text.split("।")
+	parser = Parser(lang='hin')
+	for i in range(len(sent)):
+		if (sent[i] != "\n"):
+			print ("SENTENCE", sent[i])
+			words=sent[i].split()
+			tree= parser.parse(words)
+			graph=graphMaking(tree)
+			"""treeWithChildren= childrenConfig(tree)
+			for wordInfo in treeWithChildren:
+				print(wordInfo)
+			print();
+			patrentChild=[]
+			parentChildRelation=relationDic(treeWithChildren)
+			for wordInfo in parentChildRelation:
+				print(wordInfo)
+			print()"""
+	
+def main():
+	fname="../stories/story1"
+	parsing(fname)
+	
+main()
