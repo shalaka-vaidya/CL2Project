@@ -6,6 +6,7 @@ import networkx as nx
 import nltk
 import matplotlib.pyplot as plt
 from matplotlib.font_manager import FontProperties
+import re
 
 def relationDic(tree):
 	pcrelation=[]
@@ -40,7 +41,6 @@ def graphMaking(tree):
 		nodetup=(word[0],word[6])
 		graph.add_edge(nodetup[0],nodetup[1])
 		labelDic[nodetup]=word[7]
-		print(word[1])
 		nodeLabels[nodetup[0]]=nodetup[0]
 	pos=nx.spring_layout(graph)
 	nx.draw(graph,pos,edge_color='black',width=1,linewidths=1,node_size=500,node_color='pink',alpha=0.9,labels={node:node for node in graph.nodes()})
@@ -49,17 +49,28 @@ def graphMaking(tree):
 	plt.show()
 	return graph
 		
+
+def printMainVerb(tree):
+	for word in tree:
+		if (word[7]=='main'):
+			return word
+			
 def parsing(fname):
 	fp = open(fname,"r")
 	text = fp.read()
-	sent=text.split("।")
+	#sent=text.split("।")
+	sent=re.split('।|,',text)
 	parser = Parser(lang='hin')
+	listMainVerb=[]
 	for i in range(len(sent)):
 		if (sent[i] != "\n"):
 			print ("SENTENCE", sent[i])
 			words=sent[i].split()
 			tree= parser.parse(words)
 			graph=graphMaking(tree)
+			mainWord=printMainVerb(tree)
+			if mainWord is not None:
+				listMainVerb.append(mainWord)
 			"""treeWithChildren= childrenConfig(tree)
 			for wordInfo in treeWithChildren:
 				print(wordInfo)
@@ -69,9 +80,13 @@ def parsing(fname):
 			for wordInfo in parentChildRelation:
 				print(wordInfo)
 			print()"""
+			
+	print()
+	for mainVerb in listMainVerb:
+		print(mainVerb)
 	
 def main():
-	fname="../stories/story1"
+	fname="../../stories/story1"
 	parsing(fname)
 	
 main()
