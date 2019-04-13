@@ -9,6 +9,9 @@ from matplotlib.font_manager import FontProperties
 import re
 from indic_transliteration import xsanscript
 from indic_transliteration.xsanscript import transliterate
+import json
+
+data = {}
 
 def relationDic(tree):
 	pcrelation=[]
@@ -33,7 +36,7 @@ def childrenConfig(tree):
 	return tree
 
 def graphMaking(tree):
-	graph=nx.Graph();
+	graph=nx.DiGraph()
 	plt.figure()
 	labelDic={}
 	nodeLabels={}
@@ -41,7 +44,8 @@ def graphMaking(tree):
 	for word in tree:
 		#print(word)
 		nodetup=(word[0],word[6])
-		graph.add_edge(nodetup[0],nodetup[1])
+		graph.add_edge(nodetup[1],nodetup[0])
+		graph[nodetup[1]][nodetup[0]]["relation"]=word[7]
 		labelDic[nodetup]=word[7]
 		actualWord=word[1]
 		nodeLabels[nodetup[0]]=transliterate(actualWord, xsanscript.DEVANAGARI, xsanscript.HK)
@@ -50,14 +54,74 @@ def graphMaking(tree):
 	nx.draw_networkx_edge_labels(graph,pos,edge_labels=labelDic)
 	plt.axis('off')
 	plt.show()
-	return graph
+	return graph, nodeLabels
 		
 
 def printMainVerb(tree):
 	for word in tree:
 		if (word[7]=='main'):
 			return word
-			
+
+def templateReturn(template, neighbours):
+	result=[]
+	flag=1
+	for neighbour, relation in neighbours.items():
+		if relation==template:
+			result.append(neighbour)
+			flag=0
+	if flag==1:
+		result=[-1]
+	return result
+
+def populateData(graph,nodeLabels,episode_title):
+	neighbours=graph['0']
+	main_template={"relation": "main"}
+	karta_template = {"relation": "k1"}
+	karma_template = {"relation": "k2"}
+	prep_template = {"relation": "lwg__psp"}
+	adj_template = {"relation": "nmod__adj"}
+	karta_prepList = []
+	karta_adjList = []
+	karma_prepList = []
+	karma_adjList = []
+	mainVerb=templateReturn(main_template, neighbours)
+
+	edges_data = graph.edges.data()
+	for edge in edges_data:
+		if edge[2]['relation'] == 'k7t':
+			adj_time = templateReturn(adj_template, graph[edge[1]])
+			data[episode_title]['time'] = (adj_time[0], edge[1])
+		if edge[2]['relation'] == 'k7p':
+			adj_place = templateReturn(adj_template, graph[edge[1]])
+			prep_place = templateReturn(prep_template, graph[edge[1]])
+			data[episode_title]['location'] = (adj_place[0], edge[1], prep_place[0])
+
+	if mainVerb[0]!=-1 and nodeLabels[mainVerb[0]]!='hai':
+		mainverb_neigbours=graph[mainVerb[0]]
+		karta=templateReturn(karta_template,mainverb_neigbours)
+		karma=templateReturn(karma_template,mainverb_neigbours)
+		for singleKarta in karta:
+			if singleKarta!=-1:
+				karta_prepList.append([singleKarta, templateReturn(prep_template, graph[singleKarta])])
+				karta_adjList.append([singleKarta, templateReturn(adj_template, graph[singleKarta])])
+		#print("kartaprepList", karta_prepList)
+		#print("kartaadjList", karta_adjList)
+		for singleKarma in karma:
+			if singleKarma != -1:
+				karma_prepList.append([singleKarma, templateReturn(prep_template, graph[singleKarma])])
+				karma_adjList.append([singleKarma, templateReturn(adj_template, graph[singleKarma])])
+		#print("karmaprepList", karma_prepList)
+		#print("karmaadjList", karma_adjList)
+		data[episode_title]['kartaprep']=karta_prepList
+		data[episode_title]['kartaadj'] = karta_adjList
+		data[episode_title]['karmaprep'] = karma_prepList
+		data[episode_title]['karmaadj'] = karma_adjList
+
+	#time and place populating
+
+#print("HAHAHAHA", graph.edges.data())
+	#print(graph.edges_iter(data='relation'))
+
 def parsing(fname):
 	fp = open(fname,"r")
 	text = fp.read()
@@ -71,10 +135,10 @@ def parsing(fname):
 			words=sent[i].split()
 			tree= parser.parse(words)
 			print(tree)
-			graph=graphMaking(tree)
-			mainWord=printMainVerb(tree)
+			graph, nodelabels=graphMaking(tree)
+			"""mainWord=printMainVerb(tree)
 			if mainWord is not None:
-				listMainVerb.append(mainWord)
+				listMainVerb.append(mainWord)"""
 			"""treeWithChildren= childrenConfig(tree)
 			for wordInfo in treeWithChildren:
 				print(wordInfo)
@@ -84,13 +148,34 @@ def parsing(fname):
 			for wordInfo in parentChildRelation:
 				print(wordInfo)
 			print()"""
+
+
+			Episode_Title = "episode" + "_" + str(i)
+			data[Episode_Title] = {}
+			data[Episode_Title]={
+				'sentence_id': str(i),
+				"actual_sentence": sent[i],
+				'time': 'tbd',
+				'location': 'tbd',
+				'kartaprep': 'tbd',
+				'kartaadj': 'tbd',
+				'karmaprep': 'tbd',
+				'karmaadj': 'tbd',
+			}
+			populateData(graph, nodelabels, Episode_Title)
+			print(data[Episode_Title])
 			
 	print()
-	for mainVerb in listMainVerb:
+	print('DATAAAAAAAAAAAA')
+	for singleData, val in data.items():
+		print(singleData, val)
+	"""for mainVerb in listMainVerb:
 		print(mainVerb)
-	
+	"""
 def main():
-	fname="../../stories/story1"
+	fname="../../stories/story2"
 	parsing(fname)
+	with open('StoryGrammer.json', 'w') as outfile:
+		json.dump(data, outfile)
 	
 main()
