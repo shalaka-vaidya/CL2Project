@@ -11,6 +11,8 @@ from indic_transliteration import xsanscript
 from indic_transliteration.xsanscript import transliterate
 import json
 
+'first commit'
+
 data = {}
 
 def relationDic(tree):
