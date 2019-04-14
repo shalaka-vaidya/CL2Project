@@ -53,7 +53,7 @@ def graphMaking(tree):
 	nx.draw(graph,pos,edge_color='black',width=1,linewidths=1,node_size=500,node_color='pink',alpha=0.9,labels=nodeLabels)
 	nx.draw_networkx_edge_labels(graph,pos,edge_labels=labelDic)
 	plt.axis('off')
-	plt.show()
+	#plt.show()
 	return graph, nodeLabels
 		
 
@@ -154,7 +154,7 @@ def parsing(fname):
 			data[Episode_Title] = {}
 			data[Episode_Title]={
 				'sentence_id': str(i),
-				"actual_sentence": sent[i],
+				"actual_sentence": transliterate(sent[i], xsanscript.DEVANAGARI, xsanscript.HK),
 				'time': 'tbd',
 				'location': 'tbd',
 				'kartaprep': 'tbd',
