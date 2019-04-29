@@ -11,8 +11,6 @@ from indic_transliteration import xsanscript
 from indic_transliteration.xsanscript import transliterate
 import json
 
-'first commit'
-
 data = {}
 
 def relationDic(tree):
@@ -38,22 +36,22 @@ def childrenConfig(tree):
 	return tree
 
 def graphMaking(tree):
-	graph=nx.DiGraph()
+	graph = nx.DiGraph()
 	plt.figure()
-	labelDic={}
-	nodeLabels={}
-	nodeLabels['0']="dummy"
+	labelDic = {}
+	nodeLabels = {}
+	nodeLabels['0'] = "dummy"
 	for word in tree:
 		#print(word)
-		nodetup=(word[0],word[6])
-		graph.add_edge(nodetup[1],nodetup[0])
-		graph[nodetup[1]][nodetup[0]]["relation"]=word[7]
-		labelDic[nodetup]=word[7]
-		actualWord=word[1]
-		nodeLabels[nodetup[0]]=transliterate(actualWord, xsanscript.DEVANAGARI, xsanscript.HK)
-	pos=nx.spring_layout(graph)
-	nx.draw(graph,pos,edge_color='black',width=1,linewidths=1,node_size=500,node_color='pink',alpha=0.9,labels=nodeLabels)
-	nx.draw_networkx_edge_labels(graph,pos,edge_labels=labelDic)
+		nodetup = (word[0], word[6])
+		graph.add_edge(nodetup[1], nodetup[0])
+		graph[nodetup[1]][nodetup[0]]["relation"] = word[7]
+		labelDic[nodetup] = word[7]
+		actualWord = word[1]
+		nodeLabels[nodetup[0]] = transliterate(actualWord, xsanscript.DEVANAGARI, xsanscript.HK)
+	pos = nx.spring_layout(graph)
+	nx.draw(graph, pos, edge_color='black', width=1, linewidths=1, node_size=500, node_color='pink', alpha=0.9, labels=nodeLabels)
+	nx.draw_networkx_edge_labels(graph, pos, edge_labels=labelDic)
 	plt.axis('off')
 	#plt.show()
 	return graph, nodeLabels
@@ -61,7 +59,7 @@ def graphMaking(tree):
 
 def printMainVerb(tree):
 	for word in tree:
-		if (word[7]=='main'):
+		if word[7] == 'main':
 			return word
 
 def templateReturn(template, neighbours):
@@ -102,6 +100,7 @@ def populateData(graph,nodeLabels,episode_title):
 		mainverb_neigbours=graph[mainVerb[0]]
 		karta=templateReturn(karta_template,mainverb_neigbours)
 		karma=templateReturn(karma_template,mainverb_neigbours)
+		print("KARTA", karta)
 		for singleKarta in karta:
 			if singleKarta!=-1:
 				karta_prepList.append([singleKarta, templateReturn(prep_template, graph[singleKarta])])
@@ -114,70 +113,85 @@ def populateData(graph,nodeLabels,episode_title):
 				karma_adjList.append([singleKarma, templateReturn(adj_template, graph[singleKarma])])
 		#print("karmaprepList", karma_prepList)
 		#print("karmaadjList", karma_adjList)
-		data[episode_title]['kartaprep']=karta_prepList
+		data[episode_title]['kartaprep'] = karta_prepList
 		data[episode_title]['kartaadj'] = karta_adjList
 		data[episode_title]['karmaprep'] = karma_prepList
 		data[episode_title]['karmaadj'] = karma_adjList
+		#print("sent", data[episode_title]['actual_sentence'])
+		#print("KARTA_adj", karta_prepList)
 
 	#time and place populating
 
-#print("HAHAHAHA", graph.edges.data())
-	#print(graph.edges_iter(data='relation'))
-
 def parsing(fname):
-	fp = open(fname,"r")
+	fp = open(fname, "r")
 	text = fp.read()
-	#sent=text.split("।")
-	sent=re.split('।|,',text)
+	sent = re.split('।', text)
 	parser = Parser(lang='hin')
-	listMainVerb=[]
+	epi_key=0
 	for i in range(len(sent)):
+		flag_comma = 0
 		if (sent[i] != "\n"):
-			print ("SENTENCE", sent[i])
-			words=sent[i].split()
-			tree= parser.parse(words)
-			print(tree)
-			graph, nodelabels=graphMaking(tree)
-			"""mainWord=printMainVerb(tree)
-			if mainWord is not None:
-				listMainVerb.append(mainWord)"""
-			"""treeWithChildren= childrenConfig(tree)
-			for wordInfo in treeWithChildren:
-				print(wordInfo)
-			print();
-			patrentChild=[]
-			parentChildRelation=relationDic(treeWithChildren)
-			for wordInfo in parentChildRelation:
-				print(wordInfo)
-			print()"""
+			if (',' in sent[i]):
+				flag_comma=1
+			subset_sent=re.split(',', sent[i])
+			for subsent in subset_sent:
+				words = subsent.split()
+				tree = parser.parse(words)
+				for word in tree:
+					word[1]=transliterate(word[1], xsanscript.DEVANAGARI, xsanscript.HK)
+					word[2]=transliterate(word[2], xsanscript.DEVANAGARI, xsanscript.HK)
+				graph, nodelabels = graphMaking(tree)
+				Episode_Title = epi_key
+				epi_key += 1
+				data[Episode_Title] = {}
+				data[Episode_Title]={
+					'sentence_id': str(Episode_Title),
+					'parser_output': tree,
+					'actual_sentence': transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK),
+					'time': 'tbd',
+					'location': 'tbd',
+					'kartaprep': 'tbd',
+					'kartaadj': 'tbd',
+					'karmaprep': 'tbd',
+					'karmaadj': 'tbd',
+					'given': 'tbd',
+					'new': 'tbd',
+					'karta': 'tbd',
+				}
+				print("actual", data[Episode_Title]['actual_sentence'])
+				if flag_comma==1 and subset_sent[0]!=subsent:
+					data[Episode_Title]['given']=transliterate(subset_sent[subset_sent.index(subsent)-1], xsanscript.DEVANAGARI, xsanscript.HK)
+					data[Episode_Title]['new']=transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK)
+				populateData(graph, nodelabels, Episode_Title)
 
 
-			Episode_Title = "episode" + "_" + str(i)
-			data[Episode_Title] = {}
-			data[Episode_Title]={
-				'sentence_id': str(i),
-				"actual_sentence": transliterate(sent[i], xsanscript.DEVANAGARI, xsanscript.HK),
-				'time': 'tbd',
-				'location': 'tbd',
-				'kartaprep': 'tbd',
-				'kartaadj': 'tbd',
-				'karmaprep': 'tbd',
-				'karmaadj': 'tbd',
-			}
-			populateData(graph, nodelabels, Episode_Title)
-			print(data[Episode_Title])
-			
-	print()
+				print("DATAAA", data)
+
+	for key in data.keys():
+		if data[key]['time']=='tbd' and key!=0:
+			data[key]['time']=data[key-1]['time']
+		if data[key]['location'] == 'tbd' and key != 0:
+			data[key]['location'] = data[key-1]['location']
+		if (len(data[key]['kartaprep'])!=0 and data[key]['kartaprep']!='tbd' ):
+			par_index=int(data[key]['kartaprep'][-1][0])
+			if data[key]['parser_output'][par_index-1][3]=='PRP':
+				data[key]['karta'] = data[key-1]['karta']
+			else:
+				data[key]['karta'] = transliterate(data[key]['parser_output'][par_index-1][1], xsanscript.DEVANAGARI, xsanscript.HK)
+	"""print()
 	print('DATAAAAAAAAAAAA')
 	for singleData, val in data.items():
-		print(singleData, val)
+		print(singleData, val)"""
 	"""for mainVerb in listMainVerb:
 		print(mainVerb)
 	"""
+
+
 def main():
-	fname="../../stories/story2"
+	fname = "stories/story1"
 	parsing(fname)
 	with open('StoryGrammer.json', 'w') as outfile:
 		json.dump(data, outfile)
+
 	
 main()
