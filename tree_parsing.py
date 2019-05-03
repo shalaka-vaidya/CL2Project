@@ -80,6 +80,8 @@ def populateData(graph,nodeLabels,episode_title):
 	karma_template = {"relation": "k2"}
 	prep_template = {"relation": "lwg__psp"}
 	adj_template = {"relation": "nmod__adj"}
+	r6_template = {"relation": "r6"}
+	adv_template = {"relation": "adv"}
 	karta_prepList = []
 	karta_adjList = []
 	karma_prepList = []
@@ -90,17 +92,38 @@ def populateData(graph,nodeLabels,episode_title):
 	for edge in edges_data:
 		if edge[2]['relation'] == 'k7t':
 			adj_time = templateReturn(adj_template, graph[edge[1]])
-			data[episode_title]['time'] = (adj_time[0], edge[1])
+			#data[episode_title]['time'] = (adj_time[0], edge[1])
+			adv_time = templateReturn(adv_template, graph[edge[1]])
+			r6_time = templateReturn(r6_template,graph[edge[1]])
+			time_sent=""
+			if adj_time[0]!=-1:
+				time_sent+=nodeLabels[adj_time[0]]+' '
+			if adv_time[0]!=-1:
+				time_sent+=nodeLabels[adv_time[0]]+' '
+			if r6_time[0] != -1:
+				time_sent += nodeLabels[r6_time[0]]+' '
+			time_sent+=nodeLabels[edge[1]]
+			data[episode_title]['time'] = time_sent
 		if edge[2]['relation'] == 'k7p':
 			adj_place = templateReturn(adj_template, graph[edge[1]])
 			prep_place = templateReturn(prep_template, graph[edge[1]])
-			data[episode_title]['location'] = (adj_place[0], edge[1], prep_place[0])
-
+			#data[episode_title]['location'] = (adj_place[0], edge[1], prep_place[0])
+			place_sent=''
+			if adj_place[0] == -1:
+				place_sent = ""
+			else:
+				place_sent += nodeLabels[adj_place[0]]
+			place_sent += " " + nodeLabels[edge[1]]
+			if prep_place[0] == -1:
+				place_sent = ""
+			else:
+				place_sent += " "+nodeLabels[prep_place[0]]
+			data[episode_title]['location']=place_sent
 	if mainVerb[0]!=-1 and nodeLabels[mainVerb[0]]!='hai':
 		mainverb_neigbours=graph[mainVerb[0]]
 		karta=templateReturn(karta_template,mainverb_neigbours)
 		karma=templateReturn(karma_template,mainverb_neigbours)
-		print("KARTA", karta)
+		#print("KARTA", karta)
 		for singleKarta in karta:
 			if singleKarta!=-1:
 				karta_prepList.append([singleKarta, templateReturn(prep_template, graph[singleKarta])])
@@ -146,17 +169,17 @@ def parsing(fname):
 				data[Episode_Title] = {}
 				data[Episode_Title]={
 					'sentence_id': str(Episode_Title),
-					'parser_output': tree,
 					'actual_sentence': transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK),
 					'time': 'tbd',
 					'location': 'tbd',
+					'karta': 'tbd',
+					'given': 'tbd',
+					'new': 'tbd',
 					'kartaprep': 'tbd',
 					'kartaadj': 'tbd',
 					'karmaprep': 'tbd',
 					'karmaadj': 'tbd',
-					'given': 'tbd',
-					'new': 'tbd',
-					'karta': 'tbd',
+					'parser_output': tree,
 				}
 				print("actual", data[Episode_Title]['actual_sentence'])
 				if flag_comma==1 and subset_sent[0]!=subsent:
@@ -165,7 +188,7 @@ def parsing(fname):
 				populateData(graph, nodelabels, Episode_Title)
 
 
-				print("DATAAA", data)
+				#print("DATAAA", data)
 
 	for key in data.keys():
 		if data[key]['time']=='tbd' and key!=0:
@@ -175,9 +198,9 @@ def parsing(fname):
 		if (len(data[key]['kartaprep'])!=0 and data[key]['kartaprep']!='tbd' ):
 			par_index=int(data[key]['kartaprep'][-1][0])
 			if data[key]['parser_output'][par_index-1][3]=='PRP':
-				data[key]['karta'] = data[key-1]['karta']
+				data[key]['karta'] = [par_index,data[key-1]['karta'][1]]
 			else:
-				data[key]['karta'] = transliterate(data[key]['parser_output'][par_index-1][1], xsanscript.DEVANAGARI, xsanscript.HK)
+				data[key]['karta'] = [par_index,transliterate(data[key]['parser_output'][par_index-1][1], xsanscript.DEVANAGARI, xsanscript.HK)]
 	"""print()
 	print('DATAAAAAAAAAAAA')
 	for singleData, val in data.items():
@@ -188,10 +211,20 @@ def parsing(fname):
 
 
 def main():
-	fname = "stories/story1"
-	parsing(fname)
-	with open('StoryGrammer.json', 'w') as outfile:
-		json.dump(data, outfile)
+	frange=['1','2','11','12','13','14','15']
+	#frange=['15']
+	for fno in frange:
+		fname = "stories/story"+ fno
+		print("storyyyy", fname)
+		parsing(fname)
+		with open('StoryGrammer'+fno+'.json', 'w') as outfile:
+			json.dump(data, outfile)
+
+		fh=open ('readableSg'+fno+'.txt','w')
+		for key, val in data.items():
+			fh.write(str(val))
+			fh.write('\n')
+		fh.close()
 
 	
 main()
