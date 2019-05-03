@@ -12,6 +12,19 @@ from indic_transliteration.xsanscript import transliterate
 import json
 
 data = {}
+main_template={"relation": "main"}
+karta_template = {"relation": "k1"}
+karma_template = {"relation": "k2"}
+prep_template = {"relation": "lwg__psp"}
+adj_template = {"relation": "nmod__adj"}
+r6_template = {"relation": "r6"}
+adv_template = {"relation": "adv"}
+rcp1_template = {"relation": "k4"}
+rcp2_template = {"relation": "k4a"}
+intf_template = {"relation": "jjmod__intf"}
+k1s_template = {"relation": "k1s"}
+pof_template = {"relation": "pof"}
+k7_template = {"relation": "k7"}
 
 def relationDic(tree):
 	pcrelation=[]
@@ -75,13 +88,6 @@ def templateReturn(template, neighbours):
 
 def populateData(graph,nodeLabels,episode_title):
 	neighbours=graph['0']
-	main_template={"relation": "main"}
-	karta_template = {"relation": "k1"}
-	karma_template = {"relation": "k2"}
-	prep_template = {"relation": "lwg__psp"}
-	adj_template = {"relation": "nmod__adj"}
-	r6_template = {"relation": "r6"}
-	adv_template = {"relation": "adv"}
 	karta_prepList = []
 	karta_adjList = []
 	karma_prepList = []
@@ -147,6 +153,7 @@ def populateData(graph,nodeLabels,episode_title):
 
 def parsing(fname):
 	fp = open(fname, "r")
+	splitter = [",", "अौर", "कि", "पर", "कर"]
 	text = fp.read()
 	sent = re.split('।', text)
 	parser = Parser(lang='hin')
@@ -154,9 +161,10 @@ def parsing(fname):
 	for i in range(len(sent)):
 		flag_comma = 0
 		if (sent[i] != "\n"):
-			if (',' in sent[i]):
+			if any(split in sent[i] for split in splitter):
+			#if (',' in sent[i]):
 				flag_comma=1
-			subset_sent=re.split(',', sent[i])
+			subset_sent=re.split(',|अौर|कि|पर|कर', sent[i])
 			for subsent in subset_sent:
 				words = subsent.split()
 				tree = parser.parse(words)
@@ -208,23 +216,4 @@ def parsing(fname):
 	"""for mainVerb in listMainVerb:
 		print(mainVerb)
 	"""
-
-
-def main():
-	frange=['1','2','11','12','13','14','15']
-	#frange=['15']
-	for fno in frange:
-		fname = "stories/story"+ fno
-		print("storyyyy", fname)
-		parsing(fname)
-		with open('StoryGrammer'+fno+'.json', 'w') as outfile:
-			json.dump(data, outfile)
-
-		fh=open ('readableSg'+fno+'.txt','w')
-		for key, val in data.items():
-			fh.write(str(val))
-			fh.write('\n')
-		fh.close()
-
-	
-main()
+	return(data)
