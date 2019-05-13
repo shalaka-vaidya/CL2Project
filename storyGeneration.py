@@ -1,8 +1,8 @@
 import tree_parsing
 import json
 def main():
-    frange = ['1', '2', '11', '12', '13', '14', '15']
-    # frange=['15']
+    #frange = ['1', '2', '11', '12', '13', '14', '15']
+    frange=['12']
     for fno in frange:
         fname = "stories/story" + fno
         print("storyyyy", fname)
@@ -13,8 +13,10 @@ def main():
         fh = open('readableSg' + fno + '.txt', 'w')
         for key, val in data_received.items():
             fh.write(str(val))
-            fh.write('\n')
+            fh.write('\n\n')
         fh.close()
+
+        print("DONE")
 
 
 main()

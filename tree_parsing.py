@@ -113,6 +113,7 @@ def populateData(graph,nodeLabels,episode_title):
 		if edge[2]['relation'] == 'k7p':
 			adj_place = templateReturn(adj_template, graph[edge[1]])
 			prep_place = templateReturn(prep_template, graph[edge[1]])
+			#print("CHECKKKKKKK", type(graph[edge[1]]))
 			#data[episode_title]['location'] = (adj_place[0], edge[1], prep_place[0])
 			place_sent=''
 			if adj_place[0] == -1:
@@ -153,7 +154,7 @@ def populateData(graph,nodeLabels,episode_title):
 
 def parsing(fname):
 	fp = open(fname, "r")
-	splitter = [",", "अौर", "कि", "पर", "कर"]
+	splitter = [",", "और ", "कि", "पर", "कर", "फिर", "इसीलिए", "तब" ]
 	text = fp.read()
 	sent = re.split('।', text)
 	parser = Parser(lang='hin')
@@ -164,39 +165,41 @@ def parsing(fname):
 			if any(split in sent[i] for split in splitter):
 			#if (',' in sent[i]):
 				flag_comma=1
-			subset_sent=re.split(',|अौर|कि|पर|कर', sent[i])
+			subset_sent=re.split(',| और | कि | पर |कर | फिर | इसीलिए | तब ', sent[i])
 			for subsent in subset_sent:
-				words = subsent.split()
-				tree = parser.parse(words)
-				for word in tree:
-					word[1]=transliterate(word[1], xsanscript.DEVANAGARI, xsanscript.HK)
-					word[2]=transliterate(word[2], xsanscript.DEVANAGARI, xsanscript.HK)
-				graph, nodelabels = graphMaking(tree)
-				Episode_Title = epi_key
-				epi_key += 1
-				data[Episode_Title] = {}
-				data[Episode_Title]={
-					'sentence_id': str(Episode_Title),
-					'actual_sentence': transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK),
-					'time': 'tbd',
-					'location': 'tbd',
-					'karta': 'tbd',
-					'given': 'tbd',
-					'new': 'tbd',
-					'kartaprep': 'tbd',
-					'kartaadj': 'tbd',
-					'karmaprep': 'tbd',
-					'karmaadj': 'tbd',
-					'parser_output': tree,
-				}
-				print("actual", data[Episode_Title]['actual_sentence'])
-				if flag_comma==1 and subset_sent[0]!=subsent:
-					data[Episode_Title]['given']=transliterate(subset_sent[subset_sent.index(subsent)-1], xsanscript.DEVANAGARI, xsanscript.HK)
-					data[Episode_Title]['new']=transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK)
-				populateData(graph, nodelabels, Episode_Title)
+				if subsent!='':
+					#print("HELPPP", subsent)
+					words = subsent.split()
+					tree = parser.parse(words)
+					for word in tree:
+						word[1]=transliterate(word[1], xsanscript.DEVANAGARI, xsanscript.HK)
+						word[2]=transliterate(word[2], xsanscript.DEVANAGARI, xsanscript.HK)
+					graph, nodelabels = graphMaking(tree)
+					Episode_Title = epi_key
+					epi_key += 1
+					data[Episode_Title] = {}
+					data[Episode_Title]={
+						'sentence_id': str(Episode_Title),
+						'actual_sentence': transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK),
+						'time': 'tbd',
+						'location': 'tbd',
+						'karta': 'tbd',
+						'given': 'tbd',
+						'new': 'tbd',
+						'kartaprep': 'tbd',
+						'kartaadj': 'tbd',
+						'karmaprep': 'tbd',
+						'karmaadj': 'tbd',
+						'parser_output': tree,
+					}
+					#print("actual", data[Episode_Title]['actual_sentence'])
+					if flag_comma==1 and subset_sent[0]!=subsent:
+						data[Episode_Title]['given']=transliterate(subset_sent[subset_sent.index(subsent)-1], xsanscript.DEVANAGARI, xsanscript.HK)
+						data[Episode_Title]['new']=transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK)
+					populateData(graph, nodelabels, Episode_Title)
 
 
-				#print("DATAAA", data)
+					#print("DATAAA", data)
 
 	for key in data.keys():
 		if data[key]['time']=='tbd' and key!=0:
