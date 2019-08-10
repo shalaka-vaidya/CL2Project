@@ -1,5 +1,7 @@
 from __future__ import unicode_literals
 from isc_parser import Parser
+from isc_tokenizer import Tokenizer
+from isc_tagger import Tagger
 import networkx as nx
 import nltk
 import matplotlib.pyplot as plt
@@ -12,15 +14,20 @@ import tree_parsing as tp
 import pdb
 from isc_parser import Parser
 
+QuestionDic={}
+#quesComparision = open("stories/comparision1.txt", "w")
+
 def answerGivenNew(info, storyGrammar, flag):
-    if flag==0:
-        ep_name=chooseEpisode(storyGrammar, info, "given")
-        ans=storyGrammar[ep_name]["new"]
-        print(ans)
-    else:
-        ep_name = chooseEpisode(storyGrammar, info, "new")
-        ans = storyGrammar[ep_name]["given"]
-        print(ans)
+	if flag==0:
+		ep_name=chooseEpisode(storyGrammar, info, "given")
+		print("Episode chosen is ",ep_name)
+		ans=storyGrammar[ep_name]["new"]
+		print("answer in given ",ans)
+	else:
+		ep_name = chooseEpisode(storyGrammar, info, "new")
+		print("Episode chosen is ",ep_name)
+		ans = storyGrammar[ep_name]["given"]
+		print("answer in new ",ans)
 
 
 def analyseQuestion(query, storyGrammar):
@@ -99,235 +106,314 @@ def k7exception(storyGrammar, ep_name, graph, nodelabel):
     return ans
 
 def answerGeneration(storyGrammar, type, ep_name):
-    graph, nodeLabels = tp.graphMaking(storyGrammar[ep_name]['parser_output'])
-    ans_sent=''
-    parser_op=storyGrammar[ep_name]['parser_output']
-    if "Karta" in type and 'rcpt' not in type and storyGrammar[ep_name]['karta']!="tbd":
+	print("In answer Generation", ep_name)
+	print("In answer Generation", storyGrammar[ep_name]['actual_sentence'])
+	graph, nodeLabels = tp.graphMaking(storyGrammar[ep_name]['parser_output'])
+	ans_sent=''
+	parser_op=storyGrammar[ep_name]['parser_output']
+	if "Karta" in type and 'rcpt' not in type and storyGrammar[ep_name]['karta']!="tbd":
+		index=storyGrammar[ep_name]['kartaadj'][0][1][0]
+		if index!=-1:
+			ans_sent+=parser_op[int(index)-1][1]+' '
+			ans_sent+=storyGrammar[ep_name]['karta'][1]
+		index = storyGrammar[ep_name]['kartaprep'][0][1][0]
+		if index != -1:
+			ans_sent +=' '+ parser_op[int(index) - 1][1]
+		if ans_sent == '' or ans_sent == "tbd":
+			ans_sent = storyGrammar[ep_name]['actual_sentence']
+	elif "Karma" in type and 'rcpt' not in type and storyGrammar[ep_name]['karmaadj']!='tdb' and storyGrammar[ep_name]['karmaadj']!=[]:
+		index=storyGrammar[ep_name]['karmaadj'][0][1][0]
+		if index!=-1:
+			ans_sent+=parser_op[int(index)-1][1]+' '
+		if storyGrammar[ep_name]['karmaadj']!=[]:
+			index=storyGrammar[ep_name]['karmaadj'][0][0]
+			ans_sent +=parser_op[int(index)-1][1]
+		index = storyGrammar[ep_name]['karmaprep'][0][1][0]
+		if index != -1:
+			ans_sent +=' '+ parser_op[int(index) - 1][1]
 
-        index=storyGrammar[ep_name]['kartaadj'][0][1][0]
-        #print("INDEX", index)
-        if index!=-1:
-            ans_sent+=parser_op[int(index)-1][1]+' '
-        ans_sent+=storyGrammar[ep_name]['karta'][1]
-        index = storyGrammar[ep_name]['kartaprep'][0][1][0]
-        if index != -1:
-            ans_sent +=' '+ parser_op[int(index) - 1][1]
+		if ans_sent == '' or ans_sent == "tbd":
+			ans_sent = storyGrammar[ep_name]['actual_sentence']
 
-        if ans_sent=='':
-            ans_sent = storyGrammar[ep_name]['actual_sentence']
+	elif "time" in type:
+		checkK7t=0
+		for word in parser_op:
+			if word[7]=='k7t':
+				checkK7t=1
+		if checkK7t==1:
+			ans_sent = storyGrammar[ep_name]['time']
+		elif checkK7t==0:
+			ans_sent=k7exception(storyGrammar,ep_name,graph,nodeLabels)
+		elif ans_sent=='' and storyGrammar[ep_name]['time']!='tbd':
+			ans_sent = storyGrammar[ep_name]['time']
+		if ans_sent == '' or ans_sent == "tbd":
+			ans_sent = storyGrammar[ep_name]['actual_sentence']
 
-    elif "Karma" in type and 'rcpt' not in type and storyGrammar[ep_name]['karmaadj']!='tdb' and storyGrammar[ep_name]['karmaadj']!=[]:
-        index=storyGrammar[ep_name]['karmaadj'][0][1][0]
-        if index!=-1:
-            ans_sent+=parser_op[int(index)-1][1]+' '
-        if storyGrammar[ep_name]['karmaadj']!=[]:
-            index=storyGrammar[ep_name]['karmaadj'][0][0]
-            ans_sent +=parser_op[int(index)-1][1]
-        index = storyGrammar[ep_name]['karmaprep'][0][1][0]
-        if index != -1:
-            ans_sent +=' '+ parser_op[int(index) - 1][1]
+	elif "location" in type:
+		checkK7p = 0
+		for word in parser_op:
+			if word[7] == 'k7p':
+				checkK7p = 1
 
-        if ans_sent=='':
-            ans_sent = storyGrammar[ep_name]['actual_sentence']
+		if checkK7p == 1:
+			ans_sent = storyGrammar[ep_name]['location']
+		elif checkK7p == 0:
+			ans_sent = k7exception(storyGrammar, ep_name, graph, nodeLabels)
+		elif ans_sent =='' and storyGrammar[ep_name]['location'] != 'tbd':
+			ans_sent = storyGrammar[ep_name]['location']
+		if ans_sent == '' or ans_sent == "tbd":
+			ans_sent = storyGrammar[ep_name]['actual_sentence']
 
-    elif "time" in type:
-        checkK7t=0
-        for word in parser_op:
-            if word[7]=='k7t':
-                checkK7t=1
-        if checkK7t==1:
-            ans_sent = storyGrammar[ep_name]['time']
-        elif checkK7t==0:
-            ans_sent=k7exception(storyGrammar,ep_name,graph,nodeLabels)
-        elif ans_sent=='' and storyGrammar[ep_name]['time']!='tbd':
-            ans_sent = storyGrammar[ep_name]['time']
-        if ans_sent == '':
-                ans_sent = storyGrammar[ep_name]['actual_sentence']
+	elif "rcpt" in type:
+		mainVerb = tp.templateReturn(tp.main_template, graph['0'])
+		if mainVerb[0]!=-1:
+			recpient_node = tp.templateReturn(tp.rcp1_template, graph[str(mainVerb[0])])
+			if recpient_node[0]==-1:
+				recpient_node = tp.templateReturn(tp.rcp2_template, graph[str(mainVerb[0])])
+			if recpient_node[0]!=-1:
+				word=parser_op[int(recpient_node[0])-1]
+				if word[3]!="PRP":
+					ans_sent=word[1]
+				else:
+					ans_sent=storyGrammar[ep_name]['karta']
+		if ans_sent == '' or ans_sent == "tbd":
+			ans_sent=storyGrammar[ep_name]['actual_sentence']
 
-    elif "location" in type:
-        checkK7p = 0
-        for word in parser_op:
-            if word[7] == 'k7p':
-                checkK7p = 1
+	elif "adj_noun" in type:
+		mainNoun = type[type.index("adj_noun")+1]
+		nounNode=-1
+		for key, value in nodeLabels.items():
+			if value == mainNoun:
+				nounNode=key
+		noun_adj = tp.templateReturn(tp.adj_template, graph[nounNode])
+		if (noun_adj[0]!=-1):
+			ans_sent=nodeLabels[noun_adj[0]]
+		else:
+			if ans_sent == '' or ans_sent == "tbd":
+				ans_sent=storyGrammar[ep_name]['actual_sentence']
 
-        if checkK7p == 1:
-            ans_sent = storyGrammar[ep_name]['location']
-        elif checkK7p == 0:
-            ans_sent = k7exception(storyGrammar, ep_name, graph, nodeLabels)
-        elif ans_sent == '' and storyGrammar[ep_name]['location'] != 'tbd':
-            ans_sent = storyGrammar[ep_name]['location']
-        if ans_sent=='':
-            ans_sent = storyGrammar[ep_name]['actual_sentence']
+	elif "intf" in type:
+		mainNoun = type[type.index("intf")+1]
+		nounNode = -1
+		for key, value in nodeLabels.items():
+			if value == mainNoun:
+				nounNode = key
+		noun_intf = tp.templateReturn(tp.intf_template, graph[nounNode])
+		noun_adj = tp.templateReturn(tp.adj_template, graph[nounNode])
+		if noun_intf[0] != -1:
+			ns_sent = nodeLabels[noun_intf[0]]+ " "
+		if (noun_adj[0] != -1):
+			ans_sent += nodeLabels[noun_adj[0]]
+		if ans_sent == '' or ans_sent == "tbd":
+			ans_sent = storyGrammar[ep_name]['actual_sentence']
 
-    elif "rcpt" in type:
-        mainVerb = tp.templateReturn(tp.main_template, graph['0'])
-        if mainVerb[0]!=-1:
-            recpient_node = tp.templateReturn(tp.rcp1_template, graph[str(mainVerb[0])])
-            if recpient_node[0]==-1:
-                recpient_node = tp.templateReturn(tp.rcp2_template, graph[str(mainVerb[0])])
-            if recpient_node[0]!=-1:
-                word=parser_op[int(recpient_node[0])-1]
-                if word[3]!="PRP":
-                    ans_sent=word[1]
-                else:
-                    ans_sent=storyGrammar[ep_name]['karta']
-        if ans_sent=='':
-            ans_sent=storyGrammar[ep_name]['actual_sentence']
+	elif "kya" in type:
+		mainVerb = tp.templateReturn(tp.main_template, graph['0'])
+		#print("MV", mainVerb[0])
+		if mainVerb[0]!=-1:
+			k1s = tp.templateReturn(tp.k1s_template, graph[str(mainVerb[0])])
+			if k1s[0] != -1:
+				ans_sent=nodeLabels[k1s[0]]
+			else:
+				pof = tp.templateReturn(tp.pof_template, graph[str(mainVerb[0])])
+				if pof[0] != -1:
+					ans_sent = nodeLabels[pof[0]]
+				else:
+					k2 = tp.templateReturn(tp.karma_template, graph[str(mainVerb[0])])
+					if k2[0] != -1:
+						ans_sent = nodeLabels[k2[0]]
+		if ans_sent == '' or ans_sent == "tbd":
+			if storyGrammar[str(int(ep_name)+1)]['given']==storyGrammar[ep_name]['actual_sentence']:
+				ans_sent = storyGrammar[str(int(ep_name)+1)]['actual_sentence']
+			else:
+				ans_sent = storyGrammar[ep_name]['actual_sentence']
 
-    elif "adj_noun" in type:
-        mainNoun = type[type.index("adj_noun")+1]
-        nounNode=-1
-        for key, value in nodeLabels.items():
-            if value == mainNoun:
-                nounNode=key
-        noun_adj = tp.templateReturn(tp.adj_template, graph[nounNode])
-        if (noun_adj[0]!=-1):
-            ans_sent=nodeLabels[noun_adj[0]]
-        else:
-            ans_sent=storyGrammar[ep_name]['actual_sentence']
+	elif "kiske" in type:
+		mainNoun = type[type.index("kiske") + 1]
+		nounNode = -1
+		for key, value in nodeLabels.items():
+			if value == mainNoun:
+				nounNode = key
+		noun_k7 = tp.templateReturn(tp.k7_template, graph[nounNode])
+		noun_r6 = tp.templateReturn(tp.r6_template, graph[nounNode])
+		if noun_k7[0] != -1:
+			ans_sent = nodeLabels[noun_k7[0]]
+		elif (noun_r6[0] != -1):
+			ans_sent += nodeLabels[noun_r6[0]]
+		if ans_sent == '' or ans_sent == "tbd":
+			ans_sent = storyGrammar[ep_name]['actual_sentence']
 
-    elif "intf" in type:
-        mainNoun = type[type.index("intf")+1]
-        nounNode = -1
-        for key, value in nodeLabels.items():
-            if value == mainNoun:
-                nounNode = key
-        noun_intf = tp.templateReturn(tp.intf_template, graph[nounNode])
-        noun_adj = tp.templateReturn(tp.adj_template, graph[nounNode])
-        if noun_intf[0] != -1:
-            ans_sent = nodeLabels[noun_intf[0]]+ " "
-        if (noun_adj[0] != -1):
-            ans_sent += nodeLabels[noun_adj[0]]
-        if ans_sent=='':
-            ans_sent = storyGrammar[ep_name]['actual_sentence']
-
-    elif "kya" in type:
-        mainVerb = tp.templateReturn(tp.main_template, graph['0'])
-        #print("MV", mainVerb[0])
-        if mainVerb[0]!=-1:
-            #breakpoint()
-            k1s = tp.templateReturn(tp.k1s_template, graph[str(mainVerb[0])])
-            if k1s[0] != -1:
-                ans_sent=nodeLabels[k1s[0]]
-            else:
-                pof = tp.templateReturn(tp.pof_template, graph[str(mainVerb[0])])
-                if pof[0] != -1:
-                    ans_sent = nodeLabels[pof[0]]
-                else:
-                    k2 = tp.templateReturn(tp.karma_template, graph[str(mainVerb[0])])
-                    if k2[0] != -1:
-                        ans_sent = nodeLabels[k2[0]]
-        if ans_sent == '':
-            if storyGrammar[str(int(ep_name)+1)]['given']==storyGrammar[ep_name]['actual_sentence']:
-                ans_sent = storyGrammar[str(int(ep_name)+1)]['actual_sentence']
-            else:
-                ans_sent = storyGrammar[ep_name]['actual_sentence']
-
-    elif "kiske" in type:
-        mainNoun = type[type.index("kiske") + 1]
-        nounNode = -1
-        for key, value in nodeLabels.items():
-            if value == mainNoun:
-                nounNode = key
-        noun_k7 = tp.templateReturn(tp.k7_template, graph[nounNode])
-        noun_r6 = tp.templateReturn(tp.r6_template, graph[nounNode])
-        if noun_k7[0] != -1:
-            ans_sent = nodeLabels[noun_k7[0]]
-        elif (noun_r6[0] != -1):
-            ans_sent += nodeLabels[noun_r6[0]]
-        if ans_sent == '':
-            ans_sent = storyGrammar[ep_name]['actual_sentence']
-
-    elif "kiska" in type:
-        #mainVerb = tp.templateReturn(tp.main_template, graph['0'])
-        mainVerb = type[type.index("kiska")+1]
-        verbNode = -1
-        for key, value in nodeLabels.items():
-            if value == mainVerb:
-                verbNode = key
-        if mainVerb[0] != -1:
-            verb_k2 = tp.templateReturn(tp.karma_template, graph[verbNode])
-            verb_r6 = tp.templateReturn(tp.r6_template, graph[verbNode])
-            verb_k7 = tp.templateReturn(tp.k7_template, graph[verbNode])
-            if verb_k2[0] != -1:
-                ans_sent=nodeLabels[verb_k2[0]]
-            else:
-                if verb_k7[0] != -1:
-                    ans_sent = nodeLabels[verb_k7[0]]
-                if verb_r6[0] != -1:
-                    ans_sent=nodeLabels[verb_r6[0]]
-        else:
-            ans_sent = storyGrammar[ep_name]['actual_sentence']
-
-    print(ans_sent)
+	elif "kiska" in type:
+		#mainVerb = tp.templateReturn(tp.main_template, graph['0'])
+		mainVerb = type[type.index("kiska")+1]
+		verbNode = -1
+		for key, value in nodeLabels.items():
+			if value == mainVerb:
+				verbNode = key
+		if mainVerb[0] != -1:
+			verb_k2 = tp.templateReturn(tp.karma_template, graph[verbNode])
+			verb_r6 = tp.templateReturn(tp.r6_template, graph[verbNode])
+			verb_k7 = tp.templateReturn(tp.k7_template, graph[verbNode])
+			if verb_k2[0] != -1:
+				ans_sent=nodeLabels[verb_k2[0]]
+			else:
+				if verb_k7[0] != -1:
+					ans_sent = nodeLabels[verb_k7[0]]
+				if verb_r6[0] != -1:
+					ans_sent=nodeLabels[verb_r6[0]]
+		if ans_sent == '' or ans_sent == "tbd":
+			ans_sent = storyGrammar[ep_name]['actual_sentence']
+	print("Answer is ",ans_sent)
 
 def readingFiles(qfname, sgname):
-    qfp = open(qfname, "r")
-    questions = qfp.readlines()
-    with open(sgname) as sgfp:
-        storyGrammar=json.load(sgfp)
-    #print(storyGrammar)
-    for question in questions:
-        ep_name=chooseEpisode(storyGrammar, question, "actual_sentence")
-        wxques = transliterate(question, xsanscript.DEVANAGARI, xsanscript.HK)
-        print(wxques)
-        #print("episode", ep_name)
-        type = analyseQuestion(wxques, storyGrammar)
-        print("type", type)
-        if (type != []):
-            answerGeneration(storyGrammar, type, ep_name)
-        print()
-
+	QuesCompare=[]
+	qfp = open(qfname, "r")
+	questions = qfp.readlines()
+	with open(sgname) as sgfp:
+		storyGrammar=json.load(sgfp)
+	#print("Question is ", question)
+	for question in questions:
+		temp_list=[]
+		ep_name_new, ep_name_old=chooseEpisode(storyGrammar, question, "actual_sentence")
+		ep_info=[qfname,question,ep_name_new,ep_name_old]
+		temp_list.append(ep_info)
+		#quesComparision.write(qfname,question,ep_name_new,ep_name_old)
+		wxques = transliterate(question, xsanscript.DEVANAGARI, xsanscript.HK)
+		QuesCompare.append(temp_list)
+		
+		print(wxques)
+		print("episode-new", ep_name_new,ep_name_old)
+		print("episode-old", ep_name_old)
+		type = analyseQuestion(wxques, storyGrammar)
+		print("type", type)
+		if (type != []):
+			answerGeneration(storyGrammar, type, ep_name_new)
+		print()
+	#return(QuesCompare)
+def get_pos_tag(sent):
+	
+	SentTag={}
+	sent_trans = transliterate(sent, xsanscript.HK, xsanscript.DEVANAGARI)
+	#print("Received Sent is ", sent_trans)
+	tk = Tokenizer(lang='hin')
+	tagger = Tagger(lang='hin')
+	sequence = tk.tokenize(sent_trans)
+	#print("sequence is ", sequence)
+	tagged = tagger.tag(sequence)
+	#print("Tagged", tagged)
+	for match in tagged:
+		SentTag[transliterate(match[0], xsanscript.DEVANAGARI, xsanscript.HK)]=match[1]
+	#print(SentTag)
+	return SentTag
+			
+		
 def get_jaccard_sim(str1, str2):
-    a = set(str1.split())
-    b = set(str2.split())
-    c = a.intersection(b)
-    Denom = len(a)+len(b)-len(c)
-    js = float(len(c))/Denom
-    jsN=len(c)
-    return js, jsN
+	TagC=[]
+	SimiNum=0
+	NounTags=["NNP","NNS","NN"]
+	VerbTags=["VM"]
+	VAuxTags=["VAUX"]
+	
+	a = set(str1.split())
+	TagA=get_pos_tag(str1)
+	#print("TagA type", type(TagA))
+	b = set(str2.split())
+	TagB=get_pos_tag(str2)
+	c = a.intersection(b)
+	#print("Int",c)
+	for word in c:
+		#print("Intersection Word",word)
+
+		TagC.append(TagA[word])
+	for tags in TagC:
+		if(tags in NounTags):
+			SimiNum=SimiNum+3
+		elif(tags in VerbTags):
+			SimiNum=SimiNum+4
+		elif(tags in VAuxTags):
+			SimiNum=SimiNum+2
+		else:
+			SimiNum=SimiNum+1
+	print("New JS is ",SimiNum)
+	#quesComparision.write(str(SimiNum))
+	#quesComparision.write("\n") 
+	Denom = len(a)+len(b)-len(c)
+	js = float(SimiNum)/Denom
+	return js, SimiNum
+
+def old_get_jaccard_sim(str1, str2):
+	
+	a = set(str1.split())
+	b = set(str2.split())
+	c = a.intersection(b)
+	Denom = len(a)+len(b)-len(c)
+	jsN= len(c)
+	js = float(jsN)/Denom
+	print("Old JS is ",jsN)
+	print("\n-------------------------------\n")
+	#quesComparision.write(str(jsN))
+	#quesComparision.write("\n")
+	#quesComparision.write("-----------")
+	#quesComparision.write("\n")
+	return js, jsN
 
 
 def chooseEpisode(storyGrammar, query, matchEntity):
-    scList={}
-    nscList={}
-    highest_match=-1
-    ep_name=""
-    parser = Parser(lang='hin')
-    words = query.split()
-    query_tree = parser.parse(words)
-    query_graph, query_nodelabels = tp.graphMaking(query_tree)
-    query_mv_index=tp.templateReturn(tp.main_template,query_graph['0'])
-    #print("EPISODEEEE")
-    test_list=[]
-    if query_mv_index[0]!=-1:
-        query_mv=query_tree[int(query_mv_index[0])-1][1]
-    else:
-        query_mv=''
-    transliterate_query_mv = transliterate(query_mv, xsanscript.DEVANAGARI, xsanscript.HK)
-    #print(query)
-    for episode,val in storyGrammar.items():
-        if (episode!='0'):
-            episode_graph, nodeLabels_episode = tp.graphMaking(storyGrammar[episode]['parser_output'])
-            episode_mv_index=tp.templateReturn(tp.main_template,episode_graph['0'])
-            if episode_mv_index[0] != -1:
-                episode_mv = storyGrammar[episode]['parser_output'][int(episode_mv_index[0]) - 1][1]
-            else:
-                episode_mv = ''
-            storySent = val[matchEntity]
-            wxques = transliterate(query, xsanscript.DEVANAGARI, xsanscript.HK)
-            #print(wxques, storySent)
-            sc, nsc = get_jaccard_sim(storySent, wxques)
-            scList[episode] = sc
-            nscList[episode] = nsc
-            ep_info=[sc, transliterate_query_mv, episode_mv]
-            test_list.append(ep_info)
-            if sc>highest_match:
-                highest_match=sc
-                ep_name=episode
-
-    #test_list_2=sorted(, key=lambda x: x[0])
-    return ep_name
+	scList={}
+	nscList={}
+	highest_match=-1
+	ep_name_new=""
+	ep_name_old=""
+	
+	parser = Parser(lang='hin')
+	words = query.split()
+	query_tree = parser.parse(words)
+	query_graph, query_nodelabels = tp.graphMaking(query_tree)
+	query_mv_index=tp.templateReturn(tp.main_template,query_graph['0'])
+	test_list_new=[]
+	test_list_old=[]
+	if query_mv_index[0]!=-1:
+		query_mv=query_tree[int(query_mv_index[0])-1][1]
+	else:
+		query_mv=''
+	transliterate_query_mv = transliterate(query_mv, xsanscript.DEVANAGARI, xsanscript.HK)
+	#print("Query is ",transliterate(query, xsanscript.DEVANAGARI, xsanscript.HK))
+	#quesComparision.write(query)
+	for episode,val in storyGrammar.items():
+		if (episode!='0'):
+			episode_graph, nodeLabels_episode = tp.graphMaking(storyGrammar[episode]['parser_output'])
+			episode_mv_index=tp.templateReturn(tp.main_template,episode_graph['0'])
+			if episode_mv_index[0] != -1:
+				episode_mv = storyGrammar[episode]['parser_output'][int(episode_mv_index[0]) - 1][1]
+			else:
+				episode_mv = ''
+			storySent = val[matchEntity]
+			wxques = transliterate(query, xsanscript.DEVANAGARI, xsanscript.HK)
+			#print("Here",wxques, storySent)
+			print("Story Sentence is ", storySent)
+			print()
+			#quesComparision.write(storySent)
+			#quesComparision.write("\n")
+			new_sc, new_nsc = get_jaccard_sim(storySent, wxques)
+			scList[episode] = new_sc
+			nscList[episode] = new_nsc
+			ep_info=[new_sc, transliterate_query_mv, episode_mv]
+			test_list_new.append(ep_info)
+			if new_sc>highest_match:
+				highest_match=new_sc
+				ep_name_new=episode
+			
+			old_sc, old_nsc = old_get_jaccard_sim(storySent, wxques)
+			scList[episode] = old_sc
+			nscList[episode] = old_nsc
+			ep_info=[old_sc, transliterate_query_mv, episode_mv]
+			test_list_old.append(ep_info)
+			if old_sc>highest_match:
+				highest_match=old_sc
+				ep_name_old=episode
+			#print("---------------")
+	#test_list_2=sorted(, key=lambda x: x[0]
+	return ep_name_new,ep_name_old
 
 questionTypes1={}
 questionTypes1['Karta'] = ["किसने", "किसके", "कौन", "किससे"]
@@ -350,4 +436,11 @@ for key,value in questionTypes1.items():
         temp.append(transliterate(ques, xsanscript.DEVANAGARI, xsanscript.HK))
     questionTypes[key]=temp
 
-readingFiles("stories/questions12.txt", "StoryGrammer12.json")
+#frange = ['1', '2','12', '13', '14']
+frange = ['14']
+for fno in frange:
+	fname = "stories/Questions/story" + fno
+	SGname = "StoryGrammer" + fno+".json"
+	readingFiles(fname, SGname)
+	print("Done")
+#quesComparision.close()

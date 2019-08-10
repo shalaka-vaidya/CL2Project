@@ -2,6 +2,8 @@
 
 from __future__ import unicode_literals
 from isc_parser import Parser
+from isc_tokenizer import Tokenizer
+from isc_tagger import Tagger
 import networkx as nx
 import nltk
 import matplotlib.pyplot as plt
@@ -11,7 +13,7 @@ from indic_transliteration import xsanscript
 from indic_transliteration.xsanscript import transliterate
 import json
 
-data = {}
+#data = {}
 main_template={"relation": "main"}
 karta_template = {"relation": "k1"}
 karma_template = {"relation": "k2"}
@@ -86,7 +88,7 @@ def templateReturn(template, neighbours):
 		result=[-1]
 	return result
 
-def populateData(graph,nodeLabels,episode_title):
+def populateData(data,graph,nodeLabels,episode_title):
 	neighbours=graph['0']
 	karta_prepList = []
 	karta_adjList = []
@@ -154,7 +156,12 @@ def populateData(graph,nodeLabels,episode_title):
 
 def parsing(fname):
 	fp = open(fname, "r")
-	splitter = [",", "और ", "कि", "पर", "कर", "फिर", "इसीलिए", "तब" ]
+	data = {}
+	splitter = [",", "और ", "कि", "पर", " कर ", "फिर", "इसीलिए", "तब" ,"तो" ]
+	Splitter_new = [" और ", "कि", "पर", " कर ", "फिर", "इसीलिए", "तब", "तो" ]
+	regex_splitter=',| और | कि | पर |कर | फिर | इसीलिए | तब '
+	NounTags=["NNP","NNS","NN","JJ","DEM", "NST","QC", "QF", "PSP","PRP","RS"]
+	VerbTabgs=["VM", "VAUX"]
 	text = fp.read()
 	sent = re.split('।', text)
 	parser = Parser(lang='hin')
@@ -162,10 +169,36 @@ def parsing(fname):
 	for i in range(len(sent)):
 		flag_comma = 0
 		if (sent[i] != "\n"):
-			if any(split in sent[i] for split in splitter):
-			#if (',' in sent[i]):
-				flag_comma=1
-			subset_sent=re.split(',| और | कि | पर |कर | फिर | इसीलिए | तब ', sent[i])
+			tagger = Tagger(lang='hin')
+			words_before = sent[i].split()
+			tagged_before = tagger.tag(words_before)
+			SentTag={}
+			for match in tagged_before:
+				SentTag[match[0]]=match[1]
+				#if any(split in sent[i] for split in splitter):
+			#print("Dictionary is ",SentTag)
+			for index , SplitWords in enumerate(words_before):
+				if(SplitWords in splitter):
+					#Splitter_new = [",", "और ", "कि", "पर", " कर", "फिर", "इसीलिए", "तब" ]
+					Divider = SplitWords
+					#print("Divider word is ", Divider)
+					Position = int(index)
+					Before_word = words_before[Position-1]
+					Before_word_Tag = SentTag[Before_word]
+					if((Before_word_Tag not in VerbTabgs) and (Divider in Splitter_new)):
+						#print("Divider word is ", Divider)
+						Splitter_new.remove(Divider)
+					else:
+						flag_comma=1
+					regex_splitter=","
+					for char in Splitter_new:
+						regex_splitter=regex_splitter+"| "+char+" "
+
+				
+			#print("New Regex xplitter is ", regex_splitter, flag_comma)
+			subset_sent=re.split(regex_splitter, sent[i])
+			#print("Subsent is ", subset_sent)
+			#print(flag_comma)
 			for subsent in subset_sent:
 				if subsent!='':
 					#print("HELPPP", subsent)
@@ -193,10 +226,10 @@ def parsing(fname):
 						'parser_output': tree,
 					}
 					#print("actual", data[Episode_Title]['actual_sentence'])
-					if flag_comma==1 and subset_sent[0]!=subsent:
+					if subset_sent[0]!=subsent and flag_comma==1:
 						data[Episode_Title]['given']=transliterate(subset_sent[subset_sent.index(subsent)-1], xsanscript.DEVANAGARI, xsanscript.HK)
 						data[Episode_Title]['new']=transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK)
-					populateData(graph, nodelabels, Episode_Title)
+					populateData(data,graph, nodelabels, Episode_Title)
 
 
 					#print("DATAAA", data)
