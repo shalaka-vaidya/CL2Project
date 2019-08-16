@@ -157,17 +157,18 @@ def populateData(data,graph,nodeLabels,episode_title):
 def parsing(fname):
 	fp = open(fname, "r")
 	data = {}
-	splitter = [",", "और ", "कि", "पर", " कर ", "फिर", "इसीलिए", "तब" ,"तो" ]
-	Splitter_new = [" और ", "कि", "पर", " कर ", "फिर", "इसीलिए", "तब", "तो" ]
-	regex_splitter=',| और | कि | पर |कर | फिर | इसीलिए | तब '
+	splitter = [",", "और", "कि", "पर", " कर", "फिर", "इसीलिए", "तब" ,"तो" ]
+	
+	regex_splitter=',|और| कि | पर |कर | फिर | इसीलिए | तब '
 	NounTags=["NNP","NNS","NN","JJ","DEM", "NST","QC", "QF", "PSP","PRP","RS"]
 	VerbTabgs=["VM", "VAUX"]
 	text = fp.read()
 	sent = re.split('।', text)
 	parser = Parser(lang='hin')
 	epi_key=0
+	sent_reg={}
 	for i in range(len(sent)):
-		flag_comma = 0
+		Splitter_new = ["और", "कि", "पर", "कर", "फिर", "इसीलिए", "तब", "तो" ]
 		if (sent[i] != "\n"):
 			tagger = Tagger(lang='hin')
 			words_before = sent[i].split()
@@ -175,30 +176,34 @@ def parsing(fname):
 			SentTag={}
 			for match in tagged_before:
 				SentTag[match[0]]=match[1]
-				#if any(split in sent[i] for split in splitter):
-			#print("Dictionary is ",SentTag)
+			print("Sentence is ", words_before)
+			regex_splitter=","
+			count_split=0
+			#print("Reex", regex_splitter)
 			for index , SplitWords in enumerate(words_before):
 				if(SplitWords in splitter):
-					#Splitter_new = [",", "और ", "कि", "पर", " कर", "फिर", "इसीलिए", "तब" ]
 					Divider = SplitWords
-					#print("Divider word is ", Divider)
 					Position = int(index)
+					print("Divider word is ", Divider)
 					Before_word = words_before[Position-1]
 					Before_word_Tag = SentTag[Before_word]
-					if((Before_word_Tag not in VerbTabgs) and (Divider in Splitter_new)):
-						#print("Divider word is ", Divider)
+					if(Before_word_Tag in VerbTabgs):
+						print("Before  word is verb ", Before_word)
+						count_split=count_split+1
+					elif((Before_word_Tag not in VerbTabgs) and (Divider in Splitter_new)):
+						print("Removed word is ", Divider)
 						Splitter_new.remove(Divider)
-					else:
-						flag_comma=1
-					regex_splitter=","
-					for char in Splitter_new:
-						regex_splitter=regex_splitter+"| "+char+" "
 
-				
-			#print("New Regex xplitter is ", regex_splitter, flag_comma)
-			subset_sent=re.split(regex_splitter, sent[i])
-			#print("Subsent is ", subset_sent)
-			#print(flag_comma)
+			if(count_split >0):
+				for char in Splitter_new:
+					regex_splitter=regex_splitter+"| "+char+" "
+			else:
+				flag_comma =0
+				regex_splitter=","
+			sent_reg[i]=regex_splitter
+			print("New Regex xplitter is ",i,sent_reg[i], flag_comma)
+			subset_sent=re.split(sent_reg[i], sent[i])
+			print("Subsent is ", subset_sent)
 			for subsent in subset_sent:
 				if subsent!='':
 					#print("HELPPP", subsent)
