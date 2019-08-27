@@ -205,7 +205,7 @@ def parsing(fname):
 			subset_sent=re.split(sent_reg[i], sent[i])
 			print("Subsent is ", subset_sent)
 			for subsent in subset_sent:
-				if subsent!='':
+				if subsent!='' or subsent!=" ":
 					#print("HELPPP", subsent)
 					words = subsent.split()
 					tree = parser.parse(words)
@@ -218,6 +218,7 @@ def parsing(fname):
 					data[Episode_Title] = {}
 					data[Episode_Title]={
 						'sentence_id': str(Episode_Title),
+						'original_sentence': subsent,
 						'actual_sentence': transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK),
 						'time': 'tbd',
 						'location': 'tbd',
@@ -231,7 +232,7 @@ def parsing(fname):
 						'parser_output': tree,
 					}
 					#print("actual", data[Episode_Title]['actual_sentence'])
-					if subset_sent[0]!=subsent and flag_comma==1:
+					if subset_sent[0]!=subsent:
 						data[Episode_Title]['given']=transliterate(subset_sent[subset_sent.index(subsent)-1], xsanscript.DEVANAGARI, xsanscript.HK)
 						data[Episode_Title]['new']=transliterate(subsent, xsanscript.DEVANAGARI, xsanscript.HK)
 					populateData(data,graph, nodelabels, Episode_Title)
