@@ -1,0 +1,2079 @@
+zEra kahA~ rahatA thA ?
+
+query zEra kahA~ raha thA ?
+TYPE:[['location'], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:9
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjAnavara sOcA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmAlika anumAna lagA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra aMdara tO jA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb samajha gayA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentuma b bulA hO and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaisA saMbhava hai and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkahA ‘A jAO mitra and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaMdara A jAO and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaMdara zEra baiThA hai and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and zEra kahA~ raha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1 jaMgala mEM
+---------------
+
+
+thakakara zEra kahA~ pahuMcA ?
+
+query thaka zEra kahA~ pahuMcA ?
+TYPE:[['location'], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenjAnavara sOcA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenmAlika anumAna lagA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenzEra aMdara tO jA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenb samajha gayA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweentuma b bulA hO and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenaisA saMbhava hai and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenkahA ‘A jAO mitra and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenaMdara A jAO and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenaMdara zEra baiThA hai and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 3
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and thaka zEra kahA~ pahuMcA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 3Eka guphA kE
+---------------
+
+
+zEra nE kyA sOcA ?
+
+query zEra nE kyA sOcA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjAnavara sOcA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmAlika anumAna lagA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra aMdara tO jA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenb samajha gayA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:5
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweentuma b bulA hO and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:8
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenaisA saMbhava hai and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:4
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenkahA ‘A jAO mitra and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenaMdara A jAO and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenaMdara zEra baiThA hai and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 16new_ep: 21
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and zEra nE kyA sOcA ?
+
+
+
+jaccardscore:1
+old_ep: 16new_ep: 21aisA saMbhava hai
+---------------
+
+
+guphA kA mAlika kauna thA ?
+
+query guphA kA mAlika kauna thA ?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenjAnavara sOcA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:11
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:6
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:6
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika anumAna lagA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzEra aMdara tO jA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenb samajha gayA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweentuma b bulA hO and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenaisA saMbhava hai and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenkahA ‘A jAO mitra and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenaMdara A jAO and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenaMdara zEra baiThA hai and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and guphA kA mAlika kauna thA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7 usa guphA kA mAlika Eka siyAra thA 
+---------------
+
+
+siyAra nE guphA kE aMdara jAtE huE kyA dEkhA ?
+
+query siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:5
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjAnavara sOcA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:6
+old_ep: 3new_ep: 7
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 7
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:11
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenmAlika anumAna lagA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenzEra aMdara tO jA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:5
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenb samajha gayA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:9
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweentuma b bulA hO and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:6
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenaisA saMbhava hai and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:6
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:2
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenkahA ‘A jAO mitra and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenaMdara A jAO and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenaMdara zEra baiThA hai and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and siyAra nE guphA kE aMdara jA huE kyA dEkhA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9nizAna
+---------------
+
+
+guphE mEM baiThE zEra nE kyA sOcA ?
+
+query guphE mEM baiTha zEra nE kyA sOcA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjAnavara sOcA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenmAlika anumAna lagA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenzEra aMdara tO jA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenb samajha gayA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 4
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 16
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 16
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 16
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 16
+
+Jaccard comparison betweentuma b bulA hO and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 16
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:13
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenaisA saMbhava hai and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:4
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenkahA ‘A jAO mitra and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenaMdara A jAO and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenaMdara zEra baiThA hai and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 21new_ep: 21
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and guphE mEM baiTha zEra nE kyA sOcA ?
+
+
+
+jaccardscore:1
+old_ep: 21new_ep: 21aisA saMbhava hai
+---------------
+
+
+zEra nE aMdara sE kyA AvAज़ lagAyI ?
+
+query zEra nE aMdara sE kyA AvAज़ lagA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjAnavara sOcA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenmAlika anumAna lagA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 11
+
+Jaccard comparison betweenzEra aMdara tO jA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 11
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:2
+old_ep: 12new_ep: 11
+
+Jaccard comparison betweenb samajha gayA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 11
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 11
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:1
+old_ep: 12new_ep: 11
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 11
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:5
+old_ep: 12new_ep: 18
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:1
+old_ep: 12new_ep: 18
+
+Jaccard comparison betweentuma b bulA hO and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 18
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 18
+
+Jaccard comparison betweenaisA saMbhava hai and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 18
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 18
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 18
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:1
+old_ep: 12new_ep: 18
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:10
+old_ep: 26new_ep: 26
+
+Jaccard comparison betweenkahA ‘A jAO mitra and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 26new_ep: 26
+
+Jaccard comparison betweenaMdara A jAO and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:1
+old_ep: 26new_ep: 26
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:0
+old_ep: 26new_ep: 26
+
+Jaccard comparison betweenaMdara zEra baiThA hai and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:4
+old_ep: 26new_ep: 26
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:4
+old_ep: 26new_ep: 26
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and zEra nE aMdara sE kyA AvAज़ lagA ?
+
+
+
+jaccardscore:2
+old_ep: 26new_ep: 26AvAja
+---------------
+
+
+avvAज़ sunatE hI siyAra kyA samajha gayA ?
+
+query avvAज़ suna hI siyAra kyA samajha gayA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:2
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjAnavara sOcA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 3
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika anumAna lagA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzEra aMdara tO jA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenb samajha gayA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:6
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:3
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:1
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:1
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweentuma b bulA hO and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenaisA saMbhava hai and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:3
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:1
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenkahA ‘A jAO mitra and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenaMdara A jAO and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:14
+old_ep: 29new_ep: 29
+
+Jaccard comparison betweenaMdara zEra baiThA hai and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 29new_ep: 29
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:2
+old_ep: 29new_ep: 29
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and avvAज़ suna hI siyAra kyA samajha gayA ?
+
+
+
+jaccardscore:3
+old_ep: 29new_ep: 29aMdara zEra baiThA hai
+---------------
+
+
+siyAra nE kisa tarana apanI jAna bacAyI ?
+
+query siyAra nE kisa tarana apanI jAna bacA ?
+TYPE:[[], 'nounVerbSentence']
+
+Jaccard comparison betweenkisI jaMgala mEM Eka zEra raha thA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka bAra jAnavara dina-bhara bhaTaka rahAkiMtu bhOjana kE liE kOI jAnavara nahIM milA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenthaka jAnavara Eka guphA kE aMdara A baiTha gayA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjAnavara sOcA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenrAta mEM kOI na kOI jAnavara isamEM avazya A and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAja jAnavara hI mAra jAnavara maiM bhUkha zAMta kara and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusa guphA kA mAlika Eka siyAra thA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika rAta mEM lauTa vaha guphA para A and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika guphA kE aMdara jA huE zEra kE pairOM kE nizAna dEkha and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika dhyAna sE dEkhA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenmAlika anumAna lagA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzEra aMdara tO jA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenaMdara sE bAhara nahIM A hai and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenb samajha gayA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenusakI guphA mEM kOI zEra chipA baiThA hai and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweencatura siyAra nE turaMta Eka upAya sOcA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:4
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweensiyAra guphA kE bhItara nahIM jA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:1
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweensiyAra dvAra sE AvAja lagA ‘O siyAra guphA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:1
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweentuma cupa kyOM hO? Aja bOla kyOM nahIM hO? jaba bhI maiM bAhara sE A hU~ and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweentuma b bulA hO and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenAja tuma bOla kyOM nahIM hO'? guphA mEM baiTha huE zEra nE sOcA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:1
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenaisA saMbhava hai and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenguphA pratidina AvAja dE siyAra kO bulA hO and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:3
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenAja yaha mauna bhaya kE kAraNa mauna hai and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenisaliE Aja b hI isE AvAja dE aMdara bulA hU~ and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenaisA sOca zEra nE aMdara sE AvAja lagA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:1
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenkahA ‘A jAO mitra and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenaMdara A jAO and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenAvAja suna hI siyAra samajha gayA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:3
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenaMdara zEra baiThA hai and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenzEra turaMta vahA~ sE bhAga gayA and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenisa taraha siyAra nE cAlAkI sE siyAra jAna bacA lI and siyAra nE kisa tarana apanI jAna bacA ?
+
+
+
+jaccardscore:11
+old_ep: 32new_ep: 32
+---------------
+
+

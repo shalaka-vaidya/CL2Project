@@ -1,0 +1,728 @@
+hAthI rOja kahA~ jAtA thA ?
+
+query hAthI rOja kahA~ jA thA ?
+TYPE:[['location'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka hAthI thA and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahA jAtA thA and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweendarajI darajI rOja Eka kElA dE thA and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweenEka dina darajI nE hAthI kE sAtha khilavAड़ kara kI sOca and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweendarajI hAthI kO kElA na dE Eka suI usakE sAmanE rakha dI and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweensuI kE cubha kE kArana hAthI kO baड़I pIड़A hO and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweenhAthI rOja kI taraha nadI kE pAsa jA and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:10
+old_ep: 1new_ep: 7
+
+Jaccard comparison betweenhAthI usanE sUMDa mEM pAnI bhara liyA and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 7
+
+Jaccard comparison betweenhAthI jaba lauTa kE A rahA thA and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 7
+
+Jaccard comparison betweendUkAna kE sAmanE rukha jA and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 7
+
+Jaccard comparison betweenpUrA pAnI darajI para u~ड़Ela dE and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 7
+
+Jaccard comparison betweennaitika zikSA-jaisI kara vaisI bharanI and hAthI rOja kahA~ jA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 7 nadI kE
+---------------
+
+
+hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahAnE jAtA thA ?
+
+query hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka hAthI thA and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahA jAtA thA and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:23
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendarajI darajI rOja Eka kElA dE thA and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:5
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina darajI nE hAthI kE sAtha khilavAड़ kara kI sOca and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendarajI hAthI kO kElA na dE Eka suI usakE sAmanE rakha dI and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweensuI kE cubha kE kArana hAthI kO baड़I pIड़A hO and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenhAthI rOja kI taraha nadI kE pAsa jA and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:10
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenhAthI usanE sUMDa mEM pAnI bhara liyA and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenhAthI jaba lauTa kE A rahA thA and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:6
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendUkAna kE sAmanE rukha jA and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenpUrA pAnI darajI para u~ड़Ela dE and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweennaitika zikSA-jaisI kara vaisI bharanI and hAthI rOja kisakE dukAna kE sAmE sE nadI mEM nahA jAtA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2 vaha rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahAnE jAtA thA 
+---------------
+
+
+darajI rOjaja hAthI kO kyA dEtA thA ?
+
+query darajI rOjaja hAthI kO kyA dE thA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka hAthI thA and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahA jAtA thA and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweendarajI darajI rOja Eka kElA dE thA and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:9
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenEka dina darajI nE hAthI kE sAtha khilavAड़ kara kI sOca and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:6
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendarajI hAthI kO kElA na dE Eka suI usakE sAmanE rakha dI and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:9
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweensuI kE cubha kE kArana hAthI kO baड़I pIड़A hO and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenhAthI rOja kI taraha nadI kE pAsa jA and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenhAthI usanE sUMDa mEM pAnI bhara liyA and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenhAthI jaba lauTa kE A rahA thA and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:5
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendUkAna kE sAmanE rukha jA and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenpUrA pAnI darajI para u~ड़Ela dE and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:7
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweennaitika zikSA-jaisI kara vaisI bharanI and darajI rOjaja hAthI kO kyA dE thA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3kElA
+---------------
+
+
+Eka dina darajI nE hAthI kE sAtha kyA karanE kI sOcI ?
+
+query Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+TYPE:[['time', 'kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka hAthI thA and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahA jAtA thA and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:9
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendarajI darajI rOja Eka kElA dE thA and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina darajI nE hAthI kE sAtha khilavAड़ kara kI sOca and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:21
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendarajI hAthI kO kElA na dE Eka suI usakE sAmanE rakha dI and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:5
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensuI kE cubha kE kArana hAthI kO baड़I pIड़A hO and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI rOja kI taraha nadI kE pAsa jA and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:5
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI usanE sUMDa mEM pAnI bhara liyA and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI jaba lauTa kE A rahA thA and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendUkAna kE sAmanE rukha jA and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenpUrA pAnI darajI para u~ड़Ela dE and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweennaitika zikSA-jaisI kara vaisI bharanI and Eka dina darajI nE hAthI kE sAtha kyA kara kI sOca ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4Eka dina
+---------------
+
+
+darajI hAthI kO kElA na dEkara kyA diyA ?
+
+query darajI hAthI kO kElA na dE kyA dE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka hAthI thA and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahA jAtA thA and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweendarajI darajI rOja Eka kElA dE thA and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:10
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenEka dina darajI nE hAthI kE sAtha khilavAड़ kara kI sOca and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:6
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendarajI hAthI kO kElA na dE Eka suI usakE sAmanE rakha dI and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:13
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensuI kE cubha kE kArana hAthI kO baड़I pIड़A hO and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:4
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenhAthI rOja kI taraha nadI kE pAsa jA and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenhAthI usanE sUMDa mEM pAnI bhara liyA and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenhAthI jaba lauTa kE A rahA thA and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendUkAna kE sAmanE rukha jA and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenpUrA pAnI darajI para u~ड़Ela dE and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:7
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweennaitika zikSA-jaisI kara vaisI bharanI and darajI hAthI kO kElA na dE kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5suI
+---------------
+
+
+suI kE cunE kE kArana hAthI kO kyA huA ?
+
+query suI kE cuna kE kArana hAthI kO kyA hO ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka hAthI thA and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahA jAtA thA and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendarajI darajI rOja Eka kElA dE thA and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina darajI nE hAthI kE sAtha khilavAड़ kara kI sOca and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendarajI hAthI kO kElA na dE Eka suI usakE sAmanE rakha dI and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:7
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensuI kE cubha kE kArana hAthI kO baड़I pIड़A hO and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:13
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenhAthI rOja kI taraha nadI kE pAsa jA and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenhAthI usanE sUMDa mEM pAnI bhara liyA and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenhAthI jaba lauTa kE A rahA thA and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendUkAna kE sAmanE rukha jA and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenpUrA pAnI darajI para u~ड़Ela dE and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweennaitika zikSA-jaisI kara vaisI bharanI and suI kE cuna kE kArana hAthI kO kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6pIड़A
+---------------
+
+
+hAthI nE apanE sUMDa mEM kyA bhara liE ?
+
+query hAthI nE apanE sUMDa mEM kyA bhara lE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka hAthI thA and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahA jAtA thA and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendarajI darajI rOja Eka kElA dE thA and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina darajI nE hAthI kE sAtha khilavAड़ kara kI sOca and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendarajI hAthI kO kElA na dE Eka suI usakE sAmanE rakha dI and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensuI kE cubha kE kArana hAthI kO baड़I pIड़A hO and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI rOja kI taraha nadI kE pAsa jA and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI usanE sUMDa mEM pAnI bhara liyA and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:11
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenhAthI jaba lauTa kE A rahA thA and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweendUkAna kE sAmanE rukha jA and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenpUrA pAnI darajI para u~ड़Ela dE and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweennaitika zikSA-jaisI kara vaisI bharanI and hAthI nE apanE sUMDa mEM kyA bhara lE ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8pAnI
+---------------
+
+
+lauTE vakta hAthI dUkAna kE sAmanE rukha kE kyA kiyA ?
+
+query lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka hAthI thA and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI rOja Eka darajI kI dukAna kE sAmanE sE nadI mEM nahA jAtA thA and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:5
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendarajI darajI rOja Eka kElA dE thA and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina darajI nE hAthI kE sAtha khilavAड़ kara kI sOca and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:8
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendarajI hAthI kO kElA na dE Eka suI usakE sAmanE rakha dI and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensuI kE cubha kE kArana hAthI kO baड़I pIड़A hO and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI rOja kI taraha nadI kE pAsa jA and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI usanE sUMDa mEM pAnI bhara liyA and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI jaba lauTa kE A rahA thA and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:8
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweendUkAna kE sAmanE rukha jA and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:8
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenpUrA pAnI darajI para u~ड़Ela dE and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweennaitika zikSA-jaisI kara vaisI bharanI and lauTa vakta hAthI dUkAna kE sAmanE rukha kE kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 10new_ep: 10rukha
+---------------
+
+

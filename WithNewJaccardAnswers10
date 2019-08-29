@@ -1,0 +1,1078 @@
+Eka bAra mahAtmA gA~dhI kE pAsa kauna AyA ?
+
+query Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra mahAtmA gA~dhI kE pAsa Eka vyakti gItA kA rahasya jAna kE liE A and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:14
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti mahAtmA gA~dhI sE gItA kE rahasya kE bArE mEM puchA and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI usa samaya phAvaड़E sE Azrama kI bhUmi khOda rahE thE and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhOMnE usa vyakti kO pAsa biThA and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenphira sE Azrama kI bhUmi khOda mEM laga gaE and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenisI taraha kAphI samaya hO gayA and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmahAtmA gA~dhI usa vyakti sE kucha nahIM bOla and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAkhira mEM akElE baiTha baiTha parEzAna hO vaha vyakti mahAtmA gA~dhI sE bOla and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison between“ mEM itanI dUra sE ApakI khyAti sunakara gItA kA marma jAnanE kE liE ApakE pAsa AyA thA and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenApa tO kEvala phAvaड़A calA mEM laga huE haiM ” and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI nE uttara diyA and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison between“ bhAI! mEM ApakO gItA kA rahasya hI samajhA rahA thA thA and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmahAtmA gA~dhI kI bAta suna vaha vyakti bOla and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenApa kahA~ samajhA rahE thA Apa tO abhI taka Eka zabda bhI nahIM bOla and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI bOla bOla kI AvazyakatA nahIM hai and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengItA kA marma yahI hai and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti kO karmayOgI hO cAhiE and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbasa phala kI AzA kara bagEra niraMtara karma kara cala and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenyahI gItA kA marma hai ” and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI kE isa uttara kO suna vyakti kO gItA kA rahasya samajha mEM A gayA and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA-vyakti kO phala kI ciMtA kara bagEra hamEzA karma kara rahanA cAhiE and Eka bAra mahAtmA gA~dhI kE pAsa kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1Eka vyakti
+---------------
+
+
+mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAnE AyA ?
+
+query mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra mahAtmA gA~dhI kE pAsa Eka vyakti gItA kA rahasya jAna kE liE A and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:17
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti mahAtmA gA~dhI sE gItA kE rahasya kE bArE mEM puchA and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI usa samaya phAvaड़E sE Azrama kI bhUmi khOda rahE thE and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhOMnE usa vyakti kO pAsa biThA and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenphira sE Azrama kI bhUmi khOda mEM laga gaE and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenisI taraha kAphI samaya hO gayA and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmahAtmA gA~dhI usa vyakti sE kucha nahIM bOla and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAkhira mEM akElE baiTha baiTha parEzAna hO vaha vyakti mahAtmA gA~dhI sE bOla and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison between“ mEM itanI dUra sE ApakI khyAti sunakara gItA kA marma jAnanE kE liE ApakE pAsa AyA thA and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenApa tO kEvala phAvaड़A calA mEM laga huE haiM ” and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI nE uttara diyA and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison between“ bhAI! mEM ApakO gItA kA rahasya hI samajhA rahA thA thA and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmahAtmA gA~dhI kI bAta suna vaha vyakti bOla and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenApa kahA~ samajhA rahE thA Apa tO abhI taka Eka zabda bhI nahIM bOla and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI bOla bOla kI AvazyakatA nahIM hai and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengItA kA marma yahI hai and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti kO karmayOgI hO cAhiE and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbasa phala kI AzA kara bagEra niraMtara karma kara cala and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenyahI gItA kA marma hai ” and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI kE isa uttara kO suna vyakti kO gItA kA rahasya samajha mEM A gayA and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:11
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA-vyakti kO phala kI ciMtA kara bagEra hamEzA karma kara rahanA cAhiE and mahAtmA gA~dhI kE pAsa Eka vyakti kyA jAna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1Eka bAra mahAtmA gA~dhI kE pAsa Eka vyakti gItA kA rahasya jAnanE kE liE AyA
+---------------
+
+
+gA~dhI jI usa samaya kyA kara rahE thE ?
+
+query gA~dhI jI usa samaya kyA kara rahE thE ?
+TYPE:[['time', 'kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra mahAtmA gA~dhI kE pAsa Eka vyakti gItA kA rahasya jAna kE liE A and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti mahAtmA gA~dhI sE gItA kE rahasya kE bArE mEM puchA and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweengA~dhI jI usa samaya phAvaड़E sE Azrama kI bhUmi khOda rahE thE and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:14
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenunhOMnE usa vyakti kO pAsa biThA and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenphira sE Azrama kI bhUmi khOda mEM laga gaE and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenisI taraha kAphI samaya hO gayA and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmahAtmA gA~dhI usa vyakti sE kucha nahIM bOla and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenAkhira mEM akElE baiTha baiTha parEzAna hO vaha vyakti mahAtmA gA~dhI sE bOla and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison between“ mEM itanI dUra sE ApakI khyAti sunakara gItA kA marma jAnanE kE liE ApakE pAsa AyA thA and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenApa tO kEvala phAvaड़A calA mEM laga huE haiM ” and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweengA~dhI jI nE uttara diyA and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:6
+old_ep: 3new_ep: 3
+
+Jaccard comparison between“ bhAI! mEM ApakO gItA kA rahasya hI samajhA rahA thA thA and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmahAtmA gA~dhI kI bAta suna vaha vyakti bOla and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenApa kahA~ samajhA rahE thA Apa tO abhI taka Eka zabda bhI nahIM bOla and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:2
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweengA~dhI jI bOla bOla kI AvazyakatA nahIM hai and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweengItA kA marma yahI hai and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenvyakti kO karmayOgI hO cAhiE and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenbasa phala kI AzA kara bagEra niraMtara karma kara cala and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenyahI gItA kA marma hai ” and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweengA~dhI jI kE isa uttara kO suna vyakti kO gItA kA rahasya samajha mEM A gayA and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:6
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweennaitika zikSA-vyakti kO phala kI ciMtA kara bagEra hamEzA karma kara rahanA cAhiE and gA~dhI jI usa samaya kyA kara rahE thE ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3usa samaya
+---------------
+
+
+gAMdhIjI usa vyakti kO pAsa biThAkara kyA karanE laga gaE ?
+
+query gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra mahAtmA gA~dhI kE pAsa Eka vyakti gItA kA rahasya jAna kE liE A and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti mahAtmA gA~dhI sE gItA kE rahasya kE bArE mEM puchA and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI usa samaya phAvaड़E sE Azrama kI bhUmi khOda rahE thE and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhOMnE usa vyakti kO pAsa biThA and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:10
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenphira sE Azrama kI bhUmi khOda mEM laga gaE and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:6
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenisI taraha kAphI samaya hO gayA and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmahAtmA gA~dhI usa vyakti sE kucha nahIM bOla and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenAkhira mEM akElE baiTha baiTha parEzAna hO vaha vyakti mahAtmA gA~dhI sE bOla and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison between“ mEM itanI dUra sE ApakI khyAti sunakara gItA kA marma jAnanE kE liE ApakE pAsa AyA thA and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenApa tO kEvala phAvaड़A calA mEM laga huE haiM ” and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweengA~dhI jI nE uttara diyA and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison between“ bhAI! mEM ApakO gItA kA rahasya hI samajhA rahA thA thA and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmahAtmA gA~dhI kI bAta suna vaha vyakti bOla and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenApa kahA~ samajhA rahE thA Apa tO abhI taka Eka zabda bhI nahIM bOla and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweengA~dhI jI bOla bOla kI AvazyakatA nahIM hai and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweengItA kA marma yahI hai and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenvyakti kO karmayOgI hO cAhiE and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbasa phala kI AzA kara bagEra niraMtara karma kara cala and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenyahI gItA kA marma hai ” and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweengA~dhI jI kE isa uttara kO suna vyakti kO gItA kA rahasya samajha mEM A gayA and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweennaitika zikSA-vyakti kO phala kI ciMtA kara bagEra hamEzA karma kara rahanA cAhiE and gA~dhIjI usa vyakti kO pAsa biThA kyA kara laga gaE ?
+
+
+
+jaccardscore:5
+old_ep: 4new_ep: 4vyakti
+---------------
+
+
+akElE baiThE parEzAM huE vyakti nE gAMdhIjI sE kyA bOlai ?
+
+query akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra mahAtmA gA~dhI kE pAsa Eka vyakti gItA kA rahasya jAna kE liE A and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti mahAtmA gA~dhI sE gItA kE rahasya kE bArE mEM puchA and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweengA~dhI jI usa samaya phAvaड़E sE Azrama kI bhUmi khOda rahE thE and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenunhOMnE usa vyakti kO pAsa biThA and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenphira sE Azrama kI bhUmi khOda mEM laga gaE and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenisI taraha kAphI samaya hO gayA and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 6
+
+Jaccard comparison betweenmahAtmA gA~dhI usa vyakti sE kucha nahIM bOla and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:4
+old_ep: 7new_ep: 6
+
+Jaccard comparison betweenAkhira mEM akElE baiTha baiTha parEzAna hO vaha vyakti mahAtmA gA~dhI sE bOla and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:15
+old_ep: 8new_ep: 8
+
+Jaccard comparison between“ mEM itanI dUra sE ApakI khyAti sunakara gItA kA marma jAnanE kE liE ApakE pAsa AyA thA and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:1
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenApa tO kEvala phAvaड़A calA mEM laga huE haiM ” and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweengA~dhI jI nE uttara diyA and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:1
+old_ep: 8new_ep: 8
+
+Jaccard comparison between“ bhAI! mEM ApakO gItA kA rahasya hI samajhA rahA thA thA and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenmahAtmA gA~dhI kI bAta suna vaha vyakti bOla and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenApa kahA~ samajhA rahE thA Apa tO abhI taka Eka zabda bhI nahIM bOla and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweengA~dhI jI bOla bOla kI AvazyakatA nahIM hai and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweengItA kA marma yahI hai and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenvyakti kO karmayOgI hO cAhiE and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:7
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenbasa phala kI AzA kara bagEra niraMtara karma kara cala and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenyahI gItA kA marma hai ” and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweengA~dhI jI kE isa uttara kO suna vyakti kO gItA kA rahasya samajha mEM A gayA and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweennaitika zikSA-vyakti kO phala kI ciMtA kara bagEra hamEzA karma kara rahanA cAhiE and akElE baiTha parEzAM hO vyakti nE gA~dhIjI sE kyA bOlai ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8gA~dhI
+---------------
+
+
+gaMphiji nE kyA uttara diyA ?
+
+query gaMphiji nE kyA uttara dE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra mahAtmA gA~dhI kE pAsa Eka vyakti gItA kA rahasya jAna kE liE A and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti mahAtmA gA~dhI sE gItA kE rahasya kE bArE mEM puchA and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI usa samaya phAvaड़E sE Azrama kI bhUmi khOda rahE thE and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhOMnE usa vyakti kO pAsa biThA and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenphira sE Azrama kI bhUmi khOda mEM laga gaE and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenisI taraha kAphI samaya hO gayA and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmahAtmA gA~dhI usa vyakti sE kucha nahIM bOla and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAkhira mEM akElE baiTha baiTha parEzAna hO vaha vyakti mahAtmA gA~dhI sE bOla and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison between“ mEM itanI dUra sE ApakI khyAti sunakara gItA kA marma jAnanE kE liE ApakE pAsa AyA thA and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenApa tO kEvala phAvaड़A calA mEM laga huE haiM ” and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI nE uttara diyA and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:4
+old_ep: 11new_ep: 11
+
+Jaccard comparison between“ bhAI! mEM ApakO gItA kA rahasya hI samajhA rahA thA thA and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenmahAtmA gA~dhI kI bAta suna vaha vyakti bOla and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenApa kahA~ samajhA rahE thA Apa tO abhI taka Eka zabda bhI nahIM bOla and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweengA~dhI jI bOla bOla kI AvazyakatA nahIM hai and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweengItA kA marma yahI hai and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenvyakti kO karmayOgI hO cAhiE and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenbasa phala kI AzA kara bagEra niraMtara karma kara cala and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenyahI gItA kA marma hai ” and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweengA~dhI jI kE isa uttara kO suna vyakti kO gItA kA rahasya samajha mEM A gayA and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:3
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweennaitika zikSA-vyakti kO phala kI ciMtA kara bagEra hamEzA karma kara rahanA cAhiE and gaMphiji nE kyA uttara dE ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11uttara
+---------------
+
+
+gItA kA marma kyA haiM ?
+
+query gItA kA marma kyA hai ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra mahAtmA gA~dhI kE pAsa Eka vyakti gItA kA rahasya jAna kE liE A and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvyakti mahAtmA gA~dhI sE gItA kE rahasya kE bArE mEM puchA and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengA~dhI jI usa samaya phAvaड़E sE Azrama kI bhUmi khOda rahE thE and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhOMnE usa vyakti kO pAsa biThA and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenphira sE Azrama kI bhUmi khOda mEM laga gaE and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenisI taraha kAphI samaya hO gayA and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmahAtmA gA~dhI usa vyakti sE kucha nahIM bOla and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAkhira mEM akElE baiTha baiTha parEzAna hO vaha vyakti mahAtmA gA~dhI sE bOla and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison between“ mEM itanI dUra sE ApakI khyAti sunakara gItA kA marma jAnanE kE liE ApakE pAsa AyA thA and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:7
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenApa tO kEvala phAvaड़A calA mEM laga huE haiM ” and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweengA~dhI jI nE uttara diyA and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison between“ bhAI! mEM ApakO gItA kA rahasya hI samajhA rahA thA thA and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenmahAtmA gA~dhI kI bAta suna vaha vyakti bOla and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenApa kahA~ samajhA rahE thA Apa tO abhI taka Eka zabda bhI nahIM bOla and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweengA~dhI jI bOla bOla kI AvazyakatA nahIM hai and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweengItA kA marma yahI hai and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:11
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenvyakti kO karmayOgI hO cAhiE and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenbasa phala kI AzA kara bagEra niraMtara karma kara cala and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenyahI gItA kA marma hai ” and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:11
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweengA~dhI jI kE isa uttara kO suna vyakti kO gItA kA rahasya samajha mEM A gayA and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:4
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweennaitika zikSA-vyakti kO phala kI ciMtA kara bagEra hamEzA karma kara rahanA cAhiE and gItA kA marma kyA hai ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16yahI
+---------------
+
+

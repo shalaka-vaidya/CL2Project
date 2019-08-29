@@ -1,0 +1,630 @@
+ritEza kE pAsa kyA thE ?
+
+query ritEza kE pAsa kyA thA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenritEza kakSA tIsarI mEM paDha thA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusakE pAsa tIna chOTE pyArE-pyArE kharagOza thA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza ritEza kharagOza sE bahuta pyAra kara thA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA vaha kharagOza kO khila thA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaura phira skUla jA thA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenskUla sE A bhI usakE liE ghAsa lA thA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina kI bAta hai ritEza kO skUla kE liE dErI hO rahI thI and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb ghAsa nahIM lA sakA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaura skUla calA gayA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjaba skUla sE A and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkharagOza kharagOza ghara mEM nahIM thA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza nE khUba DhUMDha parantu kahIM nahIM milA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensaba lOgOM sE pUcha magara kharagOza kahIM bhI nahIM milA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza udAsa hO gayA rO-rOkara AMkhE lAla hO gaI and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza aba pArka mEM baiTha rO lagA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha dEra bAda ritEza dEkha hai and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusakE tInOM kharagOza ghAsa khA rahE thE and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaura khEla rahE thE and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza khuza hO gauE and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza samajha gayA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenina kO bhUkha laga thA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb pArka mEM A hai and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbhUkha bhUkha laga hai and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmEM mA~ sE khAnA mAMga lE hai and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpara inakI tOha mA~ bhI nahIM hai and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusE duHkha bhI hO and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkharagOza kO mila and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenख़uzI bhI hO and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA - jO dUsarOM kE darda kO samajha hai duHkha duHkha chU bhI nahIM pA and ritEza kE pAsa kyA thA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1ritEza kakSA tIsarI mEM paDhatA thA
+---------------
+
+
+ritEza skUla jAnE sE pahalE pArka sE harE-harE kOmala ghAsa lAkara kyA karatA thA ?
+
+query ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenritEza kakSA tIsarI mEM paDha thA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusakE pAsa tIna chOTE pyArE-pyArE kharagOza thA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza ritEza kharagOza sE bahuta pyAra kara thA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:10
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA vaha kharagOza kO khila thA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:31
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenaura phira skUla jA thA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:5
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenskUla sE A bhI usakE liE ghAsa lA thA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:13
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenEka dina kI bAta hai ritEza kO skUla kE liE dErI hO rahI thI and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:6
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenb ghAsa nahIM lA sakA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:7
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenaura skUla calA gayA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenjaba skUla sE A and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkharagOza kharagOza ghara mEM nahIM thA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenritEza nE khUba DhUMDha parantu kahIM nahIM milA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensaba lOgOM sE pUcha magara kharagOza kahIM bhI nahIM milA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenritEza udAsa hO gayA rO-rOkara AMkhE lAla hO gaI and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenritEza aba pArka mEM baiTha rO lagA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:6
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkucha dEra bAda ritEza dEkha hai and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenusakE tInOM kharagOza ghAsa khA rahE thE and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenaura khEla rahE thE and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenritEza khuza hO gauE and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenritEza samajha gayA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenina kO bhUkha laga thA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:2
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenb pArka mEM A hai and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbhUkha bhUkha laga hai and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmEM mA~ sE khAnA mAMga lE hai and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenpara inakI tOha mA~ bhI nahIM hai and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenusE duHkha bhI hO and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkharagOza kO mila and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenख़uzI bhI hO and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweennaitika zikSA - jO dUsarOM kE darda kO samajha hai duHkha duHkha chU bhI nahIM pA and ritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4kharagOza
+---------------
+
+
+ritEza khuza hO kara kyA samajha gayA ? 
+
+query ritEza khuza hO kara kyA samajha gayA ? 
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenritEza kakSA tIsarI mEM paDha thA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusakE pAsa tIna chOTE pyArE-pyArE kharagOza thA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenritEza ritEza kharagOza sE bahuta pyAra kara thA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:7
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenritEza skUla jAna sE pahalE pArka sE harE-harE kOmala ghAsa lA vaha kharagOza kO khila thA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenaura phira skUla jA thA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenskUla sE A bhI usakE liE ghAsa lA thA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenEka dina kI bAta hai ritEza kO skUla kE liE dErI hO rahI thI and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:7
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenb ghAsa nahIM lA sakA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenaura skUla calA gayA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:2
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjaba skUla sE A and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkharagOza kharagOza ghara mEM nahIM thA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenritEza nE khUba DhUMDha parantu kahIM nahIM milA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweensaba lOgOM sE pUcha magara kharagOza kahIM bhI nahIM milA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenritEza udAsa hO gayA rO-rOkara AMkhE lAla hO gaI and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:9
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenritEza aba pArka mEM baiTha rO lagA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:3
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenkucha dEra bAda ritEza dEkha hai and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:3
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenusakE tInOM kharagOza ghAsa khA rahE thE and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenaura khEla rahE thE and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenritEza khuza hO gauE and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:12
+old_ep: 19new_ep: 19
+
+Jaccard comparison betweenritEza samajha gayA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:9
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweenina kO bhUkha laga thA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweenb pArka mEM A hai and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweenbhUkha bhUkha laga hai and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweenmEM mA~ sE khAnA mAMga lE hai and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweenpara inakI tOha mA~ bhI nahIM hai and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweenusE duHkha bhI hO and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:4
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweenkharagOza kO mila and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:0
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweenख़uzI bhI hO and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:4
+old_ep: 20new_ep: 19
+
+Jaccard comparison betweennaitika zikSA - jO dUsarOM kE darda kO samajha hai duHkha duHkha chU bhI nahIM pA and ritEza khuza hO kara kyA samajha gayA ? 
+
+
+
+jaccardscore:4
+old_ep: 20new_ep: 19khuza
+---------------
+
+

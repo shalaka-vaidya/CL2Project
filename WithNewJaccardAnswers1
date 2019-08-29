@@ -1,0 +1,801 @@
+murgA taMga hOnE kE bAda kyA hO gayA ?
+
+query murgA taMga hO kE bAda kyA hO gayA ?
+MUAHAHA?TYPE:['special', 'given', 'murgA taMga hO kE', 0]
+
+Jaccard comparison betweentbd and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka samaya kI bAta hai and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentbd and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengAMva kE baccOM nE kisI Eka murgA kO taMga kara diyA thA and murgA taMga hO kE
+
+
+jaccardscore:9
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmurgA parEzAna hO gayA and murgA taMga hO kE
+
+
+jaccardscore:7
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweentbd and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweensaba sO raha and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweenahamiyata ahamiyata sabakO samajha mEM A and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweentbd and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweentbd and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweensabhI lOga samaya para uTha and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweenapanE-apanE kAma mEM laga gaE and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweenisa para murgA kO samajha mEM A gayA and murgA taMga hO kE
+
+
+jaccardscore:3
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweentbd and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweentbd and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4
+
+Jaccard comparison betweentbd and murgA taMga hO kE
+
+
+jaccardscore:0
+old_ep: 5new_ep: 4 murgA parEzAna hO gayA
+---------------
+
+
+gAMva mEM kitanE murgE rahatE thE ?
+
+query gAMva mEM kitanE murgA raha thE ?
+TYPE:[['intf', 'murgA'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka samaya kI bAta hai and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka gAMva mEM DhEra sArE murgA raha thE and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:13
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweengAMva kE baccOM nE kisI Eka murgA kO taMga kara diyA thA and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:6
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenmurgA parEzAna hO gayA and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenmurgA sOcA agalE dina subaha murgA AvAज़ nahIM kara and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweensaba sO raha and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenahamiyata ahamiyata sabakO samajha mEM A and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenmujhE taMga nahIM kara and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenmurgA agalI subaha kucha nahIM bOla and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweensabhI lOga samaya para uTha and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenapanE-apanE kAma mEM laga gaE and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenisa para murgA kO samajha mEM A gayA and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkisI kE binA kOI kAma nahIM ruka and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweensabakA kAma cala rahatA haiM and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweennaitika zikSA- ghamaMDa nahIM kara cAhiE and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenlOgO ahamiyata lOgO kO binA batA patA cala haiM and gAMva mEM kitanE murgA raha thE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2Eka gAMva mEM DhEra sArE murgE rahatE thE
+---------------
+
+
+gAMva kE baccOM nE kyA kiyA ?
+
+query gAMva kE baccA nE kyA kara ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka samaya kI bAta hai and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka gAMva mEM DhEra sArE murgA raha thE and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweengAMva kE baccOM nE kisI Eka murgA kO taMga kara diyA thA and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:9
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA parEzAna hO gayA and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA sOcA agalE dina subaha murgA AvAज़ nahIM kara and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweensaba sO raha and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenahamiyata ahamiyata sabakO samajha mEM A and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmujhE taMga nahIM kara and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA agalI subaha kucha nahIM bOla and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweensabhI lOga samaya para uTha and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenapanE-apanE kAma mEM laga gaE and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenisa para murgA kO samajha mEM A gayA and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkisI kE binA kOI kAma nahIM ruka and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweensabakA kAma cala rahatA haiM and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweennaitika zikSA- ghamaMDa nahIM kara cAhiE and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenlOgO ahamiyata lOgO kO binA batA patA cala haiM and gAMva kE baccA nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3taMga
+---------------
+
+
+gAMva kE baccOM nE Eka murgE kO kyA kiyA ?
+
+query gAMva kE baccA nE Eka murgA kO kyA kara ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka samaya kI bAta hai and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka gAMva mEM DhEra sArE murgA raha thE and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:7
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweengAMva kE baccOM nE kisI Eka murgA kO taMga kara diyA thA and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:14
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA parEzAna hO gayA and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA sOcA agalE dina subaha murgA AvAज़ nahIM kara and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:7
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweensaba sO raha and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenahamiyata ahamiyata sabakO samajha mEM A and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmujhE taMga nahIM kara and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA agalI subaha kucha nahIM bOla and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweensabhI lOga samaya para uTha and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenapanE-apanE kAma mEM laga gaE and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenisa para murgA kO samajha mEM A gayA and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkisI kE binA kOI kAma nahIM ruka and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweensabakA kAma cala rahatA haiM and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweennaitika zikSA- ghamaMDa nahIM kara cAhiE and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenlOgO ahamiyata lOgO kO binA batA patA cala haiM and gAMva kE baccA nE Eka murgA kO kyA kara ?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3taMga
+---------------
+
+
+murgA parEzAM kyOM huA ?
+
+query murgA parEzAM kyOM hO ?
+MUAHAHA?TYPE:['special', 'new', 'murgA parEzAM', 1]
+
+Jaccard comparison betweenEka samaya kI bAta hai and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka gAMva mEM DhEra sArE murgA raha thE and murgA parEzAM
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweengAMva kE baccOM nE kisI Eka murgA kO taMga kara diyA thA and murgA parEzAM
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenmurgA parEzAna hO gayA and murgA parEzAM
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmurgA sOcA agalE dina subaha murgA AvAज़ nahIM kara and murgA parEzAM
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensaba sO raha and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenahamiyata ahamiyata sabakO samajha mEM A and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmujhE taMga nahIM kara and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmurgA agalI subaha kucha nahIM bOla and murgA parEzAM
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensabhI lOga samaya para uTha and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenapanE-apanE kAma mEM laga gaE and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenisa para murgA kO samajha mEM A gayA and murgA parEzAM
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkisI kE binA kOI kAma nahIM ruka and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensabakA kAma cala rahatA haiM and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweennaitika zikSA- ghamaMDa nahIM kara cAhiE and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenlOgO ahamiyata lOgO kO binA batA patA cala haiM and murgA parEzAM
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4 gAMva kE baccOM nE kisI Eka murgE kO taMga kara diyA thA
+---------------
+
+
+murgE nE kyA sOcA ?
+
+query murgA nE kyA sOcA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka samaya kI bAta hai and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka gAMva mEM DhEra sArE murgA raha thE and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweengAMva kE baccOM nE kisI Eka murgA kO taMga kara diyA thA and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA parEzAna hO gayA and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA sOcA agalE dina subaha murgA AvAज़ nahIM kara and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:7
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensaba sO raha and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenahamiyata ahamiyata sabakO samajha mEM A and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenmujhE taMga nahIM kara and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenmurgA agalI subaha kucha nahIM bOla and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensabhI lOga samaya para uTha and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenapanE-apanE kAma mEM laga gaE and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenisa para murgA kO samajha mEM A gayA and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkisI kE binA kOI kAma nahIM ruka and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensabakA kAma cala rahatA haiM and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweennaitika zikSA- ghamaMDa nahIM kara cAhiE and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenlOgO ahamiyata lOgO kO binA batA patA cala haiM and murgA nE kyA sOcA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5karU~gA
+---------------
+
+
+murgA nE agalI subaha kyA kiyA ?
+
+query murgA nE agalI subaha kyA kara ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka samaya kI bAta hai and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka gAMva mEM DhEra sArE murgA raha thE and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweengAMva kE baccOM nE kisI Eka murgA kO taMga kara diyA thA and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:8
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA parEzAna hO gayA and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmurgA sOcA agalE dina subaha murgA AvAज़ nahIM kara and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:10
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensaba sO raha and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenahamiyata ahamiyata sabakO samajha mEM A and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenmujhE taMga nahIM kara and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenmurgA agalI subaha kucha nahIM bOla and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:11
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweensabhI lOga samaya para uTha and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenapanE-apanE kAma mEM laga gaE and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenisa para murgA kO samajha mEM A gayA and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenkisI kE binA kOI kAma nahIM ruka and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweensabakA kAma cala rahatA haiM and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweennaitika zikSA- ghamaMDa nahIM kara cAhiE and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenlOgO ahamiyata lOgO kO binA batA patA cala haiM and murgA nE agalI subaha kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9kucha
+---------------
+
+

@@ -1,0 +1,991 @@
+cUhA sOtE huE siMha kE zarIra para kyA karanE lagA ?
+
+query cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka cUhA sO huE siMha kE zarIra para uchAla-kUda kara lagA and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:23
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMnhA kI A~kha khula and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb cUhA kO pakaड़ liyA and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUha nE siMha sE kahA " cUha chOड़ dIjiyE and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmErE sE galatI hOgayI and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmaiM vAdA kara hU~ bhaviSya mEM ApakI madata kara " and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenyaha suna siMha haMsA aura usa cUhA kI bahAdurI dEkha kE usE chOड़ diyA and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha samaya bAda siMha Eka zikArI kI jAla mEM pha~sa gayA and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjOra jOra jOra sE dahAड़nE lagA and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlEkina kOI madada nahIM mila and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenitanE cUhA cUhA nE siMha kI darda bhara dahAड़ suna and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmadada kara Daॉga paड़A and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha hI dEra mEM b usanE dA~tOM sE jAla kO kATa DAlA and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMha kO mukta and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendE and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb dOnOM acchE mitra bana gaE and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA- kisIkO chOTA nahIM samajha cAhiE and cUhA sO huE siMha kE zarIra para kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1uchAla-kUda
+---------------
+
+
+siMha nE A~khE khOla kE kyA kiyA ? 
+
+query siMha nE A~khE khOla kE kyA kara ? 
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka cUhA sO huE siMha kE zarIra para uchAla-kUda kara lagA and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMnhA kI A~kha khula and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb cUhA kO pakaड़ liyA and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUha nE siMha sE kahA " cUha chOड़ dIjiyE and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmErE sE galatI hOgayI and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmaiM vAdA kara hU~ bhaviSya mEM ApakI madata kara " and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenyaha suna siMha haMsA aura usa cUhA kI bahAdurI dEkha kE usE chOड़ diyA and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha samaya bAda siMha Eka zikArI kI jAla mEM pha~sa gayA and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjOra jOra jOra sE dahAड़nE lagA and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlEkina kOI madada nahIM mila and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenitanE cUhA cUhA nE siMha kI darda bhara dahAड़ suna and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmadada kara Daॉga paड़A and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha hI dEra mEM b usanE dA~tOM sE jAla kO kATa DAlA and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMha kO mukta and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendE and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb dOnOM acchE mitra bana gaE and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA- kisIkO chOTA nahIM samajha cAhiE and siMha nE A~khE khOla kE kyA kara ? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1uchAla-kUda
+---------------
+
+
+siMha kisakI jAla maiM pha~sa gayA ?
+
+query siMha kisakI jAla maiM pha~sa gayA ?
+TYPE:[['Karma'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka cUhA sO huE siMha kE zarIra para uchAla-kUda kara lagA and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMnhA kI A~kha khula and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb cUhA kO pakaड़ liyA and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUha nE siMha sE kahA " cUha chOड़ dIjiyE and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmErE sE galatI hOgayI and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmaiM vAdA kara hU~ bhaviSya mEM ApakI madata kara " and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenyaha suna siMha haMsA aura usa cUhA kI bahAdurI dEkha kE usE chOड़ diyA and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkucha samaya bAda siMha Eka zikArI kI jAla mEM pha~sa gayA and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:12
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenjOra jOra jOra sE dahAड़nE lagA and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenlEkina kOI madada nahIM mila and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenitanE cUhA cUhA nE siMha kI darda bhara dahAड़ suna and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenmadada kara Daॉga paड़A and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenkucha hI dEra mEM b usanE dA~tOM sE jAla kO kATa DAlA and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweensiMha kO mukta and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweendE and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenb dOnOM acchE mitra bana gaE and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweennaitika zikSA- kisIkO chOTA nahIM samajha cAhiE and siMha kisakI jAla maiM pha~sa gayA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+---------------
+
+
+siMha jOra-jOra sE kyA karanE lagA ?
+
+query siMha jOra-jOra sE kyA kara lagA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka cUhA sO huE siMha kE zarIra para uchAla-kUda kara lagA and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:9
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMnhA kI A~kha khula and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb cUhA kO pakaड़ liyA and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUha nE siMha sE kahA " cUha chOड़ dIjiyE and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmErE sE galatI hOgayI and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmaiM vAdA kara hU~ bhaviSya mEM ApakI madata kara " and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenyaha suna siMha haMsA aura usa cUhA kI bahAdurI dEkha kE usE chOड़ diyA and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha samaya bAda siMha Eka zikArI kI jAla mEM pha~sa gayA and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjOra jOra jOra sE dahAड़nE lagA and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:3
+old_ep: 9new_ep: 1
+
+Jaccard comparison betweenlEkina kOI madada nahIM mila and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 1
+
+Jaccard comparison betweenitanE cUhA cUhA nE siMha kI darda bhara dahAड़ suna and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:3
+old_ep: 9new_ep: 1
+
+Jaccard comparison betweenmadada kara Daॉga paड़A and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 1
+
+Jaccard comparison betweenkucha hI dEra mEM b usanE dA~tOM sE jAla kO kATa DAlA and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 1
+
+Jaccard comparison betweensiMha kO mukta and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:3
+old_ep: 9new_ep: 1
+
+Jaccard comparison betweendE and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 1
+
+Jaccard comparison betweenb dOnOM acchE mitra bana gaE and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 1
+
+Jaccard comparison betweennaitika zikSA- kisIkO chOTA nahIM samajha cAhiE and siMha jOra-jOra sE kyA kara lagA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 1uchAla-kUda
+---------------
+
+
+kainE siMha kI dahAड़ sunI ?
+
+query kainE siMha kI dahAड़ suna ?
+TYPE:[[], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka cUhA sO huE siMha kE zarIra para uchAla-kUda kara lagA and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMnhA kI A~kha khula and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 1
+
+Jaccard comparison betweenb cUhA kO pakaड़ liyA and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 1
+
+Jaccard comparison betweencUha nE siMha sE kahA " cUha chOड़ dIjiyE and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 4
+
+Jaccard comparison betweenmErE sE galatI hOgayI and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 4
+
+Jaccard comparison betweenmaiM vAdA kara hU~ bhaviSya mEM ApakI madata kara " and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 4
+
+Jaccard comparison betweenyaha suna siMha haMsA aura usa cUhA kI bahAdurI dEkha kE usE chOड़ diyA and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:6
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenkucha samaya bAda siMha Eka zikArI kI jAla mEM pha~sa gayA and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:4
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenjOra jOra jOra sE dahAड़nE lagA and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenlEkina kOI madada nahIM mila and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenitanE cUhA cUhA nE siMha kI darda bhara dahAड़ suna and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:11
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenmadada kara Daॉga paड़A and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenkucha hI dEra mEM b usanE dA~tOM sE jAla kO kATa DAlA and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweensiMha kO mukta and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:3
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweendE and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenb dOnOM acchE mitra bana gaE and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweennaitika zikSA- kisIkO chOTA nahIM samajha cAhiE and kainE siMha kI dahAड़ suna ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+---------------
+
+
+cUhE nE kissE jAla kaTA ?
+
+query cUhA nE kissE jAla kaTA ?
+TYPE:[[], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka cUhA sO huE siMha kE zarIra para uchAla-kUda kara lagA and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMnhA kI A~kha khula and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb cUhA kO pakaड़ liyA and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweencUha nE siMha sE kahA " cUha chOड़ dIjiyE and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmErE sE galatI hOgayI and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmaiM vAdA kara hU~ bhaviSya mEM ApakI madata kara " and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenyaha suna siMha haMsA aura usa cUhA kI bahAdurI dEkha kE usE chOड़ diyA and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkucha samaya bAda siMha Eka zikArI kI jAla mEM pha~sa gayA and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjOra jOra jOra sE dahAड़nE lagA and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenlEkina kOI madada nahIM mila and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenitanE cUhA cUhA nE siMha kI darda bhara dahAड़ suna and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:4
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenmadada kara Daॉga paड़A and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenkucha hI dEra mEM b usanE dA~tOM sE jAla kO kATa DAlA and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:3
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweensiMha kO mukta and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweendE and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenb dOnOM acchE mitra bana gaE and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweennaitika zikSA- kisIkO chOTA nahIM samajha cAhiE and cUhA nE kissE jAla kaTA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+---------------
+
+
+siMha nE cUhE kO kyOM chOड़ diyA ?
+
+query siMha nE cUhA kO kyOM chOड़ diyA ?
+MUAHAHA?TYPE:['special', 'new', 'siMha nE cUhA kO', 1]
+
+Jaccard comparison betweenEka dina Eka cUhA sO huE siMha kE zarIra para uchAla-kUda kara lagA and siMha nE cUha kO
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMnhA kI A~kha khula and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb cUhA kO pakaड़ liyA and siMha nE cUha kO
+
+
+jaccardscore:1
+old_ep: 3new_ep: 1
+
+Jaccard comparison betweencUha nE siMha sE kahA " cUha chOड़ dIjiyE and siMha nE cUha kO
+
+
+jaccardscore:7
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmErE sE galatI hOgayI and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmaiM vAdA kara hU~ bhaviSya mEM ApakI madata kara " and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenyaha suna siMha haMsA aura usa cUhA kI bahAdurI dEkha kE usE chOड़ diyA and siMha nE cUha kO
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkucha samaya bAda siMha Eka zikArI kI jAla mEM pha~sa gayA and siMha nE cUha kO
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenjOra jOra jOra sE dahAड़nE lagA and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenlEkina kOI madada nahIM mila and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenitanE cUhA cUhA nE siMha kI darda bhara dahAड़ suna and siMha nE cUha kO
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmadada kara Daॉga paड़A and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkucha hI dEra mEM b usanE dA~tOM sE jAla kO kATa DAlA and siMha nE cUha kO
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensiMha kO mukta and siMha nE cUha kO
+
+
+jaccardscore:4
+old_ep: 14new_ep: 4
+
+Jaccard comparison betweendE and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 14new_ep: 4
+
+Jaccard comparison betweenb dOnOM acchE mitra bana gaE and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 14new_ep: 4
+
+Jaccard comparison betweennaitika zikSA- kisIkO chOTA nahIM samajha cAhiE and siMha nE cUha kO
+
+
+jaccardscore:0
+old_ep: 14new_ep: 4tbd
+---------------
+
+
+cUhE nE kyA vAdA kiyA ?
+
+query cUhA nE kyA vAdA kara ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka cUhA sO huE siMha kE zarIra para uchAla-kUda kara lagA and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiMnhA kI A~kha khula and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb cUhA kO pakaड़ liyA and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUha nE siMha sE kahA " cUha chOड़ dIjiyE and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmErE sE galatI hOgayI and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmaiM vAdA kara hU~ bhaviSya mEM ApakI madata kara " and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:7
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenyaha suna siMha haMsA aura usa cUhA kI bahAdurI dEkha kE usE chOड़ diyA and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:3
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenkucha samaya bAda siMha Eka zikArI kI jAla mEM pha~sa gayA and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenjOra jOra jOra sE dahAड़nE lagA and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenlEkina kOI madada nahIM mila and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenitanE cUhA cUhA nE siMha kI darda bhara dahAड़ suna and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenmadada kara Daॉga paड़A and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenkucha hI dEra mEM b usanE dA~tOM sE jAla kO kATa DAlA and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweensiMha kO mukta and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendE and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenb dOnOM acchE mitra bana gaE and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweennaitika zikSA- kisIkO chOTA nahIM samajha cAhiE and cUhA nE kyA vAdA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6madata
+---------------
+
+

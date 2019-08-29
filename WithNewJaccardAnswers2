@@ -1,0 +1,1821 @@
+zEra kisakA rAjA hOtA hai ?
+
+query zEra kisakA rAjA hO hai ?
+TYPE:[['kiska', 'rAjA'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:12
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:9
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAdEza dE and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAsana hila jAtA hai and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpariNAma galata sAbita hO and zEra kisakA rAjA hO hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1jaMgala
+---------------
+
+
+jaMgala kA rAjA kauna hOtA hai ?
+
+query jaMgala kA rAjA kauna hO hai ?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:13
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAdEza dE and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAsana hila jAtA hai and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpariNAma galata sAbita hO and jaMgala kA rAjA kauna hO hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+zEra jaMgala kA rAjA hOtA hai
+---------------
+
+
+zEra apanE jaMgala mEM kyA karatA thA ?
+
+query zEra apanE jaMgala mEM kyA kara thA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:7
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:5
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:6
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenAdEza dE and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:5
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenAsana hila jAtA hai and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:7
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenpariNAma galata sAbita hO and zEra apanE jaMgala mEM kyA kara thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2zEra vaha jaMgala mEM sabakO DarAkara rakhatA hai
+---------------
+
+
+kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+query kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:9
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:2
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenAdEza dE and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenAsana hila jAtA hai and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenpariNAma galata sAbita hO and kisanE jaMgala mEM sabakO DarA kE rakhA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2 vaha apanE jaMgala mEM sabakO DarAkara rakhatA hai
+---------------
+
+
+jaMgala mEM kauna ghUmanE AyA ?
+
+query jaMgala mEM kauna ghUma A ?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:8
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenAdEza dE and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenAsana hila jAtA hai and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenpariNAma galata sAbita hO and jaMgala mEM kauna ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4 Eka dina zahara kA rAjA jaMgala mEM ghUmanE gayA 
+---------------
+
+
+jaMgala mEM Eka dina kisakA rAjA ghUmE AyA ?
+
+query jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+TYPE:[['time', 'kiska', 'rAjA'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:15
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenAdEza dE and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenAsana hila jAtA hai and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenpariNAma galata sAbita hO and jaMgala mEM Eka dina kisakA rAjA ghUma A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4Eka dina
+---------------
+
+
+zEra nE kyA dEkhA ?
+
+query zEra nE kyA dEkhA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:8
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:4
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenAdEza dE and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenAsana hila jAtA hai and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:4
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenpariNAma galata sAbita hO and zEra nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5Asana
+---------------
+
+
+rAjA kahA~ para baiThA thA ?
+
+query rAjA kahA~ para baiThA thA ?
+TYPE:[['location'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:6
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:1
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenAdEza dE and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:1
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:4
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:5
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenAsana hila jAtA hai and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenpariNAma galata sAbita hO and rAjA kahA~ para baiThA thA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5 hAthI para
+---------------
+
+
+zEra nE jaMgala kE sabhI jAnavarOM sE kyA kahA ?
+
+query zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:9
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenAdEza dE and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:2
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenAsana hila jAtA hai and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:4
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:4
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenpariNAma galata sAbita hO and zEra nE jaMgala kE sabhI jAnavara sE kyA kahA ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7jAnavarOM
+---------------
+
+
+kauna uchalakara Asana para baiTha gayA ?
+
+query kauna uchala Asana para baiTha gayA ?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:2
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:4
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:7
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenAdEza dE and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 6
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:5
+old_ep: 9new_ep: 6
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:8
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenAsana hila jAtA hai and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:3
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenpariNAma galata sAbita hO and kauna uchala Asana para baiTha gayA ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+---------------
+
+
+jaba hAthI AgE calatA hai taba Asana kA kyA hOtA hai ?
+
+query jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 5
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 5
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 5
+
+Jaccard comparison betweenAdEza dE and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 5
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 5
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 5
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 5
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:10
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenAsana hila jAtA hai and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:5
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:2
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 12
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:6
+old_ep: 12new_ep: 12
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenpariNAma galata sAbita hO and jaba hAthI AgE cala hai taba Asana kA kyA hO hai ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 12Asana hila jAtA hai
+---------------
+
+
+Asana kE hila jAnE sE zEra kA kyA huA ?
+
+query Asana kE hila jAna sE zEra kA kyA hO ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAdEza dE and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAsana hila jAtA hai and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpariNAma galata sAbita hO and Asana kE hila jAna sE zEra kA kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1rAjA
+---------------
+
+
+zEra kA kyA TUTA ?
+
+query zEra kA kyA TUTa ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenzEra jaMgala kA rAjA hO hai and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra vaha jaMgala mEM sabakO DarA rakha hai and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra bhayaMkara aura balazAlI hO hai and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina zahara kA rAjA jaMgala mEM ghUma gayA and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE dEkhA rAjA hAthI para Asana lagA kara baiThA hai and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kE mana mEM bhI hAthI para Asana lagA baiTha kA upAya sujhA and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nE jaMgala kE sabhI jAnavarOM kO batA and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAdEza dE and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI para Eka Asana lagA jAE and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbasa kyA thA jhaTa sE Asana laga gayA and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra uchala hAthI para laga Asana mEM jA baiThA and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenhAthI jaisE hI AgE ki Ora cala hai and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAsana hila jAtA hai and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra nIcE dhaड़Ama sE gira jAtA hai and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzEra kI TAMga TUTa gaI zEra khaड़A hO kaha lagA and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 15
+
+Jaccard comparison between-'paidala cala hI ThIka raha hai and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 15
+
+Jaccard comparison between" naitika zikhA- jisakA kAma usI kO sAja and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 15
+
+Jaccard comparison betweenzEra nE AdamI kI naक़la kara cAha and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 15
+
+Jaccard comparison betweenpariNAma galata sAbita hO and zEra kA kyA TUTa ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 15-'paidala calanA hI ThIka rahatA hai
+---------------
+
+

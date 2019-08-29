@@ -1,0 +1,630 @@
+piMkI kaisI laड़kI hai ?
+
+query piMkI kaisI laड़kI hai ?
+TYPE:[[], 'nounVerbSentence']
+
+Jaccard comparison betweenpiMkI bahuta pyArI laड़kI hai and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:10
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpiMkI kakSA dUsarI mEM paढ़tI hai and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina rElagAड़I usanE kitAba mEM rElagAड़I dEkhi and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenrEla-yAtrA rEla-yAtrA rEla-yAtrA yAda A gaI and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjO kucha dina pahalE pApA-mammI kE sAtha kara thI and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpiMkI nE cauka uThA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendivAra para rElagAड़I kA iMjana banA diyA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusamE pahalA DabbA juड़ gayA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendUsarA DabbA juड़ gayA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjuड़tE-juड़tE kaI sarE DibbA juड़ gaE and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjaba cauka ख़tama hO gayA piMkI uThI piMkI dEkhA kakSA kE AdhI divAra bana cukI thI and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenphira kyA hO - rElagAड़I dillI jA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmuMbaI jA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenamErikA jA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennAnI kE ghara jA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendAdAjI kE ghara bhI jA and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA- baccOM kE manObala kO baढ़AiE kala kE bhaviSya kA nirmANa Aja sE hO dE and piMkI kaisI laड़kI hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+---------------
+
+
+Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+query Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+TYPE:[['time', 'kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenpiMkI bahuta pyArI laड़kI hai and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpiMkI kakSA dUsarI mEM paढ़tI hai and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina rElagAड़I usanE kitAba mEM rElagAड़I dEkhi and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:8
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenrEla-yAtrA rEla-yAtrA rEla-yAtrA yAda A gaI and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjO kucha dina pahalE pApA-mammI kE sAtha kara thI and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenpiMkI nE cauka uThA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendivAra para rElagAड़I kA iMjana banA diyA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenusamE pahalA DabbA juड़ gayA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendUsarA DabbA juड़ gayA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjuड़tE-juड़tE kaI sarE DibbA juड़ gaE and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjaba cauka ख़tama hO gayA piMkI uThI piMkI dEkhA kakSA kE AdhI divAra bana cukI thI and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:7
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenphira kyA hO - rElagAड़I dillI jA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenmuMbaI jA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenamErikA jA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweennAnI kE ghara jA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendAdAjI kE ghara bhI jA and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweennaitika zikSA- baccOM kE manObala kO baढ़AiE kala kE bhaviSya kA nirmANa Aja sE hO dE and Eka dina piMkI nE apanE kitAba mEM kyA dEkhA ? 
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3Eka dina
+---------------
+
+
+piMkI kO rEla gADI dEkha kE kyA yAda AyA ?
+
+query piMkI kO rEla gADI dEkha kE kyA yAda A ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenpiMkI bahuta pyArI laड़kI hai and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpiMkI kakSA dUsarI mEM paढ़tI hai and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina rElagAड़I usanE kitAba mEM rElagAड़I dEkhi and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenrEla-yAtrA rEla-yAtrA rEla-yAtrA yAda A gaI and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:7
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenjO kucha dina pahalE pApA-mammI kE sAtha kara thI and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenpiMkI nE cauka uThA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendivAra para rElagAड़I kA iMjana banA diyA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenusamE pahalA DabbA juड़ gayA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendUsarA DabbA juड़ gayA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenjuड़tE-juड़tE kaI sarE DibbA juड़ gaE and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenjaba cauka ख़tama hO gayA piMkI uThI piMkI dEkhA kakSA kE AdhI divAra bana cukI thI and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenphira kyA hO - rElagAड़I dillI jA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenmuMbaI jA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenamErikA jA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweennAnI kE ghara jA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendAdAjI kE ghara bhI jA and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweennaitika zikSA- baccOM kE manObala kO baढ़AiE kala kE bhaviSya kA nirmANa Aja sE hO dE and piMkI kO rEla gADI dEkha kE kyA yAda A ?
+
+
+
+jaccardscore:2
+old_ep: 4new_ep: 4yAda
+---------------
+
+
+piMkI nE cauka uThA kara kyA kiyA ?
+
+query piMkI nE cauka uThA kara kyA kara ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenpiMkI bahuta pyArI laड़kI hai and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpiMkI kakSA dUsarI mEM paढ़tI hai and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina rElagAड़I usanE kitAba mEM rElagAड़I dEkhi and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenrEla-yAtrA rEla-yAtrA rEla-yAtrA yAda A gaI and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjO kucha dina pahalE pApA-mammI kE sAtha kara thI and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 5
+
+Jaccard comparison betweenpiMkI nE cauka uThA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:11
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendivAra para rElagAड़I kA iMjana banA diyA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenusamE pahalA DabbA juड़ gayA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendUsarA DabbA juड़ gayA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenjuड़tE-juड़tE kaI sarE DibbA juड़ gaE and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenjaba cauka ख़tama hO gayA piMkI uThI piMkI dEkhA kakSA kE AdhI divAra bana cukI thI and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:6
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenphira kyA hO - rElagAड़I dillI jA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenmuMbaI jA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenamErikA jA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweennAnI kE ghara jA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendAdAjI kE ghara bhI jA and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweennaitika zikSA- baccOM kE manObala kO baढ़AiE kala kE bhaviSya kA nirmANa Aja sE hO dE and piMkI nE cauka uThA kara kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6divAra para rElagAड़I kA iMjana banA diyA
+---------------
+
+
+rElagAड़I kahA~ gayI ?
+
+query rElagAड़I kahA~ jA ?
+TYPE:[['location'], 'nounVerbSentence']
+
+Jaccard comparison betweenpiMkI bahuta pyArI laड़kI hai and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpiMkI kakSA dUsarI mEM paढ़tI hai and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina rElagAड़I usanE kitAba mEM rElagAड़I dEkhi and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenrEla-yAtrA rEla-yAtrA rEla-yAtrA yAda A gaI and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjO kucha dina pahalE pApA-mammI kE sAtha kara thI and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenpiMkI nE cauka uThA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendivAra para rElagAड़I kA iMjana banA diyA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenusamE pahalA DabbA juड़ gayA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendUsarA DabbA juड़ gayA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjuड़tE-juड़tE kaI sarE DibbA juड़ gaE and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjaba cauka ख़tama hO gayA piMkI uThI piMkI dEkhA kakSA kE AdhI divAra bana cukI thI and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenphira kyA hO - rElagAड़I dillI jA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:7
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenmuMbaI jA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenamErikA jA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweennAnI kE ghara jA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweendAdAjI kE ghara bhI jA and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweennaitika zikSA- baccOM kE manObala kO baढ़AiE kala kE bhaviSya kA nirmANa Aja sE hO dE and rElagAड़I kahA~ jA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 12phira kyA huA - rElagAड़I dillI gaI
+---------------
+
+

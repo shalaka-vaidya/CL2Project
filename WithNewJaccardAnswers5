@@ -1,0 +1,903 @@
+DhOlU-mOlU kyA karatE thE ?
+
+query DhOlU-mOlU kyA kara thE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenDhOlU-mOlU dO bhAI thA and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM khUba khEla and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpaDhA kara and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:2
+old_ep: 3new_ep: 1
+
+Jaccard comparison betweenkabhI kabhI khUba laड़AI bhI kara thE and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:6
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenEka dina dOnOM dOnOM ghara kE pIchE khEla rahE thE and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:2
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkamarA Eka kamarA mEM billI kE chOTE-chOTE baccA thA and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbillI kI mA~ kaha gaI thI and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendOnOM baccA akElE thA and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenunhEM bhUkha laga huI thI and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkhUba rO rahE thE and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:2
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenDhOlU-mOlU nE dOnOM billI kE baccOM kI AvAज़ suna and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenapanE dAdAjI kO bulA and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenlA and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendAdAjI nE dEkhA dOnOM billI kE baccA bhUkhA thA and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendAdAjI nE una dOnOM billI kE baccOM kO khA khilA and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenEka kaTOrI dUdha pilA and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenaba billI kI bhUka zAMta hO gaI and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbhUka dOnOM Apasa mEM khEla lagE and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenisE dEkha DhOlU-mOlU bOla billI baca gaI and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendAdAjI nE DhOlU-mOlU kO zAbAzI dE and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:3
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweennaitika zikSA- dUsarOM kI bhalAI kara sE ख़uzI mila hai and DhOlU-mOlU kyA kara thE ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4laड़AI
+---------------
+
+
+Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+query Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+TYPE:[['time', 'location'], 'nounVerbSentence']
+
+Jaccard comparison betweenDhOlU-mOlU dO bhAI thA and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM khUba khEla and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenpaDhA kara and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkabhI kabhI khUba laड़AI bhI kara thE and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:2
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dina dOnOM dOnOM ghara kE pIchE khEla rahE thE and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:12
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkamarA Eka kamarA mEM billI kE chOTE-chOTE baccA thA and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:1
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenbillI kI mA~ kaha gaI thI and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendOnOM baccA akElE thA and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenunhEM bhUkha laga huI thI and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkhUba rO rahE thE and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:4
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenDhOlU-mOlU nE dOnOM billI kE baccOM kI AvAज़ suna and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenapanE dAdAjI kO bulA and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenlA and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendAdAjI nE dEkhA dOnOM billI kE baccA bhUkhA thA and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendAdAjI nE una dOnOM billI kE baccOM kO khA khilA and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenEka kaTOrI dUdha pilA and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:1
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenaba billI kI bhUka zAMta hO gaI and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenbhUka dOnOM Apasa mEM khEla lagE and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenisE dEkha DhOlU-mOlU bOla billI baca gaI and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendAdAjI nE DhOlU-mOlU kO zAbAzI dE and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweennaitika zikSA- dUsarOM kI bhalAI kara sE ख़uzI mila hai and Eka dina DhOlU-mOlU kahA~ khEla rahE thE ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5Eka dina
+---------------
+
+
+unhEM Eka kamarE mEM kyA dikhA ?
+
+query unhEM Eka kamarA mEM kyA dikhA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenDhOlU-mOlU dO bhAI thA and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM khUba khEla and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpaDhA kara and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI kabhI khUba laड़AI bhI kara thE and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina dOnOM dOnOM ghara kE pIchE khEla rahE thE and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:1
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkamarA Eka kamarA mEM billI kE chOTE-chOTE baccA thA and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:5
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbillI kI mA~ kaha gaI thI and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendOnOM baccA akElE thA and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenunhEM bhUkha laga huI thI and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenkhUba rO rahE thE and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenDhOlU-mOlU nE dOnOM billI kE baccOM kI AvAज़ suna and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenapanE dAdAjI kO bulA and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenlA and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendAdAjI nE dEkhA dOnOM billI kE baccA bhUkhA thA and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendAdAjI nE una dOnOM billI kE baccOM kO khA khilA and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenEka kaTOrI dUdha pilA and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenaba billI kI bhUka zAMta hO gaI and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbhUka dOnOM Apasa mEM khEla lagE and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenisE dEkha DhOlU-mOlU bOla billI baca gaI and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendAdAjI nE DhOlU-mOlU kO zAbAzI dE and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweennaitika zikSA- dUsarOM kI bhalAI kara sE ख़uzI mila hai and unhEM Eka kamarA mEM kyA dikhA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6kamarE Eka kamarE mEM billI kE chOTE-chOTE baccE thE
+---------------
+
+
+billI kE baccE kyOM khUba rO rahE thE ?
+
+query billI kE baccA kyOM khUba rO rahE thE ?
+MUAHAHA?TYPE:['special', 'new', 'billI kE baccA', 1]
+
+Jaccard comparison betweenDhOlU-mOlU dO bhAI thA and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM khUba khEla and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpaDhA kara and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI kabhI khUba laड़AI bhI kara thE and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina dOnOM dOnOM ghara kE pIchE khEla rahE thE and billI kE baccA
+
+
+jaccardscore:1
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkamarA Eka kamarA mEM billI kE chOTE-chOTE baccA thA and billI kE baccA
+
+
+jaccardscore:7
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbillI kI mA~ kaha gaI thI and billI kE baccA
+
+
+jaccardscore:3
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendOnOM baccA akElE thA and billI kE baccA
+
+
+jaccardscore:3
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenunhEM bhUkha laga huI thI and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenkhUba rO rahE thE and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenDhOlU-mOlU nE dOnOM billI kE baccOM kI AvAज़ suna and billI kE baccA
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenapanE dAdAjI kO bulA and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenlA and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendAdAjI nE dEkhA dOnOM billI kE baccA bhUkhA thA and billI kE baccA
+
+
+jaccardscore:7
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendAdAjI nE una dOnOM billI kE baccOM kO khA khilA and billI kE baccA
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenEka kaTOrI dUdha pilA and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenaba billI kI bhUka zAMta hO gaI and billI kE baccA
+
+
+jaccardscore:3
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbhUka dOnOM Apasa mEM khEla lagE and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenisE dEkha DhOlU-mOlU bOla billI baca gaI and billI kE baccA
+
+
+jaccardscore:3
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendAdAjI nE DhOlU-mOlU kO zAbAzI dE and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweennaitika zikSA- dUsarOM kI bhalAI kara sE ख़uzI mila hai and billI kE baccA
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6tbd
+---------------
+
+
+dAdAjI nE kaTOrI mEM kyA pilAyA ?
+
+query dAdAjI nE kaTOrI mEM kyA pilA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenDhOlU-mOlU dO bhAI thA and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM khUba khEla and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpaDhA kara and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI kabhI khUba laड़AI bhI kara thE and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina dOnOM dOnOM ghara kE pIchE khEla rahE thE and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkamarA Eka kamarA mEM billI kE chOTE-chOTE baccA thA and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbillI kI mA~ kaha gaI thI and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendOnOM baccA akElE thA and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenunhEM bhUkha laga huI thI and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenkhUba rO rahE thE and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenDhOlU-mOlU nE dOnOM billI kE baccOM kI AvAज़ suna and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenapanE dAdAjI kO bulA and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenlA and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweendAdAjI nE dEkhA dOnOM billI kE baccA bhUkhA thA and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:4
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweendAdAjI nE una dOnOM billI kE baccOM kO khA khilA and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:4
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenEka kaTOrI dUdha pilA and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:7
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenaba billI kI bhUka zAMta hO gaI and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenbhUka dOnOM Apasa mEM khEla lagE and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:1
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenisE dEkha DhOlU-mOlU bOla billI baca gaI and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweendAdAjI nE DhOlU-mOlU kO zAbAzI dE and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:4
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweennaitika zikSA- dUsarOM kI bhalAI kara sE ख़uzI mila hai and dAdAjI nE kaTOrI mEM kyA pilA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16dUdha
+---------------
+
+
+dAdAjI nE DhOlU-mOlU kO kyA dI ?
+
+query dAdAjI nE DhOlU-mOlU kO kyA dE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenDhOlU-mOlU dO bhAI thA and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM khUba khEla and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpaDhA kara and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI kabhI khUba laड़AI bhI kara thE and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina dOnOM dOnOM ghara kE pIchE khEla rahE thE and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkamarA Eka kamarA mEM billI kE chOTE-chOTE baccA thA and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbillI kI mA~ kaha gaI thI and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM baccA akElE thA and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhEM bhUkha laga huI thI and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkhUba rO rahE thE and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenDhOlU-mOlU nE dOnOM billI kE baccOM kI AvAज़ suna and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:4
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenapanE dAdAjI kO bulA and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweenlA and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweendAdAjI nE dEkhA dOnOM billI kE baccA bhUkhA thA and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:4
+old_ep: 12new_ep: 12
+
+Jaccard comparison betweendAdAjI nE una dOnOM billI kE baccOM kO khA khilA and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:5
+old_ep: 12new_ep: 15
+
+Jaccard comparison betweenEka kaTOrI dUdha pilA and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 15
+
+Jaccard comparison betweenaba billI kI bhUka zAMta hO gaI and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 15
+
+Jaccard comparison betweenbhUka dOnOM Apasa mEM khEla lagE and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 12new_ep: 15
+
+Jaccard comparison betweenisE dEkha DhOlU-mOlU bOla billI baca gaI and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 12new_ep: 15
+
+Jaccard comparison betweendAdAjI nE DhOlU-mOlU kO zAbAzI dE and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:12
+old_ep: 20new_ep: 20
+
+Jaccard comparison betweennaitika zikSA- dUsarOM kI bhalAI kara sE ख़uzI mila hai and dAdAjI nE DhOlU-mOlU kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 20new_ep: 20zAbAzI
+---------------
+
+

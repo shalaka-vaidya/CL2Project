@@ -1,0 +1,735 @@
+gOlU kE ghara mEM kauna AyA ?
+
+query gOlU kE ghara mEM kauna A ?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweengOlU kE ghara mEM Eka zarAratI cUhA A gayA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:12
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha bahuta chOTA sA thA magara sarE ghara mEM bhAga cala thA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb gOlU kI kitAba bhI kutara DAla thI and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha kapaDA bhI kutara dE thE and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengOlU kI mammI jO khAnA bana and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbinA Dhaka rakha dEtI and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha cUhA usE bhI caTa and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjA thA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUhA khA-pIkara baड़A hO gayA thA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina gOlU kI mammI nE Eka bOtala mEM zarabata banA rakhA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzarAratI cUhA kI naज़ra bOtala para pada jA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUhA kaI tarakIba lagA thaka gayA thA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUhA zarabata pI thA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUhA bOtala para caढ़A kisI taraha sE Dhakkana kO khOla mEM saphala hO jAtA hai and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaba usamEM cUha mu~ha ghusA kI kOziza kara hai and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbOtala kA mu~ha chOTA thA mu~ha nahIM ghusa and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenphira cUhA kO AIDiyA A b usanE pUMcha bOtala mEM DAla and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpUMcha zarabata sE gIlI hO jAtI hai pUMcha cATa-cATa kara cUhA kA pETa bhara gayA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaba pUMcha gOlU kE takiE kE nIcE bana vaha bistara para jA kara ArAma sE kara lagA and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA-mhaNata kara sE kaI kArya asaMbhava nahIM hO and gOlU kE ghara mEM kauna A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1Eka cUhA
+---------------
+
+
+cUhE nE kyA kutara DAlA ?
+
+query cUhA nE kyA kutara DAla ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweengOlU kE ghara mEM Eka zarAratI cUhA A gayA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha bahuta chOTA sA thA magara sarE ghara mEM bhAga cala thA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb gOlU kI kitAba bhI kutara DAla thI and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:6
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkucha kapaDA bhI kutara dE thE and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweengOlU kI mammI jO khAnA bana and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenbinA Dhaka rakha dEtI and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenvaha cUhA usE bhI caTa and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenjA thA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweencUhA khA-pIkara baड़A hO gayA thA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenEka dina gOlU kI mammI nE Eka bOtala mEM zarabata banA rakhA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenzarAratI cUhA kI naज़ra bOtala para pada jA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweencUhA kaI tarakIba lagA thaka gayA thA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweencUhA zarabata pI thA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweencUhA bOtala para caढ़A kisI taraha sE Dhakkana kO khOla mEM saphala hO jAtA hai and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenaba usamEM cUha mu~ha ghusA kI kOziza kara hai and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenbOtala kA mu~ha chOTA thA mu~ha nahIM ghusa and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenphira cUhA kO AIDiyA A b usanE pUMcha bOtala mEM DAla and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:7
+old_ep: 3new_ep: 17
+
+Jaccard comparison betweenpUMcha zarabata sE gIlI hO jAtI hai pUMcha cATa-cATa kara cUhA kA pETa bhara gayA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 17
+
+Jaccard comparison betweenaba pUMcha gOlU kE takiE kE nIcE bana vaha bistara para jA kara ArAma sE kara lagA and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 17
+
+Jaccard comparison betweennaitika zikSA-mhaNata kara sE kaI kArya asaMbhava nahIM hO and cUhA nE kyA kutara DAla ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 17pUMcha
+---------------
+
+
+gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+query gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweengOlU kE ghara mEM Eka zarAratI cUhA A gayA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha bahuta chOTA sA thA magara sarE ghara mEM bhAga cala thA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb gOlU kI kitAba bhI kutara DAla thI and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkucha kapaDA bhI kutara dE thE and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweengOlU kI mammI jO khAnA bana and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:7
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenbinA Dhaka rakha dEtI and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenvaha cUhA usE bhI caTa and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenjA thA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweencUhA khA-pIkara baड़A hO gayA thA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenEka dina gOlU kI mammI nE Eka bOtala mEM zarabata banA rakhA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:18
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenzarAratI cUhA kI naज़ra bOtala para pada jA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:4
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweencUhA kaI tarakIba lagA thaka gayA thA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweencUhA zarabata pI thA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweencUhA bOtala para caढ़A kisI taraha sE Dhakkana kO khOla mEM saphala hO jAtA hai and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:4
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenaba usamEM cUha mu~ha ghusA kI kOziza kara hai and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:5
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenbOtala kA mu~ha chOTA thA mu~ha nahIM ghusa and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:3
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenphira cUhA kO AIDiyA A b usanE pUMcha bOtala mEM DAla and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:4
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenpUMcha zarabata sE gIlI hO jAtI hai pUMcha cATa-cATa kara cUhA kA pETa bhara gayA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:2
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenaba pUMcha gOlU kE takiE kE nIcE bana vaha bistara para jA kara ArAma sE kara lagA and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:7
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweennaitika zikSA-mhaNata kara sE kaI kArya asaMbhava nahIM hO and gOlU kI mammI nE bOtala mEM kyA banA kara rakhA ?
+
+
+
+jaccardscore:4
+old_ep: 10new_ep: 10Eka dina gOlU kI mammI nE Eka bOtala mEM zarabata banAkara rakhA
+---------------
+
+
+cUhE kO kyA AIDiyA AyA ?
+
+query cUhA kO kyA AIDiyA A ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweengOlU kE ghara mEM Eka zarAratI cUhA A gayA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha bahuta chOTA sA thA magara sarE ghara mEM bhAga cala thA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb gOlU kI kitAba bhI kutara DAla thI and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha kapaDA bhI kutara dE thE and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengOlU kI mammI jO khAnA bana and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbinA Dhaka rakha dEtI and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha cUhA usE bhI caTa and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjA thA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUhA khA-pIkara baड़A hO gayA thA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina gOlU kI mammI nE Eka bOtala mEM zarabata banA rakhA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzarAratI cUhA kI naज़ra bOtala para pada jA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUhA kaI tarakIba lagA thaka gayA thA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUhA zarabata pI thA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweencUhA bOtala para caढ़A kisI taraha sE Dhakkana kO khOla mEM saphala hO jAtA hai and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaba usamEM cUha mu~ha ghusA kI kOziza kara hai and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbOtala kA mu~ha chOTA thA mu~ha nahIM ghusa and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenphira cUhA kO AIDiyA A b usanE pUMcha bOtala mEM DAla and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:11
+old_ep: 17new_ep: 17
+
+Jaccard comparison betweenpUMcha zarabata sE gIlI hO jAtI hai pUMcha cATa-cATa kara cUhA kA pETa bhara gayA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:3
+old_ep: 17new_ep: 17
+
+Jaccard comparison betweenaba pUMcha gOlU kE takiE kE nIcE bana vaha bistara para jA kara ArAma sE kara lagA and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 17new_ep: 17
+
+Jaccard comparison betweennaitika zikSA-mhaNata kara sE kaI kArya asaMbhava nahIM hO and cUhA kO kyA AIDiyA A ?
+
+
+
+jaccardscore:0
+old_ep: 17new_ep: 17pUMcha
+---------------
+
+
+cUhA kyA cATa kara pETa bharatA hai ?
+
+query cUhA kyA cATa kara pETa bharatA hai ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweengOlU kE ghara mEM Eka zarAratI cUhA A gayA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha bahuta chOTA sA thA magara sarE ghara mEM bhAga cala thA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb gOlU kI kitAba bhI kutara DAla thI and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkucha kapaDA bhI kutara dE thE and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweengOlU kI mammI jO khAnA bana and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbinA Dhaka rakha dEtI and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha cUhA usE bhI caTa and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenjA thA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweencUhA khA-pIkara baड़A hO gayA thA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenEka dina gOlU kI mammI nE Eka bOtala mEM zarabata banA rakhA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenzarAratI cUhA kI naज़ra bOtala para pada jA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweencUhA kaI tarakIba lagA thaka gayA thA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweencUhA zarabata pI thA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:3
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweencUhA bOtala para caढ़A kisI taraha sE Dhakkana kO khOla mEM saphala hO jAtA hai and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:5
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenaba usamEM cUha mu~ha ghusA kI kOziza kara hai and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:6
+old_ep: 15new_ep: 15
+
+Jaccard comparison betweenbOtala kA mu~ha chOTA thA mu~ha nahIM ghusa and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:0
+old_ep: 15new_ep: 15
+
+Jaccard comparison betweenphira cUhA kO AIDiyA A b usanE pUMcha bOtala mEM DAla and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:3
+old_ep: 15new_ep: 15
+
+Jaccard comparison betweenpUMcha zarabata sE gIlI hO jAtI hai pUMcha cATa-cATa kara cUhA kA pETa bhara gayA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:10
+old_ep: 18new_ep: 18
+
+Jaccard comparison betweenaba pUMcha gOlU kE takiE kE nIcE bana vaha bistara para jA kara ArAma sE kara lagA and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:4
+old_ep: 18new_ep: 18
+
+Jaccard comparison betweennaitika zikSA-mhaNata kara sE kaI kArya asaMbhava nahIM hO and cUhA kyA cATa kara pETa bharatA hai ?
+
+
+
+jaccardscore:4
+old_ep: 18new_ep: 18gIlI
+---------------
+
+

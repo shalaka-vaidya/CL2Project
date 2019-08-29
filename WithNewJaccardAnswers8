@@ -1,0 +1,560 @@
+Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+query Eka bAra Eka vyakti kyA kara rahA thA ?  
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra Eka vyakti and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka hAthI kO rassI sE bAMdha kara lE jA rahA thA and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dUsarA vyakti isE dEkha rahA thA and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenusE dEkha kE baढ़A Azcarya hO and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenitanA baड़A jAnavara isa halakI sE rassI sE baMdhA jA rahA hai and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweendUsarE vyakti nE hAthI kE mAlika sE pUcha and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 3
+
+Jaccard comparison between” yaha kaisE saMbhava hai kI itanA baढ़A jAnavara Eka halakI sI rassI kO nahIM tOड़ pA rahA and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweentumharE pIchE pIchE cala rahA hai ” and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenhAthI kE mAlika nE batA jaba yE hAthI chOTE hO haiM and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweeninhEM rassI sE bAMdha diyA jAtA hai and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenusa samaya yaha kOziza kara hai rassI tOड़nE kI para usE tOड़ nahIM pA and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenbAra bAra kOziza kara and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenbhI yaha usa rassI kO nahIM tOड़ pAtE and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenhAthI sOca lEtE hai kI b isa rassI kO nahI tOड़ sakatE and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenbaDha hO and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenkOziza kara hI chOड़ dEtE hai and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweennaitika zikSA – dOstOM hama bhI aisI bahuta sI nakArAtmaka bAta dOstOM dimAga mEM baiThA lEtE haiM kI hama nahIM and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweensaka and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 3
+
+Jaccard comparison betweenEka aisI hI rassI sE apanE kO bAMdha lEtE haiM jO saca mEM hO hI nahIM hai and Eka bAra Eka vyakti kyA kara rahA thA ?  
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 3isE
+---------------
+
+
+vyakti kO kyA dEkha kE baड़A Azcarya huA ?
+
+query vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra Eka vyakti and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka hAthI kO rassI sE bAMdha kara lE jA rahA thA and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dUsarA vyakti isE dEkha rahA thA and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:7
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenusE dEkha kE baढ़A Azcarya hO and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:12
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenitanA baड़A jAnavara isa halakI sE rassI sE baMdhA jA rahA hai and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:5
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendUsarE vyakti nE hAthI kE mAlika sE pUcha and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison between” yaha kaisE saMbhava hai kI itanA baढ़A jAnavara Eka halakI sI rassI kO nahIM tOड़ pA rahA and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweentumharE pIchE pIchE cala rahA hai ” and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI kE mAlika nE batA jaba yE hAthI chOTE hO haiM and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:5
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweeninhEM rassI sE bAMdha diyA jAtA hai and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenusa samaya yaha kOziza kara hai rassI tOड़nE kI para usE tOड़ nahIM pA and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbAra bAra kOziza kara and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbhI yaha usa rassI kO nahIM tOड़ pAtE and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenhAthI sOca lEtE hai kI b isa rassI kO nahI tOड़ sakatE and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbaDha hO and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:2
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenkOziza kara hI chOड़ dEtE hai and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweennaitika zikSA – dOstOM hama bhI aisI bahuta sI nakArAtmaka bAta dOstOM dimAga mEM baiThA lEtE haiM kI hama nahIM and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensaka and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenEka aisI hI rassI sE apanE kO bAMdha lEtE haiM jO saca mEM hO hI nahIM hai and vyakti kO kyA dEkha kE baड़A Azcarya hO ?
+
+
+
+jaccardscore:5
+old_ep: 4new_ep: 4Azcarya
+---------------
+
+
+vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+query vyakti nE hAthI kE mAlika sE kyA puchA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra Eka vyakti and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka hAthI kO rassI sE bAMdha kara lE jA rahA thA and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dUsarA vyakti isE dEkha rahA thA and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenusE dEkha kE baढ़A Azcarya hO and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenitanA baड़A jAnavara isa halakI sE rassI sE baMdhA jA rahA hai and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendUsarE vyakti nE hAthI kE mAlika sE pUcha and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:12
+old_ep: 6new_ep: 6
+
+Jaccard comparison between” yaha kaisE saMbhava hai kI itanA baढ़A jAnavara Eka halakI sI rassI kO nahIM tOड़ pA rahA and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentumharE pIchE pIchE cala rahA hai ” and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenhAthI kE mAlika nE batA jaba yE hAthI chOTE hO haiM and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:8
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweeninhEM rassI sE bAMdha diyA jAtA hai and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenusa samaya yaha kOziza kara hai rassI tOड़nE kI para usE tOड़ nahIM pA and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbAra bAra kOziza kara and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbhI yaha usa rassI kO nahIM tOड़ pAtE and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenhAthI sOca lEtE hai kI b isa rassI kO nahI tOड़ sakatE and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:3
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbaDha hO and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenkOziza kara hI chOड़ dEtE hai and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweennaitika zikSA – dOstOM hama bhI aisI bahuta sI nakArAtmaka bAta dOstOM dimAga mEM baiThA lEtE haiM kI hama nahIM and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweensaka and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenEka aisI hI rassI sE apanE kO bAMdha lEtE haiM jO saca mEM hO hI nahIM hai and vyakti nE hAthI kE mAlika sE kyA puchA ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6mAlika
+---------------
+
+
+hAthI kE mAlika nE kyA batAyA ?
+
+query hAthI kE mAlika nE kyA batA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka bAra Eka vyakti and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka hAthI kO rassI sE bAMdha kara lE jA rahA thA and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenEka dUsarA vyakti isE dEkha rahA thA and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenusE dEkha kE baढ़A Azcarya hO and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 2
+
+Jaccard comparison betweenitanA baड़A jAnavara isa halakI sE rassI sE baMdhA jA rahA hai and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 2
+
+Jaccard comparison betweendUsarE vyakti nE hAthI kE mAlika sE pUcha and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:8
+old_ep: 6new_ep: 6
+
+Jaccard comparison between” yaha kaisE saMbhava hai kI itanA baढ़A jAnavara Eka halakI sI rassI kO nahIM tOड़ pA rahA and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentumharE pIchE pIchE cala rahA hai ” and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenhAthI kE mAlika nE batA jaba yE hAthI chOTE hO haiM and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:12
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweeninhEM rassI sE bAMdha diyA jAtA hai and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenusa samaya yaha kOziza kara hai rassI tOड़nE kI para usE tOड़ nahIM pA and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenbAra bAra kOziza kara and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenbhI yaha usa rassI kO nahIM tOड़ pAtE and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenhAthI sOca lEtE hai kI b isa rassI kO nahI tOड़ sakatE and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:3
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenbaDha hO and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenkOziza kara hI chOड़ dEtE hai and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweennaitika zikSA – dOstOM hama bhI aisI bahuta sI nakArAtmaka bAta dOstOM dimAga mEM baiThA lEtE haiM kI hama nahIM and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweensaka and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenEka aisI hI rassI sE apanE kO bAMdha lEtE haiM jO saca mEM hO hI nahIM hai and hAthI kE mAlika nE kyA batA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9inhEM rassI sE bAMdha diyA jAtA hai
+---------------
+
+

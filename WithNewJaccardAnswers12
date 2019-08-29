@@ -1,0 +1,420 @@
+dO bakarE kyA pAra karanA cAhatE thE ?
+
+query dO bakarA kyA pAra kara cAha thE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina dO bakarE Eka nadI kE sa~karE pula kE bIcOMbIca AmanE-sAmanE mila and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpula sE Eka bAra mEM Eka hI prANI pAra kara sakatA thA and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:7
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendOnOM bakarA cAha thE kI vaha pahalE pula pAra and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:12
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenlE and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenb Eka-dusarE sE jhagaड़nE lagE and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenb kucha dEra taka Eka dusarA kO dhamakI dE rahE and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenApasa mEM laड़nE lagE and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkOI bhI pIchE haTa kO taiyAra nahIM thA and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenAkhira mEM laड़tE laड़tE dOnOM nadI mEM gira gaE and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenDUba gaE and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenzikSA-krOdha aura ahaMkAra sE hAni hO hai and dO bakarA kyA pAra kara cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3lE
+---------------
+
+
+pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+query pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+TYPE:[['intf', 'prANI'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina dO bakarE Eka nadI kE sa~karE pula kE bIcOMbIca AmanE-sAmanE mila and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpula sE Eka bAra mEM Eka hI prANI pAra kara sakatA thA and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:15
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendOnOM bakarA cAha thE kI vaha pahalE pula pAra and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:6
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenlE and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenb Eka-dusarE sE jhagaड़nE lagE and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenb kucha dEra taka Eka dusarA kO dhamakI dE rahE and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenApasa mEM laड़nE lagE and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkOI bhI pIchE haTa kO taiyAra nahIM thA and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenAkhira mEM laड़tE laड़tE dOnOM nadI mEM gira gaE and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenDUba gaE and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenzikSA-krOdha aura ahaMkAra sE hAni hO hai and pula sE Eka bAra mEM kitanE prANI pAra hO sakatE haiM ?
+
+
+
+jaccardscore:5
+old_ep: 2new_ep: 2Eka
+---------------
+
+
+dO bakarE kahA~ milE ?
+
+query dO bakarE kahA~ mila ?
+TYPE:[['location'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina dO bakarE Eka nadI kE sa~karE pula kE bIcOMbIca AmanE-sAmanE mila and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpula sE Eka bAra mEM Eka hI prANI pAra kara sakatA thA and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM bakarA cAha thE kI vaha pahalE pula pAra and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlE and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb Eka-dusarE sE jhagaड़nE lagE and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenb kucha dEra taka Eka dusarA kO dhamakI dE rahE and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenApasa mEM laड़nE lagE and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkOI bhI pIchE haTa kO taiyAra nahIM thA and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenAkhira mEM laड़tE laड़tE dOnOM nadI mEM gira gaE and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenDUba gaE and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenzikSA-krOdha aura ahaMkAra sE hAni hO hai and dO bakarE kahA~ mila ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1sa~karE pula kE
+---------------
+
+
+dOnOM bakarE kyA cAhatE thE ?
+
+query dOnOM bakarA kyA cAha thE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina dO bakarE Eka nadI kE sa~karE pula kE bIcOMbIca AmanE-sAmanE mila and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpula sE Eka bAra mEM Eka hI prANI pAra kara sakatA thA and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM bakarA cAha thE kI vaha pahalE pula pAra and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:14
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenlE and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenb Eka-dusarE sE jhagaड़nE lagE and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenb kucha dEra taka Eka dusarA kO dhamakI dE rahE and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenApasa mEM laड़nE lagE and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkOI bhI pIchE haTa kO taiyAra nahIM thA and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenAkhira mEM laड़tE laड़tE dOnOM nadI mEM gira gaE and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenDUba gaE and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenzikSA-krOdha aura ahaMkAra sE hAni hO hai and dOnOM bakarA kyA cAha thE ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3lE
+---------------
+
+
+laड़tE laड़tE bakarOM kA kyA huA ?
+
+query laड़tE laड़tE bakarA kA kyA hO ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina dO bakarE Eka nadI kE sa~karE pula kE bIcOMbIca AmanE-sAmanE mila and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpula sE Eka bAra mEM Eka hI prANI pAra kara sakatA thA and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM bakarA cAha thE kI vaha pahalE pula pAra and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenlE and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenb Eka-dusarE sE jhagaड़nE lagE and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenb kucha dEra taka Eka dusarA kO dhamakI dE rahE and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenApasa mEM laड़nE lagE and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkOI bhI pIchE haTa kO taiyAra nahIM thA and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenAkhira mEM laड़tE laड़tE dOnOM nadI mEM gira gaE and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenDUba gaE and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenzikSA-krOdha aura ahaMkAra sE hAni hO hai and laड़tE laड़tE bakarA kA kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9DUba gaE
+---------------
+
+

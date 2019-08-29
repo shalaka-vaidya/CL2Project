@@ -1,0 +1,273 @@
+Eka dina lOmaड़I nE kyA dEkhA ?
+
+query Eka dina lOmaड़I nE kyA dEkhA ?
+TYPE:[['time', 'kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka lOmaड़I nE aMgUrOM kA gucchA dEkhA and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:12
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlOmaड़I kO turaMta aMgUra khA kA mana hO and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlEkina aMgUra bahuta UMcAI para thA and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlOmaड़I kE mu~ha mEM pAnI A gayA and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpAnI aMgUra pA kE liE uchala lagI and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpAnI bAra-bAra uchala and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbAra-bAra gira para aMgUra nahIM pA sAkI and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenphira b mu~ha bicakA and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkahA and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison between"chOड़O bhI yE aMgUra khaTTA haiM" and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenyaha kaha lOmaड़I cala bAnI and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA- zikSA- hAra kO svIkAra kara lEnA cAhiE and Eka dina lOmaड़I nE kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1Eka dina
+---------------
+
+
+lOmaड़I aMgUra pAnE kE liE kyA karatI hai ?
+
+query lOmaड़I aMgUra pA kE liE kyA kara hai ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka lOmaड़I nE aMgUrOM kA gucchA dEkhA and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlOmaड़I kO turaMta aMgUra khA kA mana hO and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:6
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenlEkina aMgUra bahuta UMcAI para thA and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenlOmaड़I kE mu~ha mEM pAnI A gayA and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 2
+
+Jaccard comparison betweenpAnI aMgUra pA kE liE uchala lagI and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:8
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenpAnI bAra-bAra uchala and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenbAra-bAra gira para aMgUra nahIM pA sAkI and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:7
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenphira b mu~ha bicakA and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkahA and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison between"chOड़O bhI yE aMgUra khaTTA haiM" and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenyaha kaha lOmaड़I cala bAnI and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweennaitika zikSA- zikSA- hAra kO svIkAra kara lEnA cAhiE and lOmaड़I aMgUra pA kE liE kyA kara hai ?
+
+
+
+jaccardscore:4
+old_ep: 5new_ep: 5pAnI aMgUra pAnE kE liE uchalanE lagI
+---------------
+
+
+lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+query lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka lOmaड़I nE aMgUrOM kA gucchA dEkhA and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlOmaड़I kO turaMta aMgUra khA kA mana hO and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlEkina aMgUra bahuta UMcAI para thA and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenlOmaड़I kE mu~ha mEM pAnI A gayA and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:6
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenpAnI aMgUra pA kE liE uchala lagI and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenpAnI bAra-bAra uchala and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenbAra-bAra gira para aMgUra nahIM pA sAkI and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenphira b mu~ha bicakA and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:7
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenkahA and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison between"chOड़O bhI yE aMgUra khaTTA haiM" and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenyaha kaha lOmaड़I cala bAnI and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweennaitika zikSA- zikSA- hAra kO svIkAra kara lEnA cAhiE and lOmaड़I nE mu~ha bicakA  kyA sOcA  ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8mu~ha
+---------------
+
+

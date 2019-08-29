@@ -1,0 +1,1211 @@
+Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+query Eka dina siyAra kahA~ sE gujara rahA thA ?
+TYPE:[['time', 'location'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka siyAra kisI gA~va sE gujara rahA thA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:16
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra gA~va kE bAjAra kE pAsa lOgOM kI Eka bhIड़ dEkha and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkautUhalavaza siyAra siyAra bhIड़ kE pAsa yaha dEkha gayA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkyA hO rahA hai and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra nE bhIड़ dEkhA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendO bakarE Apasa mEM laड़AI and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenraha thE and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM hI bakarA kAphI tagaड़E thA isaliE unamE jabaradasta laड़AI hO rahI thI and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensabhI lOga jOra jOra sE cillA rahE thE and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentAlI bajA rahE thE and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM bakarA burI taraha sE lahUluhAna hO cukE thE and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensaड़ka para bhI khUna baha rahA thA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjaba siyAra nE itanA sArA tAjA khUna dEkhA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenapanE Apa kO rOka nahIM pA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbasa tO basa usa tAjE khUna kA svAda lE cAha thA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbakarOM para apanA hAtha sAफ़ kara cAha thA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra nE Ava dEkhA na tAva aura bakarOM para TUTa paड़A and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM bakarE bahuta tAkatavara thA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhOMnE siyAra kI jamakara dhulAI kara dI jisasE siyAra vahI~ para DhEra hO gayA and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA - lAlaca sE prErita hO kOI bhI anAvazyaka kadama nahIM uThA cAhiE and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkOI kadama uThA sE pahalE bhalIbhAMti sOca lE cAha and Eka dina siyAra kahA~ sE gujara rahA thA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1Eka dina
+---------------
+
+
+siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+query siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka siyAra kisI gA~va sE gujara rahA thA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra gA~va kE bAjAra kE pAsa lOgOM kI Eka bhIड़ dEkha and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:11
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkautUhalavaza siyAra siyAra bhIड़ kE pAsa yaha dEkha gayA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkyA hO rahA hai and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweensiyAra nE bhIड़ dEkhA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:8
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendO bakarE Apasa mEM laड़AI and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenraha thE and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendOnOM hI bakarA kAphI tagaड़E thA isaliE unamE jabaradasta laड़AI hO rahI thI and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweensabhI lOga jOra jOra sE cillA rahE thE and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweentAlI bajA rahE thE and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendOnOM bakarA burI taraha sE lahUluhAna hO cukE thE and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweensaड़ka para bhI khUna baha rahA thA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenjaba siyAra nE itanA sArA tAjA khUna dEkhA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:8
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenapanE Apa kO rOka nahIM pA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenbasa tO basa usa tAjE khUna kA svAda lE cAha thA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenbakarOM para apanA hAtha sAफ़ kara cAha thA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweensiyAra nE Ava dEkhA na tAva aura bakarOM para TUTa paड़A and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:8
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweendOnOM bakarE bahuta tAkatavara thA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenunhOMnE siyAra kI jamakara dhulAI kara dI jisasE siyAra vahI~ para DhEra hO gayA and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweennaitika zikSA - lAlaca sE prErita hO kOI bhI anAvazyaka kadama nahIM uThA cAhiE and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkOI kadama uThA sE pahalE bhalIbhAMti sOca lE cAha and siyAra nE gA~va kE bAjAra kE pAsa kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2bhIड़
+---------------
+
+
+siyAra nE vahA~ kyA dEkhA ?
+
+query siyAra nE vahA~ kyA dEkhA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka siyAra kisI gA~va sE gujara rahA thA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra gA~va kE bAjAra kE pAsa lOgOM kI Eka bhIड़ dEkha and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkautUhalavaza siyAra siyAra bhIड़ kE pAsa yaha dEkha gayA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 1
+
+Jaccard comparison betweenkyA hO rahA hai and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 1
+
+Jaccard comparison betweensiyAra nE bhIड़ dEkhA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:8
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendO bakarE Apasa mEM laड़AI and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenraha thE and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendOnOM hI bakarA kAphI tagaड़E thA isaliE unamE jabaradasta laड़AI hO rahI thI and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensabhI lOga jOra jOra sE cillA rahE thE and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweentAlI bajA rahE thE and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendOnOM bakarA burI taraha sE lahUluhAna hO cukE thE and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensaड़ka para bhI khUna baha rahA thA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenjaba siyAra nE itanA sArA tAjA khUna dEkhA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:8
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenapanE Apa kO rOka nahIM pA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenbasa tO basa usa tAjE khUna kA svAda lE cAha thA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenbakarOM para apanA hAtha sAफ़ kara cAha thA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweensiyAra nE Ava dEkhA na tAva aura bakarOM para TUTa paड़A and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:8
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweendOnOM bakarE bahuta tAkatavara thA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenunhOMnE siyAra kI jamakara dhulAI kara dI jisasE siyAra vahI~ para DhEra hO gayA and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweennaitika zikSA - lAlaca sE prErita hO kOI bhI anAvazyaka kadama nahIM uThA cAhiE and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkOI kadama uThA sE pahalE bhalIbhAMti sOca lE cAha and siyAra nE vahA~ kyA dEkhA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5dO bakarE Apasa mEM laड़AI
+---------------
+
+
+dOnOM bakarE kaisE thE ?
+
+query dOnOM bakarA kaisE thA ?
+TYPE:[[], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka siyAra kisI gA~va sE gujara rahA thA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra gA~va kE bAjAra kE pAsa lOgOM kI Eka bhIड़ dEkha and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkautUhalavaza siyAra siyAra bhIड़ kE pAsa yaha dEkha gayA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkyA hO rahA hai and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra nE bhIड़ dEkhA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendO bakarE Apasa mEM laड़AI and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenraha thE and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM hI bakarA kAphI tagaड़E thA isaliE unamE jabaradasta laड़AI hO rahI thI and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:10
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweensabhI lOga jOra jOra sE cillA rahE thE and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweentAlI bajA rahE thE and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweendOnOM bakarA burI taraha sE lahUluhAna hO cukE thE and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:8
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweensaड़ka para bhI khUna baha rahA thA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:2
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenjaba siyAra nE itanA sArA tAjA khUna dEkhA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenapanE Apa kO rOka nahIM pA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenbasa tO basa usa tAjE khUna kA svAda lE cAha thA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:2
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenbakarOM para apanA hAtha sAफ़ kara cAha thA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:2
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweensiyAra nE Ava dEkhA na tAva aura bakarOM para TUTa paड़A and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweendOnOM bakarE bahuta tAkatavara thA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:9
+old_ep: 18new_ep: 8
+
+Jaccard comparison betweenunhOMnE siyAra kI jamakara dhulAI kara dI jisasE siyAra vahI~ para DhEra hO gayA and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 18new_ep: 8
+
+Jaccard comparison betweennaitika zikSA - lAlaca sE prErita hO kOI bhI anAvazyaka kadama nahIM uThA cAhiE and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 18new_ep: 8
+
+Jaccard comparison betweenkOI kadama uThA sE pahalE bhalIbhAMti sOca lE cAha and dOnOM bakarA kaisE thA ?
+
+
+
+jaccardscore:0
+old_ep: 18new_ep: 8
+---------------
+
+
+sabhI lOga cillA kara kyA kara rahE thA ?
+
+query sabhI lOga cillA kara kyA kara rahE thA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka siyAra kisI gA~va sE gujara rahA thA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra gA~va kE bAjAra kE pAsa lOgOM kI Eka bhIड़ dEkha and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkautUhalavaza siyAra siyAra bhIड़ kE pAsa yaha dEkha gayA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkyA hO rahA hai and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 1
+
+Jaccard comparison betweensiyAra nE bhIड़ dEkhA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 1
+
+Jaccard comparison betweendO bakarE Apasa mEM laड़AI and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 1
+
+Jaccard comparison betweenraha thE and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 4new_ep: 1
+
+Jaccard comparison betweendOnOM hI bakarA kAphI tagaड़E thA isaliE unamE jabaradasta laड़AI hO rahI thI and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 8
+
+Jaccard comparison betweensabhI lOga jOra jOra sE cillA rahE thE and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:10
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweentAlI bajA rahE thE and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:2
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweendOnOM bakarA burI taraha sE lahUluhAna hO cukE thE and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweensaड़ka para bhI khUna baha rahA thA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:2
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenjaba siyAra nE itanA sArA tAjA khUna dEkhA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenapanE Apa kO rOka nahIM pA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenbasa tO basa usa tAjE khUna kA svAda lE cAha thA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:2
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenbakarOM para apanA hAtha sAफ़ kara cAha thA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:6
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweensiyAra nE Ava dEkhA na tAva aura bakarOM para TUTa paड़A and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweendOnOM bakarE bahuta tAkatavara thA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenunhOMnE siyAra kI jamakara dhulAI kara dI jisasE siyAra vahI~ para DhEra hO gayA and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweennaitika zikSA - lAlaca sE prErita hO kOI bhI anAvazyaka kadama nahIM uThA cAhiE and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenkOI kadama uThA sE pahalE bhalIbhAMti sOca lE cAha and sabhI lOga cillA kara kyA kara rahE thA ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9tAliyAM bajA rahE thE
+---------------
+
+
+siyAra kyA dEkha kE apanE Apana kO rOka nahIM pAyA ?
+
+query siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka siyAra kisI gA~va sE gujara rahA thA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra gA~va kE bAjAra kE pAsa lOgOM kI Eka bhIड़ dEkha and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:8
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkautUhalavaza siyAra siyAra bhIड़ kE pAsa yaha dEkha gayA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:6
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenkyA hO rahA hai and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweensiyAra nE bhIड़ dEkhA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweendO bakarE Apasa mEM laड़AI and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenraha thE and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweendOnOM hI bakarA kAphI tagaड़E thA isaliE unamE jabaradasta laड़AI hO rahI thI and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweensabhI lOga jOra jOra sE cillA rahE thE and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweentAlI bajA rahE thE and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweendOnOM bakarA burI taraha sE lahUluhAna hO cukE thE and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweensaड़ka para bhI khUna baha rahA thA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenjaba siyAra nE itanA sArA tAjA khUna dEkhA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenapanE Apa kO rOka nahIM pA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:9
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenbasa tO basa usa tAjE khUna kA svAda lE cAha thA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenbakarOM para apanA hAtha sAफ़ kara cAha thA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweensiyAra nE Ava dEkhA na tAva aura bakarOM para TUTa paड़A and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:3
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweendOnOM bakarE bahuta tAkatavara thA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenunhOMnE siyAra kI jamakara dhulAI kara dI jisasE siyAra vahI~ para DhEra hO gayA and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:3
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweennaitika zikSA - lAlaca sE prErita hO kOI bhI anAvazyaka kadama nahIM uThA cAhiE and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:1
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweenkOI kadama uThA sE pahalE bhalIbhAMti sOca lE cAha and siyAra kyA dEkha kE apanE Apana kO rOka nahIM pA ?
+
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14Apa
+---------------
+
+
+siyAra kyA karanA cAhatA thA ?
+
+query siyAra kyA kara cAha thA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka dina Eka siyAra kisI gA~va sE gujara rahA thA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra gA~va kE bAjAra kE pAsa lOgOM kI Eka bhIड़ dEkha and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkautUhalavaza siyAra siyAra bhIड़ kE pAsa yaha dEkha gayA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkyA hO rahA hai and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensiyAra nE bhIड़ dEkhA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendO bakarE Apasa mEM laड़AI and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenraha thE and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM hI bakarA kAphI tagaड़E thA isaliE unamE jabaradasta laड़AI hO rahI thI and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensabhI lOga jOra jOra sE cillA rahE thE and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentAlI bajA rahE thE and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweendOnOM bakarA burI taraha sE lahUluhAna hO cukE thE and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweensaड़ka para bhI khUna baha rahA thA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenjaba siyAra nE itanA sArA tAjA khUna dEkhA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenapanE Apa kO rOka nahIM pA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbasa tO basa usa tAjE khUna kA svAda lE cAha thA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenbakarOM para apanA hAtha sAफ़ kara cAha thA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:8
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweensiyAra nE Ava dEkhA na tAva aura bakarOM para TUTa paड़A and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:3
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweendOnOM bakarE bahuta tAkatavara thA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:4
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenunhOMnE siyAra kI jamakara dhulAI kara dI jisasE siyAra vahI~ para DhEra hO gayA and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:7
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweennaitika zikSA - lAlaca sE prErita hO kOI bhI anAvazyaka kadama nahIM uThA cAhiE and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenkOI kadama uThA sE pahalE bhalIbhAMti sOca lE cAha and siyAra kyA kara cAha thA ?
+
+
+
+jaccardscore:2
+old_ep: 16new_ep: 16karanA
+---------------
+
+
+siyAra nE kisakI jamakara dhulAI kI ?
+
+query siyAra nE kisakI jamakara dhulAI kara ?
+TYPE:['special', 'given', 'siyAra nE kisakI jamakara dhulAI ', 0]
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkautUhalavaza siyAra siyAra bhIड़ kE pAsa yaha dEkha gayA and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:1
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweensiyAra nE bhIड़ dEkhA and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendO bakarE Apasa mEM laड़AI and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweensabhI lOga jOra jOra sE cillA rahE thE and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweendOnOM bakarA burI taraha sE lahUluhAna hO cukE thE and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenjaba siyAra nE itanA sArA tAjA khUna dEkhA and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenbasa tO basa usa tAjE khUna kA svAda lE cAha thA and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweensiyAra nE Ava dEkhA na tAva aura bakarOM para TUTa paड़A and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:4
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweentbd and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweennaitika zikSA - lAlaca sE prErita hO kOI bhI anAvazyaka kadama nahIM uThA cAhiE and siyAra nE kisakI jamakara dhulAI 
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6dO bakarE Apasa mEM laड़AI
+---------------
+
+

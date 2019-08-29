@@ -1,0 +1,739 @@
+ciड़iyE kI kyA Adata thI ?
+
+query ciड़iyE kI kyA Adata thA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka ciड़iyA thA ciड़iyA bahuta uca uड़tI and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenidhara udhara cahacahA rahatI and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI isa TahanI para kabhI usa TahanI para phudaka raha para usa ciड़iyA kI Eka Adata thA vaha jO bhI dina mEM usakE sAtha hO acchA yA burA utanA patthara vaha pAsa pOTalI mEM rakha lEtI and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:8
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenakasara una pattharO kO pOTalI sE nikAla and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendEkha acchE pattharO kO dEkha bIta dinOM mEM hO acchI bAtO kO yAda karaka khuza hO and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkharAba pattharO kO dEkha dukhI hO and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenaisA rOज़ kara and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenrOज़ patthara ikaThA kara sE usakI pOTalI dina pratidina bhArI hO jA rahI thI and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenthOड़E dina bAda usE bhara pOTalI kE sAtha uड़nE mEM dikkata hO lagI and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenusE samajha nahIM A rahA thA kI vaha uTha kyOM nahIM pA rahI and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:3
+old_ep: 10new_ep: 3
+
+Jaccard comparison betweenkucha samaya aura bIta and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 3
+
+Jaccard comparison betweenpOTalI aura bhArI hO jA rahI thI and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 3
+
+Jaccard comparison betweenaba tO usakA jamIna para cala bhI muzkila hO rahA thA aura Eka dina aisA A kI vaha khA pI kA iMtaज़Ama bhI nahIM and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:3
+old_ep: 10new_ep: 3
+
+Jaccard comparison betweenpAtI pattharO lE aura pattharO pattharO kE bOjha talE mara gayI and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 3
+
+Jaccard comparison betweennaitika zikSA-dOstOM aisA hI hamArE sAtha hO hai jaba hama purAnI bAtO kI pOTalI hama sAtha rakha hai and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:1
+old_ep: 10new_ep: 3
+
+Jaccard comparison betweenlE vartamAna kA AnaMda lE kI jagaha bhUtakAla kI bAtO kO hI sOca mEM laga rahatE haiM and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:1
+old_ep: 10new_ep: 3
+
+Jaccard comparison betweenisa pala kA Annada lE and ciड़iyE kI kyA Adata thA ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 3akasara una pattharO kO pOTalI sE nikAla
+---------------
+
+
+pOTalI mEM rakhE patthara kO nikalakara kyA karatI thI ?
+
+query pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka ciड़iyA thA ciड़iyA bahuta uca uड़tI and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenidhara udhara cahacahA rahatI and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI isa TahanI para kabhI usa TahanI para phudaka raha para usa ciड़iyA kI Eka Adata thA vaha jO bhI dina mEM usakE sAtha hO acchA yA burA utanA patthara vaha pAsa pOTalI mEM rakha lEtI and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:11
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenakasara una pattharO kO pOTalI sE nikAla and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweendEkha acchE pattharO kO dEkha bIta dinOM mEM hO acchI bAtO kO yAda karaka khuza hO and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:2
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweenkharAba pattharO kO dEkha dukhI hO and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:1
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweenaisA rOज़ kara and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweenrOज़ patthara ikaThA kara sE usakI pOTalI dina pratidina bhArI hO jA rahI thI and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:12
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenthOड़E dina bAda usE bhara pOTalI kE sAtha uड़nE mEM dikkata hO lagI and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:4
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenusE samajha nahIM A rahA thA kI vaha uTha kyOM nahIM pA rahI and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenkucha samaya aura bIta and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenpOTalI aura bhArI hO jA rahI thI and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:5
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenaba tO usakA jamIna para cala bhI muzkila hO rahA thA aura Eka dina aisA A kI vaha khA pI kA iMtaज़Ama bhI nahIM and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenpAtI pattharO lE aura pattharO pattharO kE bOjha talE mara gayI and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweennaitika zikSA-dOstOM aisA hI hamArE sAtha hO hai jaba hama purAnI bAtO kI pOTalI hama sAtha rakha hai and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:7
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenlE vartamAna kA AnaMda lE kI jagaha bhUtakAla kI bAtO kO hI sOca mEM laga rahatE haiM and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:2
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenisa pala kA Annada lE and pOTalI mEM rakha patthara kO nikala kyA kara thI ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8bhArI
+---------------
+
+
+rOja patthara ikkaThA karanE sE pOTalI dina pratidina kyA huA ?
+
+query rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+TYPE:[['time', 'kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka ciड़iyA thA ciड़iyA bahuta uca uड़tI and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenidhara udhara cahacahA rahatI and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI isa TahanI para kabhI usa TahanI para phudaka raha para usa ciड़iyA kI Eka Adata thA vaha jO bhI dina mEM usakE sAtha hO acchA yA burA utanA patthara vaha pAsa pOTalI mEM rakha lEtI and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:13
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenakasara una pattharO kO pOTalI sE nikAla and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweendEkha acchE pattharO kO dEkha bIta dinOM mEM hO acchI bAtO kO yAda karaka khuza hO and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweenkharAba pattharO kO dEkha dukhI hO and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweenaisA rOज़ kara and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweenrOज़ patthara ikaThA kara sE usakI pOTalI dina pratidina bhArI hO jA rahI thI and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:21
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenthOड़E dina bAda usE bhara pOTalI kE sAtha uड़nE mEM dikkata hO lagI and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:10
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenusE samajha nahIM A rahA thA kI vaha uTha kyOM nahIM pA rahI and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenkucha samaya aura bIta and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenpOTalI aura bhArI hO jA rahI thI and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:7
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenaba tO usakA jamIna para cala bhI muzkila hO rahA thA aura Eka dina aisA A kI vaha khA pI kA iMtaज़Ama bhI nahIM and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:7
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenpAtI pattharO lE aura pattharO pattharO kE bOjha talE mara gayI and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweennaitika zikSA-dOstOM aisA hI hamArE sAtha hO hai jaba hama purAnI bAtO kI pOTalI hama sAtha rakha hai and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:7
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenlE vartamAna kA AnaMda lE kI jagaha bhUtakAla kI bAtO kO hI sOca mEM laga rahatE haiM and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenisa pala kA Annada lE and rOja patthara ikkaThA kara sE pOTalI dina pratidina kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8dina pratidina
+---------------
+
+
+bharI pOTalI kE sAtha ciड़iyA kO kyA dikkata huA ?
+
+query bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka ciड़iyA thA ciड़iyA bahuta uca uड़tI and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenidhara udhara cahacahA rahatI and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI isa TahanI para kabhI usa TahanI para phudaka raha para usa ciड़iyA kI Eka Adata thA vaha jO bhI dina mEM usakE sAtha hO acchA yA burA utanA patthara vaha pAsa pOTalI mEM rakha lEtI and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:11
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenakasara una pattharO kO pOTalI sE nikAla and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:4
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweendEkha acchE pattharO kO dEkha bIta dinOM mEM hO acchI bAtO kO yAda karaka khuza hO and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:5
+old_ep: 4new_ep: 3
+
+Jaccard comparison betweenkharAba pattharO kO dEkha dukhI hO and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:5
+old_ep: 6new_ep: 3
+
+Jaccard comparison betweenaisA rOज़ kara and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 3
+
+Jaccard comparison betweenrOज़ patthara ikaThA kara sE usakI pOTalI dina pratidina bhArI hO jA rahI thI and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:7
+old_ep: 6new_ep: 3
+
+Jaccard comparison betweenthOड़E dina bAda usE bhara pOTalI kE sAtha uड़nE mEM dikkata hO lagI and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:13
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenusE samajha nahIM A rahA thA kI vaha uTha kyOM nahIM pA rahI and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenkucha samaya aura bIta and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenpOTalI aura bhArI hO jA rahI thI and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:7
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenaba tO usakA jamIna para cala bhI muzkila hO rahA thA aura Eka dina aisA A kI vaha khA pI kA iMtaज़Ama bhI nahIM and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:4
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenpAtI pattharO lE aura pattharO pattharO kE bOjha talE mara gayI and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweennaitika zikSA-dOstOM aisA hI hamArE sAtha hO hai jaba hama purAnI bAtO kI pOTalI hama sAtha rakha hai and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:8
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenlE vartamAna kA AnaMda lE kI jagaha bhUtakAla kI bAtO kO hI sOca mEM laga rahatE haiM and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:1
+old_ep: 9new_ep: 9
+
+Jaccard comparison betweenisa pala kA Annada lE and bhara pOTalI kE sAtha ciड़iyA kO kyA dikkata hO ?
+
+
+
+jaccardscore:0
+old_ep: 9new_ep: 9dikkata
+---------------
+
+
+jamIna para calanA muzkila hOnE kE bAda kyA huA ?
+
+query jamIna para cala muzkila hO kE bAda kyA hO ?
+MUAHAHA?TYPE:['special', 'given', 'jamIna para cala muzkila hO kE', 0]
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka ciड़iyA thA ciड़iyA bahuta uca uड़tI and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI isa TahanI para kabhI usa TahanI para phudaka raha para usa ciड़iyA kI Eka Adata thA vaha jO bhI dina mEM usakE sAtha hO acchA yA burA utanA patthara vaha pAsa pOTalI mEM rakha lEtI and jamIna para cala muzkila hO kE
+
+
+jaccardscore:5
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenakasara una pattharO kO pOTalI sE nikAla and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweendEkha acchE pattharO kO dEkha bIta dinOM mEM hO acchI bAtO kO yAda karaka khuza hO and jamIna para cala muzkila hO kE
+
+
+jaccardscore:4
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 4new_ep: 4
+
+Jaccard comparison betweenthOड़E dina bAda usE bhara pOTalI kE sAtha uड़nE mEM dikkata hO lagI and jamIna para cala muzkila hO kE
+
+
+jaccardscore:5
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenkucha samaya aura bIta and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenaba tO usakA jamIna para cala bhI muzkila hO rahA thA aura Eka dina aisA A kI vaha khA pI kA iMtaज़Ama bhI nahIM and jamIna para cala muzkila hO kE
+
+
+jaccardscore:17
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14
+
+Jaccard comparison betweentbd and jamIna para cala muzkila hO kE
+
+
+jaccardscore:0
+old_ep: 14new_ep: 14pAtI apanE liE aura apanE pattharO kE bOjha talE mara gayI
+---------------
+
+
+khAnE pInA kA iMtaज़Ama nahIM kara pAnE para kyA huA ?
+
+query khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenEka ciड़iyA thA ciड़iyA bahuta uca uड़tI and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenidhara udhara cahacahA rahatI and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkabhI isa TahanI para kabhI usa TahanI para phudaka raha para usa ciड़iyA kI Eka Adata thA vaha jO bhI dina mEM usakE sAtha hO acchA yA burA utanA patthara vaha pAsa pOTalI mEM rakha lEtI and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:5
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenakasara una pattharO kO pOTalI sE nikAla and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweendEkha acchE pattharO kO dEkha bIta dinOM mEM hO acchI bAtO kO yAda karaka khuza hO and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkharAba pattharO kO dEkha dukhI hO and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 6new_ep: 3
+
+Jaccard comparison betweenaisA rOज़ kara and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 7new_ep: 3
+
+Jaccard comparison betweenrOज़ patthara ikaThA kara sE usakI pOTalI dina pratidina bhArI hO jA rahI thI and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:8
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenthOड़E dina bAda usE bhara pOTalI kE sAtha uड़nE mEM dikkata hO lagI and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenusE samajha nahIM A rahA thA kI vaha uTha kyOM nahIM pA rahI and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:1
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenkucha samaya aura bIta and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenpOTalI aura bhArI hO jA rahI thI and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 8new_ep: 8
+
+Jaccard comparison betweenaba tO usakA jamIna para cala bhI muzkila hO rahA thA aura Eka dina aisA A kI vaha khA pI kA iMtaज़Ama bhI nahIM and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:16
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenpAtI pattharO lE aura pattharO pattharO kE bOjha talE mara gayI and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweennaitika zikSA-dOstOM aisA hI hamArE sAtha hO hai jaba hama purAnI bAtO kI pOTalI hama sAtha rakha hai and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenlE vartamAna kA AnaMda lE kI jagaha bhUtakAla kI bAtO kO hI sOca mEM laga rahatE haiM and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:1
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenisa pala kA Annada lE and khA pI kA iMtaज़Ama nahIM kara pAnE para kyA hO ?
+
+
+
+jaccardscore:1
+old_ep: 13new_ep: 13pAtI pattharO liE aura pattharO pattharO kE bOjha talE mara gayI
+---------------
+
+

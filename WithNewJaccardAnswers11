@@ -1,0 +1,714 @@
+kaunasA samaya thA? 
+
+query kaunasA samaya thA? 
+TYPE:[['time'], 'nounVerbSentence']
+
+Jaccard comparison betweengarmiyOM kE dina thA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka kauvA bahuta pyAsA thA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkauvA pAnI kI talAza mEM idhara - udhara uड़tA phirA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpAnI kahIM pAnI nahIM milA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkAphI dEra kE bAda usE Eka ghaड़A dikhA diyA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusamE bahuta kama pAnI thA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkauvA kI cOMca pAnI taka nahIM pahu~ca sakatI thI and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkauvA kO Eka upAya sujhA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvaha Eka-Eka and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpatthara uThA lA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhEM ghaड़E mEM dAla dE and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenpAnI Upara A gayA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkauvA nE pAnI piyA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkhuza hO uड़ gayA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkauvA kauvA bahuta catura thA and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA- buddhimAnI sE sabhI kAma bana jAtE haiM and kaunasA samaya thA? 
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1garmiyOM dina
+---------------
+
+
+kauvE kO kyA laga rahA thA ?
+
+query kauvA kO kyA laga rahA thA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweengarmiyOM kE dina thA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka kauvA bahuta pyAsA thA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:7
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA pAnI kI talAza mEM idhara - udhara uड़tA phirA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenpAnI kahIM pAnI nahIM milA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkAphI dEra kE bAda usE Eka ghaड़A dikhA diyA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenusamE bahuta kama pAnI thA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA kI cOMca pAnI taka nahIM pahu~ca sakatI thI and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA kO Eka upAya sujhA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:4
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenvaha Eka-Eka and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenpatthara uThA lA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenunhEM ghaड़E mEM dAla dE and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenpAnI Upara A gayA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA nE pAnI piyA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkhuza hO uड़ gayA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA kauvA bahuta catura thA and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:7
+old_ep: 15new_ep: 15
+
+Jaccard comparison betweennaitika zikSA- buddhimAnI sE sabhI kAma bana jAtE haiM and kauvA kO kyA laga rahA thA ?
+
+
+
+jaccardscore:0
+old_ep: 15new_ep: 15catura
+---------------
+
+
+kauvE kO kyA dikhAI diyA ?
+
+query kauvA kO kyA dikhA diyA ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweengarmiyOM kE dina thA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka kauvA bahuta pyAsA thA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA pAnI kI talAza mEM idhara - udhara uड़tA phirA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenpAnI kahIM pAnI nahIM milA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkAphI dEra kE bAda usE Eka ghaड़A dikhA diyA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:6
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenusamE bahuta kama pAnI thA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkauvA kI cOMca pAnI taka nahIM pahu~ca sakatI thI and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:3
+old_ep: 5new_ep: 5
+
+Jaccard comparison betweenkauvA kO Eka upAya sujhA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:4
+old_ep: 8new_ep: 5
+
+Jaccard comparison betweenvaha Eka-Eka and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 5
+
+Jaccard comparison betweenpatthara uThA lA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 5
+
+Jaccard comparison betweenunhEM ghaड़E mEM dAla dE and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 5
+
+Jaccard comparison betweenpAnI Upara A gayA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 5
+
+Jaccard comparison betweenkauvA nE pAnI piyA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 5
+
+Jaccard comparison betweenkhuza hO uड़ gayA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 5
+
+Jaccard comparison betweenkauvA kauvA bahuta catura thA and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:3
+old_ep: 8new_ep: 5
+
+Jaccard comparison betweennaitika zikSA- buddhimAnI sE sabhI kAma bana jAtE haiM and kauvA kO kyA dikhA diyA ?
+
+
+
+jaccardscore:0
+old_ep: 8new_ep: 5ghaड़A
+---------------
+
+
+kauvE nE ghaड़E mEM kyA DAlA  ?
+
+query kauvA nE ghaड़E mEM kyA DAla  ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweengarmiyOM kE dina thA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka kauvA bahuta pyAsA thA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA pAnI kI talAza mEM idhara - udhara uड़tA phirA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:2
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenpAnI kahIM pAnI nahIM milA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenkAphI dEra kE bAda usE Eka ghaड़A dikhA diyA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenusamE bahuta kama pAnI thA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenkauvA kI cOMca pAnI taka nahIM pahu~ca sakatI thI and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenkauvA kO Eka upAya sujhA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenvaha Eka-Eka and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenpatthara uThA lA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 2
+
+Jaccard comparison betweenunhEM ghaड़E mEM dAla dE and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:4
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenpAnI Upara A gayA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenkauvA nE pAnI piyA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:4
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenkhuza hO uड़ gayA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenkauvA kauvA bahuta catura thA and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:3
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweennaitika zikSA- buddhimAnI sE sabhI kAma bana jAtE haiM and kauvA nE ghaड़E mEM kyA DAla  ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13pAnI
+---------------
+
+
+kauvA pAnI pI kara kyA huA ?
+
+query kauvA pAnI pI kara kyA hO ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweengarmiyOM kE dina thA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka kauvA bahuta pyAsA thA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA pAnI kI talAza mEM idhara - udhara uड़tA phirA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenpAnI kahIM pAnI nahIM milA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkAphI dEra kE bAda usE Eka ghaड़A dikhA diyA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenusamE bahuta kama pAnI thA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkauvA kI cOMca pAnI taka nahIM pahu~ca sakatI thI and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:6
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenkauvA kO Eka upAya sujhA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenvaha Eka-Eka and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenpatthara uThA lA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenunhEM ghaड़E mEM dAla dE and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenpAnI Upara A gayA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 7new_ep: 7
+
+Jaccard comparison betweenkauvA nE pAnI piyA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:6
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenkhuza hO uड़ gayA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:4
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenkauvA kauvA bahuta catura thA and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:3
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweennaitika zikSA- buddhimAnI sE sabhI kAma bana jAtE haiM and kauvA pAnI pI kara kyA hO ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13pAnI
+---------------
+
+
+kauvA kisakE talAza mEM uड़tA phirA?
+
+query kauvA kisakE talAza mEM uड़tA phirA?
+TYPE:[['Karta'], 'nounVerbSentence']
+
+Jaccard comparison betweengarmiyOM kE dina thA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka kauvA bahuta pyAsA thA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:3
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkauvA pAnI kI talAza mEM idhara - udhara uड़tA phirA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:9
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenpAnI kahIM pAnI nahIM milA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkAphI dEra kE bAda usE Eka ghaड़A dikhA diyA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenusamE bahuta kama pAnI thA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkauvA kI cOMca pAnI taka nahIM pahu~ca sakatI thI and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkauvA kO Eka upAya sujhA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenvaha Eka-Eka and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenpatthara uThA lA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenunhEM ghaड़E mEM dAla dE and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenpAnI Upara A gayA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkauvA nE pAnI piyA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkhuza hO uड़ gayA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenkauvA kauvA bahuta catura thA and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:3
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweennaitika zikSA- buddhimAnI sE sabhI kAma bana jAtE haiM and kauvA kisakE talAza mEM uड़tA phirA?
+
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3 vaha pAnI kI talAza mEM idhara - udhara uड़tA phirA 
+---------------
+
+

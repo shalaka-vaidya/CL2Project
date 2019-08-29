@@ -1,0 +1,715 @@
+vEda garmI kI chuTTI mEM kahA~ jAtA hai ?
+
+query vEda garmI kI chuTTI mEM kahA~ jA hai ?
+TYPE:[['location'], 'nounVerbSentence']
+
+Jaccard comparison betweenvEda garmI ki chuTTI mEM nAnI nAnI kE ghara jA hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:16
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenchuTTI vEda kO khUba maज़A A hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:8
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennAnI kE Ama kE bagIcA hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvahAM vEda DhEra sArE Ama khatA hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkhEla hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusakE pAMca dOsta bhI hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhEM vEda Ama nahIM khila hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenEka dina kI bAta hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvEda kO khEla khEla cOTa laga gaI and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvEda kE dOstOM nE vEda kO uThA ghara pahu~cA and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusakI mammI sE usakE cOTa laga kI bAta batA and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenisa para vEda kO mAliza kara gayA and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenmammI nE una dOstOM kO dhanyavAda kara and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunhEM DhEra sArE Ama khilA and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvEda jaba ThIka hO and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusE dOsta kA mahatva samajha mEM A gayA thA and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenaba b unakE sAtha khEla and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkhUba Ama khatA thA and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennaitika zikSA- dOsta sukha-duHkha kE sAthI hO hai and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenunasE pyAra kara cAha kaI bAta chupA nahIM cAha and vEda garmI kI chuTTI mEM kahA~ jA hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1 chuTTI mEM
+---------------
+
+
+vEda kE kitanE dOsta hai ?
+
+query vEda kE kitanE dOsta hai ?
+TYPE:[['intf', 'dOsta'], 'nounVerbSentence']
+
+Jaccard comparison betweenvEda garmI ki chuTTI mEM nAnI nAnI kE ghara jA hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:6
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenchuTTI vEda kO khUba maज़A A hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweennAnI kE Ama kE bagIcA hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenvahAM vEda DhEra sArE Ama khatA hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenkhEla hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenusakE pAMca dOsta bhI hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:7
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenunhEM vEda Ama nahIM khila hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:5
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenEka dina kI bAta hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenvEda kO khEla khEla cOTa laga gaI and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenvEda kE dOstOM nE vEda kO uThA ghara pahu~cA and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:4
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenusakI mammI sE usakE cOTa laga kI bAta batA and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenisa para vEda kO mAliza kara gayA and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenmammI nE una dOstOM kO dhanyavAda kara and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenunhEM DhEra sArE Ama khilA and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenvEda jaba ThIka hO and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenusE dOsta kA mahatva samajha mEM A gayA thA and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenaba b unakE sAtha khEla and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenkhUba Ama khatA thA and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweennaitika zikSA- dOsta sukha-duHkha kE sAthI hO hai and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:4
+old_ep: 19new_ep: 6
+
+Jaccard comparison betweenunasE pyAra kara cAha kaI bAta chupA nahIM cAha and vEda kE kitanE dOsta hai ?
+
+
+
+jaccardscore:0
+old_ep: 19new_ep: 6pAMca
+---------------
+
+
+vEda kE dOstOM nE kyA kiyA ?
+
+query vEda kE dOsta nE kyA kara ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenvEda garmI ki chuTTI mEM nAnI nAnI kE ghara jA hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:2
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenchuTTI vEda kO khUba maज़A A hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweennAnI kE Ama kE bagIcA hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweenvahAM vEda DhEra sArE Ama khatA hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:1
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweenkhEla hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 2
+
+Jaccard comparison betweenusakE pAMca dOsta bhI hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenunhEM vEda Ama nahIM khila hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenEka dina kI bAta hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenvEda kO khEla khEla cOTa laga gaI and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 1new_ep: 6
+
+Jaccard comparison betweenvEda kE dOstOM nE vEda kO uThA ghara pahu~cA and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:5
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenusakI mammI sE usakE cOTa laga kI bAta batA and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 10
+
+Jaccard comparison betweenisa para vEda kO mAliza kara gayA and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:7
+old_ep: 10new_ep: 12
+
+Jaccard comparison betweenmammI nE una dOstOM kO dhanyavAda kara and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:5
+old_ep: 10new_ep: 12
+
+Jaccard comparison betweenunhEM DhEra sArE Ama khilA and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 12
+
+Jaccard comparison betweenvEda jaba ThIka hO and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 10new_ep: 12
+
+Jaccard comparison betweenusE dOsta kA mahatva samajha mEM A gayA thA and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:3
+old_ep: 10new_ep: 12
+
+Jaccard comparison betweenaba b unakE sAtha khEla and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 12
+
+Jaccard comparison betweenkhUba Ama khatA thA and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:0
+old_ep: 10new_ep: 12
+
+Jaccard comparison betweennaitika zikSA- dOsta sukha-duHkha kE sAthI hO hai and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:2
+old_ep: 10new_ep: 12
+
+Jaccard comparison betweenunasE pyAra kara cAha kaI bAta chupA nahIM cAha and vEda kE dOsta nE kyA kara ?
+
+
+
+jaccardscore:4
+old_ep: 10new_ep: 12mAliza
+---------------
+
+
+mammI nE dOstOM kO kyA diyA ?
+
+query mammI nE dOsta kO kyA dE ?
+TYPE:[['kya'], 'nounVerbSentence']
+
+Jaccard comparison betweenvEda garmI ki chuTTI mEM nAnI nAnI kE ghara jA hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenchuTTI vEda kO khUba maज़A A hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:1
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweennAnI kE Ama kE bagIcA hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenvahAM vEda DhEra sArE Ama khatA hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenkhEla hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 2new_ep: 2
+
+Jaccard comparison betweenusakE pAMca dOsta bhI hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenunhEM vEda Ama nahIM khila hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenEka dina kI bAta hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenvEda kO khEla khEla cOTa laga gaI and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:1
+old_ep: 6new_ep: 6
+
+Jaccard comparison betweenvEda kE dOstOM nE vEda kO uThA ghara pahu~cA and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:2
+old_ep: 10new_ep: 6
+
+Jaccard comparison betweenusakI mammI sE usakE cOTa laga kI bAta batA and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 10new_ep: 6
+
+Jaccard comparison betweenisa para vEda kO mAliza kara gayA and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:1
+old_ep: 10new_ep: 6
+
+Jaccard comparison betweenmammI nE una dOstOM kO dhanyavAda kara and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:5
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenunhEM DhEra sArE Ama khilA and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenvEda jaba ThIka hO and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenusE dOsta kA mahatva samajha mEM A gayA thA and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:3
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenaba b unakE sAtha khEla and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenkhUba Ama khatA thA and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweennaitika zikSA- dOsta sukha-duHkha kE sAthI hO hai and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:1
+old_ep: 13new_ep: 13
+
+Jaccard comparison betweenunasE pyAra kara cAha kaI bAta chupA nahIM cAha and mammI nE dOsta kO kyA dE ?
+
+
+
+jaccardscore:0
+old_ep: 13new_ep: 13dhanyavAda
+---------------
+
+
+vEda kO ThIka hOnE kE bAda kyA samajha mEM AyA ?
+
+query vEda kO ThIka hO kE bAda kyA samajha mEM A ?
+MUAHAHA?TYPE:['special', 'given', 'vEda kO ThIka hO kE', 0]
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 1new_ep: 1
+
+Jaccard comparison betweenchuTTI vEda kO khUba maज़A A hai and vEda kO ThIka hO kE
+
+
+jaccardscore:4
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenvahAM vEda DhEra sArE Ama khatA hai and vEda kO ThIka hO kE
+
+
+jaccardscore:1
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenusakE pAMca dOsta bhI hai and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenEka dina kI bAta hai and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 3new_ep: 3
+
+Jaccard comparison betweenvEda kE dOstOM nE vEda kO uThA ghara pahu~cA and vEda kO ThIka hO kE
+
+
+jaccardscore:5
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenusakI mammI sE usakE cOTa laga kI bAta batA and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenmammI nE una dOstOM kO dhanyavAda kara and vEda kO ThIka hO kE
+
+
+jaccardscore:1
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 11new_ep: 11
+
+Jaccard comparison betweenvEda jaba ThIka hO and vEda kO ThIka hO kE
+
+
+jaccardscore:12
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweenaba b unakE sAtha khEla and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16
+
+Jaccard comparison betweentbd and vEda kO ThIka hO kE
+
+
+jaccardscore:0
+old_ep: 16new_ep: 16usE dOsta kA mahatva samajha mEM A gayA thA 
+---------------
+
+
